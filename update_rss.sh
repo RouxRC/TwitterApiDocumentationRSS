@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd $(echo $0 | sed 's#/[^/]*##')
+cd $(echo $0 | sed 's#/[^/]*$##')
 
 touch twitter-api-rss.xml last.html
 curl -s "https://dev.twitter.com/docs/recent" > recent.html
