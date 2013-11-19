@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 19 Nov 2013 21:45:03 +0100</pubDate>
+  <pubDate>Tue, 19 Nov 2013 22:00:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Calendar of API changes</title>
+   <link>https://dev.twitter.com/calendar</link>
+   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
+   <pubDate>Tue, 19 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Tweet Button</title>
    <link>https://dev.twitter.com/docs/tweet-button</link>
@@ -89,12 +95,6 @@
    <link>https://dev.twitter.com/docs/platform-objects/entities</link>
    <description><![CDATA[Entities provide metadata and additional contextual information about content posted on Twitter. Entities are never divorced from the content they describe. In API v1.1, entities will be returned wherever Tweets are found in the API. Entities are instrumental in resolving URLs. Field Guide...]]></description>
    <pubDate>Fri, 01 Nov 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Calendar of API changes</title>
-   <link>https://dev.twitter.com/calendar</link>
-   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
-   <pubDate>Wed, 30 Oct 2013 00:00:00 +0100</pubDate>
   </item>
   <item>
    <title>Entities in Twitter Objects</title>
