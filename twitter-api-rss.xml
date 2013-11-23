@@ -4,7 +4,127 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sat, 23 Nov 2013 12:00:41 +0100</pubDate>
+  <pubDate>Sat, 23 Nov 2013 13:15:06 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Twitter Libraries</title>
+   <link>https://dev.twitter.com/docs/twitter-libraries</link>
+   <description><![CDATA[These libraries, while not necessarily tested by Twitter, should support Twitter API v1.1. Want your library to be included in this index or need to update the details we have? Submit your library for inclusion! Libraries built and maintained by Twitter Java hbc &mdash; A Java HTTP client for...]]></description>
+   <pubDate>Fri, 22 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Calendar of API changes</title>
+   <link>https://dev.twitter.com/calendar</link>
+   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
+   <pubDate>Tue, 19 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Tweet Button</title>
+   <link>https://dev.twitter.com/docs/tweet-button</link>
+   <description><![CDATA[By using the Tweet Button, you agree to the Developer Rules of the Road. Overview The Tweet Button is a small widget which allows users to easily share your website with their followers. This page is for developers and users who wish to build their own Tweet Buttons. If you are looking for a...]]></description>
+   <pubDate>Tue, 19 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Error Codes &amp; Responses</title>
+   <link>https://dev.twitter.com/docs/error-codes-responses</link>
+   <description><![CDATA[HTTP Status Codes The Twitter API attempts to return appropriate HTTP status codes for every request. It is possible to suppress response codes for the REST API. Code Text Description 200 OK Success...]]></description>
+   <pubDate>Fri, 15 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Cards Markup Tag Reference</title>
+   <link>https://dev.twitter.com/docs/cards/markup-reference</link>
+   <description><![CDATA[The table in this section explains the OpenGraph fallback behavior for each Twitter tag. Overview of all Twitter Card Tags Property Card Value OpenGraph Fallback twitter:card all summary,...]]></description>
+   <pubDate>Thu, 14 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Certified Products</title>
+   <link>https://dev.twitter.com/programs/twitter-certified-products/products</link>
+   <description><![CDATA[English | 日本語 Certified Products Product Description Badge Adobe Social Adobe Social connects the dots between social interactions and business results, enabling marketers to demonstrate social impact at every stage of the...]]></description>
+   <pubDate>Wed, 13 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Custom Timelines</title>
+   <link>https://dev.twitter.com/docs/custom-timelines</link>
+   <description><![CDATA[Custom timelines give you more control over how Tweets are organized and delivered on the Twitter platform. Twitter has typically been organized into a few standard timelines: home contains Tweets from accounts you follow, search contains Tweets that match a keyword or term, the user timeline...]]></description>
+   <pubDate>Tue, 12 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Embedded Timelines</title>
+   <link>https://dev.twitter.com/docs/embedded-timelines</link>
+   <description><![CDATA[English | 日本語 Overview Embeddable timelines make it easy to syndicate any public Twitter timeline to your website with one line of code. Just like timelines on twitter.com, embeddable timelines are interactive and enable your visitors to reply, Retweet, and favorite Tweets directly from your...]]></description>
+   <pubDate>Tue, 12 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Tweet Button FAQ</title>
+   <link>https://dev.twitter.com/docs/tweet-button/faq</link>
+   <description><![CDATA[Which browsers does the Tweet Button support? Does the Tweet Button support other languages? What are the dimensions of the Tweet Button? What happens if twitter.com has an error or is over capacity? I want to use multiple Tweet Buttons on my page. Is there anything I should know? Can I...]]></description>
+   <pubDate>Mon, 11 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Troubleshooting &amp; FAQ</title>
+   <link>https://dev.twitter.com/docs/cards/troubleshooting</link>
+   <description><![CDATA[We created this troubleshooting guide to help you identify and resolve commonly encountered issues during Cards development. We've tried to make this guide as useful and comprehensive as possible. If there's something wrong, or you feel something should be added, please reach out to us via the...]]></description>
+   <pubDate>Thu, 07 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Getting Started</title>
+   <link>https://dev.twitter.com/docs/cards/getting-started</link>
+   <description><![CDATA[Getting Started with Cards Card and Content Attribution URL Crawling &amp; Caching Multiple URLs in a Tweet Twitter Cards and Open Graph Getting Started with Cards To get started with implementing the Cards markup, you'll want to specify the type of card for your content by adding...]]></description>
+   <pubDate>Tue, 05 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Streaming message types</title>
+   <link>https://dev.twitter.com/docs/streaming-apis/messages</link>
+   <description><![CDATA[Public stream messages Blank lines Status deletion notices (delete) Location deletion notices (scrub_geo) Limit notices (limit) Withheld content notices (status_withheld, user_withheld) Disconnect messages (disconnect) Stall warnings (warning) User stream messages Friends lists (...]]></description>
+   <pubDate>Tue, 05 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>CMS Integration Guide</title>
+   <link>https://dev.twitter.com/docs/cards/twitter-cards-for-cms-wordpress-blogger-tumblr</link>
+   <description><![CDATA[This page provides tips for integrating Twitter Cards into common CMS systems. If you have feedback or additional references we should add, please tell us in the forums. Thanks! Wordpress Site, Self-Hosted or Third-Party Hosted JM Twitter Cards Plugin Yoast SEO Plugin Wordpress Site,...]]></description>
+   <pubDate>Tue, 05 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Twitter Cards</title>
+   <link>https://dev.twitter.com/docs/cards</link>
+   <description><![CDATA[Introduction Twitter cards make it possible for you to attach media experiences to Tweets that link to your content. Simply add a few lines of HTML to your webpages, and users who Tweet links to your content will have a "card" added to the Tweet that’s visible to all of their followers....]]></description>
+   <pubDate>Mon, 04 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>App Installs and Deep-Linking</title>
+   <link>https://dev.twitter.com/docs/cards/app-installs-and-deep-linking</link>
+   <description><![CDATA[Introduction One of the most important features in the new Cards is the ability to allow users to download your app (if the user doesn't already have it installed), or deep-link into your own app (if the app is already installed on the user's mobile device). The ability to enable app installs...]]></description>
+   <pubDate>Sun, 03 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Entities</title>
+   <link>https://dev.twitter.com/docs/platform-objects/entities</link>
+   <description><![CDATA[Entities provide metadata and additional contextual information about content posted on Twitter. Entities are never divorced from the content they describe. In API v1.1, entities will be returned wherever Tweets are found in the API. Entities are instrumental in resolving URLs. Field Guide...]]></description>
+   <pubDate>Fri, 01 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Entities in Twitter Objects</title>
+   <link>https://dev.twitter.com/docs/entities</link>
+   <description><![CDATA[See also Entities from the Field Guide. Entities for Tweets Entities for Retweets Entities for Users Entities for Tweets Entities provide structured data from Tweets including resolved URLs, media, hashtags and mentions without having to parse the text to extract that information....]]></description>
+   <pubDate>Wed, 30 Oct 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Embedded Tweets</title>
+   <link>https://dev.twitter.com/docs/embedded-tweets</link>
+   <description><![CDATA[English | 日本語 Overview Embedded Tweets make it possible for you take any Tweet and embed it directly in to the content of your article or website. Tweets display with expanded media like photos, videos, and article summaries, and also include real-time retweet and favorite counts. When...]]></description>
+   <pubDate>Tue, 29 Oct 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>埋め込みツイート</title>
+   <link>https://dev.twitter.com/ja/docs/embedded-tweets</link>
+   <description><![CDATA[English | 日本語 概要 埋め込みツイートを使うと、自分の記事やウェブサイトのコンテンツにツイートを埋め込むことができます。ツイートは写真、ビデオ、記事の概要などの追加メディアと一緒に埋め込まれ、リツイートやお気に入り登録の件数などもリアルタイムで表示されます。埋め込みツイートはインタラクティブに操作でき、埋め込みツイートを読んだユーザーは、ツイートしたユーザーのフォロー、返信、リツイート、お気に入り登録を、ページ上で直接行うことができます。 このドキュメントでは、自分のウェブサイトで埋め込みツイートを使う方法と、...]]></description>
+   <pubDate>Tue, 29 Oct 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Developer Display Requirements</title>
+   <link>https://dev.twitter.com/terms/display-requirements</link>
+   <description><![CDATA[Introduction The power of Twitter is in the network of people using it, and its ability to bring users closer to what's most meaningful to them. When we first launched, Tweets were simple 140 character updates. However, as Twitter evolved, so too has the way that users view and interact with...]]></description>
+   <pubDate>Tue, 29 Oct 2013 00:00:00 +0100</pubDate>
+  </item>
  </channel>
 </rss>
