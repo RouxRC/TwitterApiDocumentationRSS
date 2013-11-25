@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 25 Nov 2013 21:15:02 +0100</pubDate>
+  <pubDate>Mon, 25 Nov 2013 22:15:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Error Codes &amp; Responses</title>
+   <link>https://dev.twitter.com/docs/error-codes-responses</link>
+   <description><![CDATA[HTTP Status Codes The Twitter API attempts to return appropriate HTTP status codes for every request. It is possible to suppress response codes for the REST API. Code Text Description 200 OK Success...]]></description>
+   <pubDate>Mon, 25 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Integrating with Twitter on iOS</title>
    <link>https://dev.twitter.com/docs/ios</link>
@@ -29,12 +35,6 @@
    <link>https://dev.twitter.com/docs/tweet-button</link>
    <description><![CDATA[By using the Tweet Button, you agree to the Developer Rules of the Road. Overview The Tweet Button is a small widget which allows users to easily share your website with their followers. This page is for developers and users who wish to build their own Tweet Buttons. If you are looking for a...]]></description>
    <pubDate>Tue, 19 Nov 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Error Codes &amp; Responses</title>
-   <link>https://dev.twitter.com/docs/error-codes-responses</link>
-   <description><![CDATA[HTTP Status Codes The Twitter API attempts to return appropriate HTTP status codes for every request. It is possible to suppress response codes for the REST API. Code Text Description 200 OK Success...]]></description>
-   <pubDate>Fri, 15 Nov 2013 00:00:00 +0100</pubDate>
   </item>
   <item>
    <title>Cards Markup Tag Reference</title>
