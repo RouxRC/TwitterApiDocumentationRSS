@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 25 Nov 2013 19:30:03 +0100</pubDate>
+  <pubDate>Mon, 25 Nov 2013 20:45:05 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Integrating with Twitter on iOS</title>
+   <link>https://dev.twitter.com/docs/ios</link>
+   <description><![CDATA[The official iOS SDK includes a framework that enables your iOS applications to leverage the power of Twitter. This framework removes many of the common obstacles encountered when accessing Twitter's API, including authentication and Tweet composition, and allows developers to focus on more...]]></description>
+   <pubDate>Mon, 25 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Calendar of API changes</title>
    <link>https://dev.twitter.com/calendar</link>
@@ -118,12 +124,6 @@
    <title>埋め込みツイート</title>
    <link>https://dev.twitter.com/ja/docs/embedded-tweets</link>
    <description><![CDATA[English | 日本語 概要 埋め込みツイートを使うと、自分の記事やウェブサイトのコンテンツにツイートを埋め込むことができます。ツイートは写真、ビデオ、記事の概要などの追加メディアと一緒に埋め込まれ、リツイートやお気に入り登録の件数などもリアルタイムで表示されます。埋め込みツイートはインタラクティブに操作でき、埋め込みツイートを読んだユーザーは、ツイートしたユーザーのフォロー、返信、リツイート、お気に入り登録を、ページ上で直接行うことができます。 このドキュメントでは、自分のウェブサイトで埋め込みツイートを使う方法と、...]]></description>
-   <pubDate>Tue, 29 Oct 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Developer Display Requirements</title>
-   <link>https://dev.twitter.com/terms/display-requirements</link>
-   <description><![CDATA[Introduction The power of Twitter is in the network of people using it, and its ability to bring users closer to what's most meaningful to them. When we first launched, Tweets were simple 140 character updates. However, as Twitter evolved, so too has the way that users view and interact with...]]></description>
    <pubDate>Tue, 29 Oct 2013 00:00:00 +0100</pubDate>
   </item>
  </channel>
