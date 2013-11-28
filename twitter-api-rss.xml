@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 27 Nov 2013 23:00:04 +0100</pubDate>
+  <pubDate>Thu, 28 Nov 2013 18:45:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Twitter Libraries</title>
+   <link>https://dev.twitter.com/docs/twitter-libraries</link>
+   <description><![CDATA[These libraries, while not necessarily tested by Twitter, should support Twitter API v1.1. Want your library to be included in this index or need to update the details we have? Submit your library for inclusion! Libraries built and maintained by Twitter Java hbc &mdash; A Java HTTP client for...]]></description>
+   <pubDate>Thu, 28 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Error Codes &amp; Responses</title>
    <link>https://dev.twitter.com/docs/error-codes-responses</link>
@@ -23,12 +29,6 @@
    <link>https://dev.twitter.com/calendar</link>
    <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
    <pubDate>Mon, 25 Nov 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Twitter Libraries</title>
-   <link>https://dev.twitter.com/docs/twitter-libraries</link>
-   <description><![CDATA[These libraries, while not necessarily tested by Twitter, should support Twitter API v1.1. Want your library to be included in this index or need to update the details we have? Submit your library for inclusion! Libraries built and maintained by Twitter Java hbc &mdash; A Java HTTP client for...]]></description>
-   <pubDate>Fri, 22 Nov 2013 00:00:00 +0100</pubDate>
   </item>
   <item>
    <title>Tweet Button</title>
