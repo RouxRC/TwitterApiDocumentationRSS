@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 28 Nov 2013 18:45:02 +0100</pubDate>
+  <pubDate>Thu, 28 Nov 2013 19:15:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Calendar of API changes</title>
+   <link>https://dev.twitter.com/calendar</link>
+   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
+   <pubDate>Thu, 28 Nov 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Twitter Libraries</title>
    <link>https://dev.twitter.com/docs/twitter-libraries</link>
@@ -22,12 +28,6 @@
    <title>Integrating with Twitter on iOS</title>
    <link>https://dev.twitter.com/docs/ios</link>
    <description><![CDATA[The official iOS SDK includes a framework that enables your iOS applications to leverage the power of Twitter. This framework removes many of the common obstacles encountered when accessing Twitter's API, including authentication and Tweet composition, and allows developers to focus on more...]]></description>
-   <pubDate>Mon, 25 Nov 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Calendar of API changes</title>
-   <link>https://dev.twitter.com/calendar</link>
-   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
    <pubDate>Mon, 25 Nov 2013 00:00:00 +0100</pubDate>
   </item>
   <item>
