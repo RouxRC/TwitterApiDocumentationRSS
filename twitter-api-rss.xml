@@ -4,12 +4,18 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 02 Dec 2013 06:15:03 +0100</pubDate>
+  <pubDate>Mon, 02 Dec 2013 06:30:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>POST statuses/update_with_media</title>
+   <link>https://dev.twitter.com/docs/api/1.1/post/statuses/update_with_media</link>
+   <description><![CDATA[Updates the authenticating user's current status and attaches media for upload. In other words, it creates a Tweet with a picture attached. Unlike POST statuses/update, this method expects raw multipart data. Your POST request's Content-Type should be set to multipart/form-data with the media[]...]]></description>
+   <pubDate>Sun, 01 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>CMS Integration Guide</title>
    <link>https://dev.twitter.com/docs/cards/twitter-cards-for-cms-wordpress-blogger-tumblr</link>
-   <description><![CDATA[This page provides tips for integrating Twitter Cards into common CMS systems. If you have feedback or additional references we should add, please tell us in the forums. Thanks! Wordpress Site, Self-Hosted or Third-Party Hosted Jetpack Plugin JM Twitter Cards Plugin Yoast SEO Plugin...]]></description>
+   <description><![CDATA[This page provides tips for integrating Twitter Cards into popular CMS systems like Wordpress, Tumblr and Blogger. If you have feedback or additional references we should add, please tell us in the forums. Thanks! Wordpress Site, Self-Hosted or Third-Party Hosted Jetpack Plugin JM Twitter...]]></description>
    <pubDate>Sun, 01 Dec 2013 00:00:00 +0100</pubDate>
   </item>
   <item>
@@ -118,12 +124,6 @@
    <title>Embedded Tweets</title>
    <link>https://dev.twitter.com/docs/embedded-tweets</link>
    <description><![CDATA[English | 日本語 Overview Embedded Tweets make it possible for you take any Tweet and embed it directly in to the content of your article or website. Tweets display with expanded media like photos, videos, and article summaries, and also include real-time retweet and favorite counts. When...]]></description>
-   <pubDate>Tue, 29 Oct 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>埋め込みツイート</title>
-   <link>https://dev.twitter.com/ja/docs/embedded-tweets</link>
-   <description><![CDATA[English | 日本語 概要 埋め込みツイートを使うと、自分の記事やウェブサイトのコンテンツにツイートを埋め込むことができます。ツイートは写真、ビデオ、記事の概要などの追加メディアと一緒に埋め込まれ、リツイートやお気に入り登録の件数などもリアルタイムで表示されます。埋め込みツイートはインタラクティブに操作でき、埋め込みツイートを読んだユーザーは、ツイートしたユーザーのフォロー、返信、リツイート、お気に入り登録を、ページ上で直接行うことができます。 このドキュメントでは、自分のウェブサイトで埋め込みツイートを使う方法と、...]]></description>
    <pubDate>Tue, 29 Oct 2013 00:00:00 +0100</pubDate>
   </item>
  </channel>

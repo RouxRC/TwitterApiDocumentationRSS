@@ -51,7 +51,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
          name="op"
          type="submit"
          value="Search"  />
-<input type="hidden" name="form_build_id" id="form-01bc02dd948344066873dc2bf8d7d0c9" value="form-01bc02dd948344066873dc2bf8d7d0c9"  />
+<input type="hidden" name="form_build_id" id="form-a8cb36931662d794955a65858b7ad176" value="form-a8cb36931662d794955a65858b7ad176"  />
 <input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
 
 </form>
@@ -77,11 +77,19 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
           </tr>
   </thead>
   <tbody>
-          <tr class="odd views-row-first views-row-last">
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-title">
+            <a href="/docs/api/1.1/post/statuses/update_with_media">POST statuses/update_with_media</a>          </td>
+                  <td class="views-field views-field-body">
+            Updates the authenticating user's current status and attaches media for upload. In other words, it creates a Tweet with a picture attached.
+
+Unlike POST statuses/update, this method expects raw multipart data. Your POST request's Content-Type should be set to multipart/form-data with the media[]...          </td>
+              </tr>
+          <tr class="even views-row-last">
                   <td class="views-field views-field-title">
             <a href="/docs/cards/twitter-cards-for-cms-wordpress-blogger-tumblr">CMS Integration Guide</a>          </td>
                   <td class="views-field views-field-body">
-            This page provides tips for integrating Twitter Cards into common CMS systems. If you have feedback or additional references we should add, please tell us in the forums. Thanks!
+            This page provides tips for integrating Twitter Cards into popular CMS systems like Wordpress, Tumblr and Blogger. If you have feedback or additional references we should add, please tell us in the forums. Thanks!
 
 
 
@@ -90,8 +98,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 	Wordpress Site, Self-Hosted or Third-Party Hosted
 
 	Jetpack Plugin
-	JM Twitter Cards Plugin
-	Yoast SEO Plugin...          </td>
+	JM Twitter...          </td>
               </tr>
       </tbody>
 </table>
@@ -106,7 +113,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
           </tr>
   </thead>
   <tbody>
-          <tr class="odd">
+          <tr class="odd views-row-last">
                   <td class="views-field views-field-title">
             <a href="/calendar">Calendar of API changes</a>          </td>
                   <td class="views-field views-field-body">
@@ -114,7 +121,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 
 Upcoming changes...          </td>
               </tr>
-          <tr class="even views-row-last">
+          <tr class="even">
                   <td class="views-field views-field-title">
             <a href="/docs/twitter-libraries">Twitter Libraries</a>          </td>
                   <td class="views-field views-field-body">
@@ -530,19 +537,6 @@ Entities provide structured data from Tweets including resolved URLs, media, has
   Overview
 
 Embedded Tweets make it possible for you take any Tweet and embed it directly in to the content of your article or website.  Tweets display with expanded media like photos, videos, and article summaries, and also include real-time retweet and favorite counts.  When...          </td>
-              </tr>
-          <tr class="even">
-                  <td class="views-field views-field-title">
-            <a href="/ja/docs/embedded-tweets">埋め込みツイート</a>          </td>
-                  <td class="views-field views-field-body">
-            English | 日本語
-
-
-  概要
-
-埋め込みツイートを使うと、自分の記事やウェブサイトのコンテンツにツイートを埋め込むことができます。ツイートは写真、ビデオ、記事の概要などの追加メディアと一緒に埋め込まれ、リツイートやお気に入り登録の件数などもリアルタイムで表示されます。埋め込みツイートはインタラクティブに操作でき、埋め込みツイートを読んだユーザーは、ツイートしたユーザーのフォロー、返信、リツイート、お気に入り登録を、ページ上で直接行うことができます。
-
-このドキュメントでは、自分のウェブサイトで埋め込みツイートを使う方法と、...          </td>
               </tr>
       </tbody>
 </table>
