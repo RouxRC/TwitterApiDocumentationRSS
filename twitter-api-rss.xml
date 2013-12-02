@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 28 Nov 2013 19:15:02 +0100</pubDate>
+  <pubDate>Mon, 02 Dec 2013 06:15:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>CMS Integration Guide</title>
+   <link>https://dev.twitter.com/docs/cards/twitter-cards-for-cms-wordpress-blogger-tumblr</link>
+   <description><![CDATA[This page provides tips for integrating Twitter Cards into common CMS systems. If you have feedback or additional references we should add, please tell us in the forums. Thanks! Wordpress Site, Self-Hosted or Third-Party Hosted Jetpack Plugin JM Twitter Cards Plugin Yoast SEO Plugin...]]></description>
+   <pubDate>Sun, 01 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Calendar of API changes</title>
    <link>https://dev.twitter.com/calendar</link>
@@ -82,12 +88,6 @@
    <title>Streaming message types</title>
    <link>https://dev.twitter.com/docs/streaming-apis/messages</link>
    <description><![CDATA[Public stream messages Blank lines Status deletion notices (delete) Location deletion notices (scrub_geo) Limit notices (limit) Withheld content notices (status_withheld, user_withheld) Disconnect messages (disconnect) Stall warnings (warning) User stream messages Friends lists (...]]></description>
-   <pubDate>Tue, 05 Nov 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>CMS Integration Guide</title>
-   <link>https://dev.twitter.com/docs/cards/twitter-cards-for-cms-wordpress-blogger-tumblr</link>
-   <description><![CDATA[This page provides tips for integrating Twitter Cards into common CMS systems. If you have feedback or additional references we should add, please tell us in the forums. Thanks! Wordpress Site, Self-Hosted or Third-Party Hosted JM Twitter Cards Plugin Yoast SEO Plugin Wordpress Site,...]]></description>
    <pubDate>Tue, 05 Nov 2013 00:00:00 +0100</pubDate>
   </item>
   <item>
