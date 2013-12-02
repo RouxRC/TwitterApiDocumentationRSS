@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 02 Dec 2013 18:45:02 +0100</pubDate>
+  <pubDate>Mon, 02 Dec 2013 20:00:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Calendar of API changes</title>
+   <link>https://dev.twitter.com/calendar</link>
+   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
+   <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>CMS Integration Guide</title>
    <link>https://dev.twitter.com/docs/cards/twitter-cards-for-cms-wordpress-blogger-tumblr</link>
@@ -17,12 +23,6 @@
    <link>https://dev.twitter.com/docs/api/1.1/post/statuses/update_with_media</link>
    <description><![CDATA[Updates the authenticating user's current status and attaches media for upload. In other words, it creates a Tweet with a picture attached. Unlike POST statuses/update, this method expects raw multipart data. Your POST request's Content-Type should be set to multipart/form-data with the media[]...]]></description>
    <pubDate>Sun, 01 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Calendar of API changes</title>
-   <link>https://dev.twitter.com/calendar</link>
-   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
-   <pubDate>Thu, 28 Nov 2013 00:00:00 +0100</pubDate>
   </item>
   <item>
    <title>Twitter Libraries</title>
