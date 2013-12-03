@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 03 Dec 2013 22:45:03 +0100</pubDate>
+  <pubDate>Tue, 03 Dec 2013 23:00:04 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>What happens if twitter.com has an error or is over capacity?</title>
+   <link>https://dev.twitter.com/docs/faq/#23736</link>
+   <description><![CDATA[The Tweet Button and Follow Button are hosted on high performance content distribution networks, and are separate from twitter.com. This means if twitter.com goes down your site will not be affected, and the button will still display. When a user clicks the button, the Tweet or User Intent is...]]></description>
+   <pubDate>Tue, 03 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Which languages are supported by embedded widgets?</title>
+   <link>https://dev.twitter.com/docs/faq/#23735</link>
+   <description><![CDATA[Widgets are available in 28 of the languages supported by Twitter's website and clients. The language is determined automatically by the mark-up of the page a widget is embedded upon: That is, an HTML lang attribute on the embed code element or an ancestor thereof determines the language of the...]]></description>
+   <pubDate>Tue, 03 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Which browsers do Twitter for Websites widgets support?</title>
    <link>https://dev.twitter.com/docs/faq/#23733</link>
@@ -113,18 +125,6 @@
    <link>https://dev.twitter.com/programs/twitter-certified-products/products</link>
    <description><![CDATA[English | 日本語 Certified Products Product Description Badge Adobe Social Adobe Social connects the dots between social interactions and business results, enabling marketers to demonstrate social impact at every stage of the...]]></description>
    <pubDate>Wed, 13 Nov 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Custom Timelines</title>
-   <link>https://dev.twitter.com/docs/custom-timelines</link>
-   <description><![CDATA[Custom timelines give you more control over how Tweets are organized and delivered on the Twitter platform. Twitter has typically been organized into a few standard timelines: home contains Tweets from accounts you follow, search contains Tweets that match a keyword or term, the user timeline...]]></description>
-   <pubDate>Tue, 12 Nov 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Embedded Timelines</title>
-   <link>https://dev.twitter.com/docs/embedded-timelines</link>
-   <description><![CDATA[English | 日本語 Overview Embeddable timelines make it easy to syndicate any public Twitter timeline to your website with one line of code. Just like timelines on twitter.com, embeddable timelines are interactive and enable your visitors to reply, Retweet, and favorite Tweets directly from your...]]></description>
-   <pubDate>Tue, 12 Nov 2013 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
