@@ -4,18 +4,18 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 03 Dec 2013 23:00:04 +0100</pubDate>
+  <pubDate>Wed, 04 Dec 2013 00:45:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Which languages are supported by embedded widgets?</title>
+   <link>https://dev.twitter.com/docs/faq/#23735</link>
+   <description><![CDATA[Widgets are available in 28 of the languages supported by Twitter's website and clients. The language is determined automatically from the page a widget is embedded upon: That is, an HTML lang attribute on the embed code element or an ancestor determines the language of the widget chrome. Ideally...]]></description>
+   <pubDate>Tue, 03 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>What happens if twitter.com has an error or is over capacity?</title>
    <link>https://dev.twitter.com/docs/faq/#23736</link>
    <description><![CDATA[The Tweet Button and Follow Button are hosted on high performance content distribution networks, and are separate from twitter.com. This means if twitter.com goes down your site will not be affected, and the button will still display. When a user clicks the button, the Tweet or User Intent is...]]></description>
-   <pubDate>Tue, 03 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Which languages are supported by embedded widgets?</title>
-   <link>https://dev.twitter.com/docs/faq/#23735</link>
-   <description><![CDATA[Widgets are available in 28 of the languages supported by Twitter's website and clients. The language is determined automatically by the mark-up of the page a widget is embedded upon: That is, an HTML lang attribute on the embed code element or an ancestor thereof determines the language of the...]]></description>
    <pubDate>Tue, 03 Dec 2013 00:00:00 +0100</pubDate>
   </item>
   <item>
