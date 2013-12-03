@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 03 Dec 2013 02:45:03 +0100</pubDate>
+  <pubDate>Tue, 03 Dec 2013 07:15:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Streaming API keyword matching</title>
+   <link>https://dev.twitter.com/docs/streaming-apis/keyword-matching</link>
+   <description><![CDATA[The way POST statuses/filter checks if a tweet includes a keyword is already explained in the track parameter documentation but explaining how every corner case works would make it look more complicated than it is, so on this page you can try interactively. Caution: This was written to be as close...]]></description>
+   <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>App Card</title>
    <link>https://dev.twitter.com/docs/cards/types/app-card</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/tweet-button/faq</link>
    <description><![CDATA[Which browsers does the Tweet Button support? Does the Tweet Button support other languages? What are the dimensions of the Tweet Button? What happens if twitter.com has an error or is over capacity? I want to use multiple Tweet Buttons on my page. Is there anything I should know? Can I...]]></description>
    <pubDate>Mon, 11 Nov 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Troubleshooting &amp; FAQ</title>
-   <link>https://dev.twitter.com/docs/cards/troubleshooting</link>
-   <description><![CDATA[We created this troubleshooting guide to help you identify and resolve commonly encountered issues during Cards development. We've tried to make this guide as useful and comprehensive as possible. If there's something wrong, or you feel something should be added, please reach out to us via the...]]></description>
-   <pubDate>Thu, 07 Nov 2013 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
