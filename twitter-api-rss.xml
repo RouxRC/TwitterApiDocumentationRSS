@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 03 Dec 2013 07:15:03 +0100</pubDate>
+  <pubDate>Tue, 03 Dec 2013 22:45:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Which browsers do Twitter for Websites widgets support?</title>
+   <link>https://dev.twitter.com/docs/faq/#23733</link>
+   <description><![CDATA[Twitter for Websites widgets are tested and supported in most popular browsers. Browsers which are fully supported are: Chrome 4 Firefox 4 Safari 5 Opera 10 Internet Explorer 8 Mobile Safari 5 Android 4 Other, older browsers—such as Internet Explorer 7, Firefox 3, and Android 2.x—are partially...]]></description>
+   <pubDate>Tue, 03 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Streaming API keyword matching</title>
    <link>https://dev.twitter.com/docs/streaming-apis/keyword-matching</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/embedded-timelines</link>
    <description><![CDATA[English | 日本語 Overview Embeddable timelines make it easy to syndicate any public Twitter timeline to your website with one line of code. Just like timelines on twitter.com, embeddable timelines are interactive and enable your visitors to reply, Retweet, and favorite Tweets directly from your...]]></description>
    <pubDate>Tue, 12 Nov 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Tweet Button FAQ</title>
-   <link>https://dev.twitter.com/docs/tweet-button/faq</link>
-   <description><![CDATA[Which browsers does the Tweet Button support? Does the Tweet Button support other languages? What are the dimensions of the Tweet Button? What happens if twitter.com has an error or is over capacity? I want to use multiple Tweet Buttons on my page. Is there anything I should know? Can I...]]></description>
-   <pubDate>Mon, 11 Nov 2013 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
