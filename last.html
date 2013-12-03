@@ -51,7 +51,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
          name="op"
          type="submit"
          value="Search"  />
-<input type="hidden" name="form_build_id" id="form-5033af86506acf0d68f14d1dad8382d2" value="form-5033af86506acf0d68f14d1dad8382d2"  />
+<input type="hidden" name="form_build_id" id="form-310d4cedbae885420e196033bf126ab3" value="form-310d4cedbae885420e196033bf126ab3"  />
 <input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
 
 </form>
@@ -79,13 +79,103 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   <tbody>
           <tr class="odd views-row-first">
                   <td class="views-field views-field-title">
+            <a href="/docs/cards/types/gallery-card">Gallery Card</a>          </td>
+                  <td class="views-field views-field-body">
+            
+
+
+The Gallery Card allows you to represent collections of photos within a Tweet. This Card type is designed to let the user know that there's more than just a single image at the URL shared, but rather a gallery of related images. 
+
+
+You can specify up to 4 different images to show in the gallery...          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
+            <a href="/docs/cards/types/photo-card">Photo Card</a>          </td>
+                  <td class="views-field views-field-body">
+            
+
+  The Photo Card puts the image front and center in the Tweet:
+
+  
+    
+      
+        Web
+        Mobile
+      
+    
+    
+      
+        
+       
+       
+        
+
+        
+      
+    
+  
+
+  To define a photo card experience, set your card type to "photo" and provide a twitter:image.  Twitter...          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title">
+            <a href="/docs/cards/types/summary-card">Summary Card</a>          </td>
+                  <td class="views-field views-field-body">
+            
+
+  The Summary Card can be used for many kinds of web content, from blog posts and news articles, to products and restaurants. 
+
+The screenshot below shows the expanded Tweet view for a New York Times article:
+
+  
+    
+      
+        Web
+        Mobile...          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
+            <a href="/docs/cards/large-image-summary-card">Summary Card with Large Image</a>          </td>
+                  <td class="views-field views-field-body">
+            
+
+
+In addition to our regular Summary Card, we also have a format that allows you to feature a larger image above the title and description of the Card. The regular Summary Card features a thumbnail image in the upper right hand corner of the Card, but if you want to more prominently feature your...          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title">
+            <a href="/docs/cards/markup-reference">Cards Markup Tag Reference</a>          </td>
+                  <td class="views-field views-field-body">
+            The table in this section explains the OpenGraph fallback behavior for each Twitter tag.
+
+
+
+  Overview of all Twitter Card Tags
+  
+    
+      
+        Property
+        Card
+        Value
+        OpenGraph Fallback
+      
+    
+    
+      
+        twitter:card
+        all
+        summary,...          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
             <a href="/calendar">Calendar of API changes</a>          </td>
                   <td class="views-field views-field-body">
             This page lists important upcoming dates for consumers of Twitter's APIs.  The dates listed will be as specific as possible, but may not be exact for various reasons.  Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform.
 
 Upcoming changes...          </td>
               </tr>
-          <tr class="even views-row-last">
+          <tr class="odd views-row-last">
                   <td class="views-field views-field-title">
             <a href="/docs/cards/twitter-cards-for-cms-wordpress-blogger-tumblr">CMS Integration Guide</a>          </td>
                   <td class="views-field views-field-body">
@@ -215,43 +305,6 @@ Overview
 
 
   The Tweet Button is a small widget which allows users to easily share your website with their followers. This page is for developers and users who wish to build their own Tweet Buttons. If you are looking for a...          </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-2">
-      <caption>November 14, 2013</caption>
-    <thead>
-    <tr>
-              <th class="views-field views-field-title">
-          Document        </th>
-              <th class="views-field views-field-body">
-          Description        </th>
-          </tr>
-  </thead>
-  <tbody>
-          <tr class="odd">
-                  <td class="views-field views-field-title">
-            <a href="/docs/cards/markup-reference">Cards Markup Tag Reference</a>          </td>
-                  <td class="views-field views-field-body">
-            The table in this section explains the OpenGraph fallback behavior for each Twitter tag.
-
-
-
-  Overview of all Twitter Card Tags
-  
-    
-      
-        Property
-        Card
-        Value
-        OpenGraph Fallback
-      
-    
-    
-      
-        twitter:card
-        all
-        summary,...          </td>
               </tr>
       </tbody>
 </table>
@@ -449,108 +502,6 @@ To get started with implementing the Cards markup, you'll want to specify the ty
             
   Introduction
   Twitter cards make it possible for you to attach media experiences to Tweets that link to your content. Simply add a few lines of HTML to your webpages, and users who Tweet links to your content will have a "card" added to the Tweet that’s visible to all of their followers....          </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-2">
-      <caption>November 3, 2013</caption>
-    <thead>
-    <tr>
-              <th class="views-field views-field-title">
-          Document        </th>
-              <th class="views-field views-field-body">
-          Description        </th>
-          </tr>
-  </thead>
-  <tbody>
-          <tr class="odd">
-                  <td class="views-field views-field-title">
-            <a href="/docs/cards/app-installs-and-deep-linking">App Installs and Deep-Linking</a>          </td>
-                  <td class="views-field views-field-body">
-            
-  Introduction
-
-One of the most important features in the new Cards is the ability to allow users to download your app (if the user doesn't already have it installed), or deep-link into your own app (if the app is already installed on the user's mobile device). The ability to enable app installs...          </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-2">
-      <caption>November 1, 2013</caption>
-    <thead>
-    <tr>
-              <th class="views-field views-field-title">
-          Document        </th>
-              <th class="views-field views-field-body">
-          Description        </th>
-          </tr>
-  </thead>
-  <tbody>
-          <tr class="odd">
-                  <td class="views-field views-field-title">
-            <a href="/docs/platform-objects/entities">Entities</a>          </td>
-                  <td class="views-field views-field-body">
-            Entities provide metadata and additional contextual information about content posted on Twitter. Entities are never divorced from the content they describe. In API v1.1, entities will be returned wherever Tweets are found in the API. Entities are instrumental in resolving URLs.
-
-Field Guide...          </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-2">
-      <caption>October 30, 2013</caption>
-    <thead>
-    <tr>
-              <th class="views-field views-field-title">
-          Document        </th>
-              <th class="views-field views-field-body">
-          Description        </th>
-          </tr>
-  </thead>
-  <tbody>
-          <tr class="odd">
-                  <td class="views-field views-field-title">
-            <a href="/docs/entities">Entities in Twitter Objects</a>          </td>
-                  <td class="views-field views-field-body">
-            See also Entities from the Field Guide.
-
-
-
-
-
-	Entities for Tweets
-	Entities for Retweets
-	Entities for Users
-
-
-
-
-Entities for Tweets
-
-
-Entities provide structured data from Tweets including resolved URLs, media, hashtags and mentions without having to parse the text to extract that information....          </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-2">
-      <caption>October 29, 2013</caption>
-    <thead>
-    <tr>
-              <th class="views-field views-field-title">
-          Document        </th>
-              <th class="views-field views-field-body">
-          Description        </th>
-          </tr>
-  </thead>
-  <tbody>
-          <tr class="odd">
-                  <td class="views-field views-field-title">
-            <a href="/docs/embedded-tweets">Embedded Tweets</a>          </td>
-                  <td class="views-field views-field-body">
-            English | 日本語
-
-
-  Overview
-
-Embedded Tweets make it possible for you take any Tweet and embed it directly in to the content of your article or website.  Tweets display with expanded media like photos, videos, and article summaries, and also include real-time retweet and favorite counts.  When...          </td>
               </tr>
       </tbody>
 </table>

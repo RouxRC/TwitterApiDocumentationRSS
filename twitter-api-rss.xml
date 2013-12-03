@@ -4,8 +4,38 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 02 Dec 2013 20:00:03 +0100</pubDate>
+  <pubDate>Tue, 03 Dec 2013 02:30:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Gallery Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/gallery-card</link>
+   <description><![CDATA[The Gallery Card allows you to represent collections of photos within a Tweet. This Card type is designed to let the user know that there's more than just a single image at the URL shared, but rather a gallery of related images. You can specify up to 4 different images to show in the gallery...]]></description>
+   <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Photo Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/photo-card</link>
+   <description><![CDATA[The Photo Card puts the image front and center in the Tweet: Web Mobile To define a photo card experience, set your card type to "photo" and provide a twitter:image. Twitter...]]></description>
+   <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Summary Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/summary-card</link>
+   <description><![CDATA[The Summary Card can be used for many kinds of web content, from blog posts and news articles, to products and restaurants. The screenshot below shows the expanded Tweet view for a New York Times article: Web Mobile...]]></description>
+   <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Summary Card with Large Image</title>
+   <link>https://dev.twitter.com/docs/cards/large-image-summary-card</link>
+   <description><![CDATA[In addition to our regular Summary Card, we also have a format that allows you to feature a larger image above the title and description of the Card. The regular Summary Card features a thumbnail image in the upper right hand corner of the Card, but if you want to more prominently feature your...]]></description>
+   <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Cards Markup Tag Reference</title>
+   <link>https://dev.twitter.com/docs/cards/markup-reference</link>
+   <description><![CDATA[The table in this section explains the OpenGraph fallback behavior for each Twitter tag. Overview of all Twitter Card Tags Property Card Value OpenGraph Fallback twitter:card all summary,...]]></description>
+   <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Calendar of API changes</title>
    <link>https://dev.twitter.com/calendar</link>
@@ -47,12 +77,6 @@
    <link>https://dev.twitter.com/docs/tweet-button</link>
    <description><![CDATA[By using the Tweet Button, you agree to the Developer Rules of the Road. Overview The Tweet Button is a small widget which allows users to easily share your website with their followers. This page is for developers and users who wish to build their own Tweet Buttons. If you are looking for a...]]></description>
    <pubDate>Tue, 19 Nov 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Cards Markup Tag Reference</title>
-   <link>https://dev.twitter.com/docs/cards/markup-reference</link>
-   <description><![CDATA[The table in this section explains the OpenGraph fallback behavior for each Twitter tag. Overview of all Twitter Card Tags Property Card Value OpenGraph Fallback twitter:card all summary,...]]></description>
-   <pubDate>Thu, 14 Nov 2013 00:00:00 +0100</pubDate>
   </item>
   <item>
    <title>Certified Products</title>
@@ -101,30 +125,6 @@
    <link>https://dev.twitter.com/docs/cards</link>
    <description><![CDATA[Introduction Twitter cards make it possible for you to attach media experiences to Tweets that link to your content. Simply add a few lines of HTML to your webpages, and users who Tweet links to your content will have a "card" added to the Tweet that’s visible to all of their followers....]]></description>
    <pubDate>Mon, 04 Nov 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>App Installs and Deep-Linking</title>
-   <link>https://dev.twitter.com/docs/cards/app-installs-and-deep-linking</link>
-   <description><![CDATA[Introduction One of the most important features in the new Cards is the ability to allow users to download your app (if the user doesn't already have it installed), or deep-link into your own app (if the app is already installed on the user's mobile device). The ability to enable app installs...]]></description>
-   <pubDate>Sun, 03 Nov 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Entities</title>
-   <link>https://dev.twitter.com/docs/platform-objects/entities</link>
-   <description><![CDATA[Entities provide metadata and additional contextual information about content posted on Twitter. Entities are never divorced from the content they describe. In API v1.1, entities will be returned wherever Tweets are found in the API. Entities are instrumental in resolving URLs. Field Guide...]]></description>
-   <pubDate>Fri, 01 Nov 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Entities in Twitter Objects</title>
-   <link>https://dev.twitter.com/docs/entities</link>
-   <description><![CDATA[See also Entities from the Field Guide. Entities for Tweets Entities for Retweets Entities for Users Entities for Tweets Entities provide structured data from Tweets including resolved URLs, media, hashtags and mentions without having to parse the text to extract that information....]]></description>
-   <pubDate>Wed, 30 Oct 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Embedded Tweets</title>
-   <link>https://dev.twitter.com/docs/embedded-tweets</link>
-   <description><![CDATA[English | 日本語 Overview Embedded Tweets make it possible for you take any Tweet and embed it directly in to the content of your article or website. Tweets display with expanded media like photos, videos, and article summaries, and also include real-time retweet and favorite counts. When...]]></description>
-   <pubDate>Tue, 29 Oct 2013 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
