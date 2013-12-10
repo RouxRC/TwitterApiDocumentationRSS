@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 10 Dec 2013 20:30:05 +0100</pubDate>
+  <pubDate>Wed, 11 Dec 2013 00:30:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Calendar of API changes</title>
+   <link>https://dev.twitter.com/calendar</link>
+   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
+   <pubDate>Tue, 10 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Streaming API keyword matching</title>
    <link>https://dev.twitter.com/docs/streaming-apis/keyword-matching</link>
@@ -88,12 +94,6 @@
    <title>Summary Card</title>
    <link>https://dev.twitter.com/docs/cards/types/summary-card</link>
    <description><![CDATA[The Summary Card can be used for many kinds of web content, from blog posts and news articles, to products and restaurants. The screenshot below shows the expanded Tweet view for a New York Times article: Web Mobile...]]></description>
-   <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Calendar of API changes</title>
-   <link>https://dev.twitter.com/calendar</link>
-   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
    <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
   </item>
   <item>
