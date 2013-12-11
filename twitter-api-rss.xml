@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 11 Dec 2013 00:30:03 +0100</pubDate>
+  <pubDate>Wed, 11 Dec 2013 16:15:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Entities</title>
+   <link>https://dev.twitter.com/docs/platform-objects/entities</link>
+   <description><![CDATA[Entities provide metadata and additional contextual information about content posted on Twitter. Entities are never divorced from the content they describe. In API v1.1, entities will be returned wherever Tweets are found in the API. Entities are instrumental in resolving URLs. Read Entities in...]]></description>
+   <pubDate>Wed, 11 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Calendar of API changes</title>
    <link>https://dev.twitter.com/calendar</link>
@@ -118,12 +124,6 @@
    <title>Error Codes &amp; Responses</title>
    <link>https://dev.twitter.com/docs/error-codes-responses</link>
    <description><![CDATA[HTTP Status Codes The Twitter API attempts to return appropriate HTTP status codes for every request. It is possible to suppress response codes for the REST API. Code Text Description 200 OK Success...]]></description>
-   <pubDate>Mon, 25 Nov 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Integrating with Twitter on iOS</title>
-   <link>https://dev.twitter.com/docs/ios</link>
-   <description><![CDATA[The official iOS SDK includes a framework that enables your iOS applications to leverage the power of Twitter. This framework removes many of the common obstacles encountered when accessing Twitter's API, including authentication and Tweet composition, and allows developers to focus on more...]]></description>
    <pubDate>Mon, 25 Nov 2013 00:00:00 +0100</pubDate>
   </item>
  </channel>
