@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 12 Dec 2013 07:30:03 +0100</pubDate>
+  <pubDate>Thu, 12 Dec 2013 20:15:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>POST blocks/create</title>
+   <link>https://dev.twitter.com/docs/api/1.1/post/blocks/create</link>
+   <description><![CDATA[Blocks the specified user from showing in the authenticating user's mentions or timeline (unless retweeted by another user). If a follow or friend relationship exists from blocker to blocked user, it is destroyed.]]></description>
+   <pubDate>Thu, 12 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Entities in Twitter Objects</title>
    <link>https://dev.twitter.com/docs/entities</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/api/1.1/post/statuses/update_with_media</link>
    <description><![CDATA[Updates the authenticating user's current status and attaches media for upload. In other words, it creates a Tweet with a picture attached. Unlike POST statuses/update, this method expects raw multipart data. Your POST request's Content-Type should be set to multipart/form-data with the media[]...]]></description>
    <pubDate>Sun, 01 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Twitter Libraries</title>
-   <link>https://dev.twitter.com/docs/twitter-libraries</link>
-   <description><![CDATA[These libraries, while not necessarily tested by Twitter, should support Twitter API v1.1. Want your library to be included in this index or need to update the details we have? Submit your library for inclusion! Libraries built and maintained by Twitter Java hbc &mdash; A Java HTTP client for...]]></description>
-   <pubDate>Thu, 28 Nov 2013 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
