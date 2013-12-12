@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 11 Dec 2013 16:15:02 +0100</pubDate>
+  <pubDate>Thu, 12 Dec 2013 07:30:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Entities in Twitter Objects</title>
+   <link>https://dev.twitter.com/docs/entities</link>
+   <description><![CDATA[See also Entities from the Field Guide. Entities for Tweets Entities for Retweets Entities for Users Entities for Tweets Entities provide structured data from Tweets including resolved URLs, media, hashtags and mentions without having to parse the text to extract that information....]]></description>
+   <pubDate>Wed, 11 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Entities</title>
    <link>https://dev.twitter.com/docs/platform-objects/entities</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/twitter-libraries</link>
    <description><![CDATA[These libraries, while not necessarily tested by Twitter, should support Twitter API v1.1. Want your library to be included in this index or need to update the details we have? Submit your library for inclusion! Libraries built and maintained by Twitter Java hbc &mdash; A Java HTTP client for...]]></description>
    <pubDate>Thu, 28 Nov 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Error Codes &amp; Responses</title>
-   <link>https://dev.twitter.com/docs/error-codes-responses</link>
-   <description><![CDATA[HTTP Status Codes The Twitter API attempts to return appropriate HTTP status codes for every request. It is possible to suppress response codes for the REST API. Code Text Description 200 OK Success...]]></description>
-   <pubDate>Mon, 25 Nov 2013 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
