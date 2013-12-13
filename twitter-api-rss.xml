@@ -4,12 +4,12 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 12 Dec 2013 20:15:03 +0100</pubDate>
+  <pubDate>Fri, 13 Dec 2013 04:45:02 +0100</pubDate>
   <generator>RouxRC</generator>
   <item>
    <title>POST blocks/create</title>
    <link>https://dev.twitter.com/docs/api/1.1/post/blocks/create</link>
-   <description><![CDATA[Blocks the specified user from showing in the authenticating user's mentions or timeline (unless retweeted by another user). If a follow or friend relationship exists from blocker to blocked user, it is destroyed.]]></description>
+   <description><![CDATA[Blocks the specified user from following the authenticating user. In addition the blocked user will not show in the authenticating users mentions or timeline (unless retweeted by another user). If a follow or friend relationship exists it is destroyed.]]></description>
    <pubDate>Thu, 12 Dec 2013 00:00:00 +0100</pubDate>
   </item>
   <item>
