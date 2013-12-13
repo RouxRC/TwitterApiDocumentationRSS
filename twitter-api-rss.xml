@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 13 Dec 2013 04:45:02 +0100</pubDate>
+  <pubDate>Fri, 13 Dec 2013 17:15:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>POST account/update_profile_banner</title>
+   <link>https://dev.twitter.com/docs/api/1.1/post/account/update_profile_banner</link>
+   <description><![CDATA[Uploads a profile banner on behalf of the authenticating user. For best results, upload an]]></description>
+   <pubDate>Fri, 13 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>POST account/update_profile_background_image</title>
+   <link>https://dev.twitter.com/docs/api/1/post/account/update_profile_background_image</link>
+   <description><![CDATA[Updates the authenticating user's profile background image. This method can also be used to enable or disable the profile background image. Although each parameter is marked as optional, at least one of image, tile or use must be provided when making this request.]]></description>
+   <pubDate>Fri, 13 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>POST blocks/create</title>
    <link>https://dev.twitter.com/docs/api/1.1/post/blocks/create</link>
@@ -113,18 +125,6 @@
    <link>https://dev.twitter.com/docs/cards/types/summary-card</link>
    <description><![CDATA[The Summary Card can be used for many kinds of web content, from blog posts and news articles, to products and restaurants. The screenshot below shows the expanded Tweet view for a New York Times article: Web Mobile...]]></description>
    <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>CMS Integration Guide</title>
-   <link>https://dev.twitter.com/docs/cards/twitter-cards-for-cms-wordpress-blogger-tumblr</link>
-   <description><![CDATA[This page has tips for integrating Twitter Cards into popular CMS systems like Wordpress, Tumblr and Blogger. If you have feedback or additional references we should add, please tell us in the forums. Thanks! Wordpress Site, Self-Hosted or Third-Party Hosted Jetpack Plugin Installation...]]></description>
-   <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>POST statuses/update_with_media</title>
-   <link>https://dev.twitter.com/docs/api/1.1/post/statuses/update_with_media</link>
-   <description><![CDATA[Updates the authenticating user's current status and attaches media for upload. In other words, it creates a Tweet with a picture attached. Unlike POST statuses/update, this method expects raw multipart data. Your POST request's Content-Type should be set to multipart/form-data with the media[]...]]></description>
-   <pubDate>Sun, 01 Dec 2013 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
