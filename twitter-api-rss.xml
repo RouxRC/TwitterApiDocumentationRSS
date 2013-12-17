@@ -4,12 +4,18 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 17 Dec 2013 00:45:02 +0100</pubDate>
+  <pubDate>Tue, 17 Dec 2013 01:00:03 +0100</pubDate>
   <generator>RouxRC</generator>
   <item>
    <title>Entities in Twitter Objects</title>
    <link>https://dev.twitter.com/docs/entities</link>
    <description><![CDATA[See also Entities from the Field Guide. Entities for Tweets Entities for Retweets Entities for Users Entities for Direct Messages Entities for Tweets Entities provide structured data from Tweets including resolved URLs, media, hashtags and mentions without having to parse the text to...]]></description>
+   <pubDate>Mon, 16 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Entities</title>
+   <link>https://dev.twitter.com/docs/platform-objects/entities</link>
+   <description><![CDATA[Entities provide metadata and additional contextual information about content posted on Twitter. Entities are never divorced from the content they describe. In API v1.1, entities will be returned wherever Tweets are found in the API. Entities are instrumental in resolving URLs. Read Entities in...]]></description>
    <pubDate>Mon, 16 Dec 2013 00:00:00 +0100</pubDate>
   </item>
   <item>
@@ -35,12 +41,6 @@
    <link>https://dev.twitter.com/docs/api/1.1/post/blocks/create</link>
    <description><![CDATA[Blocks the specified user from following the authenticating user. In addition the blocked user will not show in the authenticating users mentions or timeline (unless retweeted by another user). If a follow or friend relationship exists it is destroyed.]]></description>
    <pubDate>Thu, 12 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Entities</title>
-   <link>https://dev.twitter.com/docs/platform-objects/entities</link>
-   <description><![CDATA[Entities provide metadata and additional contextual information about content posted on Twitter. Entities are never divorced from the content they describe. In API v1.1, entities will be returned wherever Tweets are found in the API. Entities are instrumental in resolving URLs. Read Entities in...]]></description>
-   <pubDate>Wed, 11 Dec 2013 00:00:00 +0100</pubDate>
   </item>
   <item>
    <title>Streaming API keyword matching</title>
