@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 18 Dec 2013 09:00:03 +0100</pubDate>
+  <pubDate>Wed, 18 Dec 2013 09:45:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Player Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/player-card</link>
+   <description><![CDATA[The Player Card type requires special approval, and is not available for immediate approval at this time. The Player Card is for streaming media experiences such as audio, video, or slideshows, and allows you to present your content inside of an iframe within the Tweet. Unlike the photo and...]]></description>
+   <pubDate>Wed, 18 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Troubleshooting &amp; FAQ</title>
    <link>https://dev.twitter.com/docs/cards/troubleshooting</link>
@@ -16,12 +22,6 @@
    <title>Player Card Whitelisting</title>
    <link>https://dev.twitter.com/docs/cards/types/player-card/whitelisting</link>
    <description><![CDATA[Thank you for your interest in using the Twitter Player Card. To help expedite the whitelisting of your Card, it is useful to read the below fully and provide the appropriate information. Unfortunately, we are currently backlogged in our approval of Player Cards, so responses may vary...]]></description>
-   <pubDate>Tue, 17 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Player Card</title>
-   <link>https://dev.twitter.com/docs/cards/types/player-card</link>
-   <description><![CDATA[The Player Card type requires special approval, and is not available for immediate approval at this time. The Player Card is for streaming media experiences such as audio, video, or slideshows, and allows you to present your content inside of an iframe within the Tweet. Unlike the photo and...]]></description>
    <pubDate>Tue, 17 Dec 2013 00:00:00 +0100</pubDate>
   </item>
   <item>
