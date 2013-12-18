@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 17 Dec 2013 22:45:04 +0100</pubDate>
+  <pubDate>Wed, 18 Dec 2013 08:00:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Player Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/player-card</link>
+   <description><![CDATA[The Player Card type requires special approval, and is not available for immediate approval at this time. The Player Card is for streaming media experiences such as audio, video, or slideshows, and allows you to present your content inside of an iframe within the Tweet. Unlike the photo and...]]></description>
+   <pubDate>Tue, 17 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Follow Button</title>
    <link>https://dev.twitter.com/docs/follow-button</link>
@@ -106,12 +112,6 @@
    <title>Cards Markup Tag Reference</title>
    <link>https://dev.twitter.com/docs/cards/markup-reference</link>
    <description><![CDATA[The table in this section explains the OpenGraph fallback behavior for each Twitter tag. Overview of all Twitter Card Tags Property Card Value OpenGraph Fallback twitter:card all summary,...]]></description>
-   <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Player Card</title>
-   <link>https://dev.twitter.com/docs/cards/types/player-card</link>
-   <description><![CDATA[This Card type requires special approval, and is not available for immediate approval at this time. The Player Card is for streaming media experiences such as audio, video, or slideshows, and allows you to present your content inside of an iframe within the Tweet. Unlike the photo and...]]></description>
    <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
   </item>
   <item>
