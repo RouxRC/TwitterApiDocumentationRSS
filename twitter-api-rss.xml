@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 18 Dec 2013 08:00:02 +0100</pubDate>
+  <pubDate>Wed, 18 Dec 2013 08:15:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Player Card Whitelisting</title>
+   <link>https://dev.twitter.com/docs/cards/types/player-card/whitelisting</link>
+   <description><![CDATA[Thank you for your interest in using the Twitter Player Card. To help expedite the whitelisting of your Card, it is useful to read the below fully and provide the appropriate information. Unfortunately, we are currently backlogged in our approval of Player Cards, so responses may vary...]]></description>
+   <pubDate>Tue, 17 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Player Card</title>
    <link>https://dev.twitter.com/docs/cards/types/player-card</link>
@@ -59,12 +65,6 @@
    <link>https://dev.twitter.com/docs/streaming-apis/keyword-matching</link>
    <description><![CDATA[The way POST statuses/filter checks if a tweet includes a keyword is already explained in the track parameter documentation but explaining how every corner case works would make it look more complicated than it is, so on this page you can try interactively. Caution: This was written to be as close...]]></description>
    <pubDate>Tue, 10 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Player Card Whitelisting</title>
-   <link>https://dev.twitter.com/docs/cards/types/player-card/whitelisting</link>
-   <description><![CDATA[Thank you for your interest in using the Twitter Player Card. To help expedite the whitelisting of your Card, it is useful to read the below fully and provide the appropriate information. Unfortunately, we are currently backlogged in our approval of Player Cards, so responses may vary...]]></description>
-   <pubDate>Sun, 08 Dec 2013 00:00:00 +0100</pubDate>
   </item>
   <item>
    <title>POST geo/place</title>
