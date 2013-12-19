@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 18 Dec 2013 09:45:03 +0100</pubDate>
+  <pubDate>Thu, 19 Dec 2013 02:00:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Certified Products</title>
+   <link>https://dev.twitter.com/programs/twitter-certified-products/products</link>
+   <description><![CDATA[English | 日本語 Certified Products Product Description Badge Adobe Social Adobe Social connects the dots between social interactions and business results, enabling marketers to demonstrate social impact at every stage of the...]]></description>
+   <pubDate>Wed, 18 Dec 2013 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Player Card</title>
    <link>https://dev.twitter.com/docs/cards/types/player-card</link>
@@ -118,12 +124,6 @@
    <title>Cards Markup Tag Reference</title>
    <link>https://dev.twitter.com/docs/cards/markup-reference</link>
    <description><![CDATA[The table in this section explains the OpenGraph fallback behavior for each Twitter tag. Overview of all Twitter Card Tags Property Card Value OpenGraph Fallback twitter:card all summary,...]]></description>
-   <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Product Card</title>
-   <link>https://dev.twitter.com/docs/cards/types/product-card</link>
-   <description><![CDATA[The Product Card is a great way to represent retail items on Twitter, and to drive sales. This Card type is designed to showcase your products via an image, a description, and allow you to highlight two other key details about your product. These fields are strings and can be used to show the...]]></description>
    <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
   </item>
  </channel>
