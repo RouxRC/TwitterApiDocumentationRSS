@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sat, 21 Dec 2013 02:00:02 +0100</pubDate>
+  <pubDate>Fri, 03 Jan 2014 07:15:06 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Troubleshooting &amp; FAQ</title>
+   <link>https://dev.twitter.com/docs/cards/troubleshooting</link>
+   <description><![CDATA[We created this troubleshooting guide to help you identify and resolve commonly encountered issues during Cards development. We've tried to make this guide as useful and comprehensive as possible. If there's something wrong, or you feel something should be added, please reach out to us via the...]]></description>
+   <pubDate>Thu, 02 Jan 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Certified Products</title>
    <link>https://dev.twitter.com/programs/twitter-certified-products/products</link>
@@ -17,12 +23,6 @@
    <link>https://dev.twitter.com/docs/cards/types/player-card</link>
    <description><![CDATA[The Player Card type requires special approval, and is not available for immediate approval at this time. The Player Card is for streaming media experiences such as audio, video, or slideshows, and allows you to present your content inside of an iframe within the Tweet. Unlike the photo and...]]></description>
    <pubDate>Wed, 18 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Troubleshooting &amp; FAQ</title>
-   <link>https://dev.twitter.com/docs/cards/troubleshooting</link>
-   <description><![CDATA[We created this troubleshooting guide to help you identify and resolve commonly encountered issues during Cards development. We've tried to make this guide as useful and comprehensive as possible. If there's something wrong, or you feel something should be added, please reach out to us via the...]]></description>
-   <pubDate>Tue, 17 Dec 2013 00:00:00 +0100</pubDate>
   </item>
   <item>
    <title>Player Card Whitelisting</title>
