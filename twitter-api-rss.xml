@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 22 Jan 2014 07:15:03 +0100</pubDate>
+  <pubDate>Wed, 22 Jan 2014 07:45:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Twitter Libraries</title>
+   <link>https://dev.twitter.com/docs/twitter-libraries</link>
+   <description><![CDATA[These libraries, while not necessarily tested by Twitter, should support Twitter API v1.1. Want your library to be included in this index or need to update the details we have? Submit your library for inclusion! Libraries built and maintained by Twitter Java hbc &mdash; A Java HTTP client for...]]></description>
+   <pubDate>Tue, 21 Jan 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Troubleshooting &amp; FAQ</title>
    <link>https://dev.twitter.com/docs/cards/troubleshooting</link>
@@ -118,12 +124,6 @@
    <title>Summary Card with Large Image</title>
    <link>https://dev.twitter.com/docs/cards/large-image-summary-card</link>
    <description><![CDATA[In addition to our regular Summary Card, we also have a format that allows you to feature a larger image above the title and description of the Card. The regular Summary Card features a thumbnail image in the upper right hand corner of the Card, but if you want to more prominently feature your...]]></description>
-   <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Cards Markup Tag Reference</title>
-   <link>https://dev.twitter.com/docs/cards/markup-reference</link>
-   <description><![CDATA[The table in this section explains the OpenGraph fallback behavior for each Twitter tag. Overview of all Twitter Card Tags Property Card Value OpenGraph Fallback twitter:card all summary,...]]></description>
    <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
   </item>
  </channel>
