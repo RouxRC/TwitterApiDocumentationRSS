@@ -4,18 +4,18 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 23 Jan 2014 22:45:03 +0100</pubDate>
+  <pubDate>Thu, 23 Jan 2014 23:30:02 +0100</pubDate>
   <generator>RouxRC</generator>
-  <item>
-   <title>Troubleshooting &amp; FAQ</title>
-   <link>https://dev.twitter.com/docs/cards/troubleshooting</link>
-   <description><![CDATA[We created this troubleshooting guide to help you identify and resolve commonly encountered issues during Cards development. We've tried to make this guide as useful and comprehensive as possible. If there's something wrong, or you feel something should be added, please reach out to us via the...]]></description>
-   <pubDate>Thu, 23 Jan 2014 00:00:00 +0100</pubDate>
-  </item>
   <item>
    <title>Twitter Card analytics</title>
    <link>https://dev.twitter.com/docs/cards/analytics</link>
    <description><![CDATA[Introduction Twitter Cards allow you to attach rich media experiences to Tweets about your content; Twitter Card analytics gives you related insights into how your content is being shared on Twitter. Through personalized data and best practices,Twitter Card analytics reveals how you can...]]></description>
+   <pubDate>Thu, 23 Jan 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Troubleshooting &amp; FAQ</title>
+   <link>https://dev.twitter.com/docs/cards/troubleshooting</link>
+   <description><![CDATA[We created this troubleshooting guide to help you identify and resolve commonly encountered issues during Cards development. We've tried to make this guide as useful and comprehensive as possible. If there's something wrong, or you feel something should be added, please reach out to us via the...]]></description>
    <pubDate>Thu, 23 Jan 2014 00:00:00 +0100</pubDate>
   </item>
   <item>
