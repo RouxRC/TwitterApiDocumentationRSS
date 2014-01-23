@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 22 Jan 2014 07:45:02 +0100</pubDate>
+  <pubDate>Thu, 23 Jan 2014 18:15:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Twitter Cards</title>
+   <link>https://dev.twitter.com/docs/cards</link>
+   <description><![CDATA[Introduction Twitter cards make it possible for you to attach media experiences to Tweets that link to your content. Simply add a few lines of HTML to your webpages, and users who Tweet links to your content will have a "card" added to the Tweet that’s visible to all of their followers....]]></description>
+   <pubDate>Thu, 23 Jan 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Documentation for Twitter Card Analytics</title>
+   <link>https://dev.twitter.com/docs/cards/analytics</link>
+   <description><![CDATA[Introduction Twitter Cards allow you to attach rich media experiences to Tweets about your content; Twitter Card Analytics gives you related insights into how your content is being shared on Twitter. Through personalized data and best practices,Twitter Card Analytics reveals how you can...]]></description>
+   <pubDate>Thu, 23 Jan 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Twitter Libraries</title>
    <link>https://dev.twitter.com/docs/twitter-libraries</link>
@@ -112,18 +124,6 @@
    <title>App Card</title>
    <link>https://dev.twitter.com/docs/cards/types/app-card</link>
    <description><![CDATA[App Card is a great way to better represent mobile applications on Twitter and to drive installs. We designed the App Card to allow for a name, description and icon, and also to highlight attributes such as the rating and the price. This will require adding some new markup tags to your pages,...]]></description>
-   <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Photo Card</title>
-   <link>https://dev.twitter.com/docs/cards/types/photo-card</link>
-   <description><![CDATA[The Photo Card puts the image front and center in the Tweet: Web Mobile To define a photo card experience, set your card type to "photo" and provide a twitter:image. Twitter...]]></description>
-   <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Summary Card with Large Image</title>
-   <link>https://dev.twitter.com/docs/cards/large-image-summary-card</link>
-   <description><![CDATA[In addition to our regular Summary Card, we also have a format that allows you to feature a larger image above the title and description of the Card. The regular Summary Card features a thumbnail image in the upper right hand corner of the Card, but if you want to more prominently feature your...]]></description>
    <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
   </item>
  </channel>
