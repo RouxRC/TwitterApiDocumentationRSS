@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 23 Jan 2014 22:15:05 +0100</pubDate>
+  <pubDate>Thu, 23 Jan 2014 22:45:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Troubleshooting &amp; FAQ</title>
+   <link>https://dev.twitter.com/docs/cards/troubleshooting</link>
+   <description><![CDATA[We created this troubleshooting guide to help you identify and resolve commonly encountered issues during Cards development. We've tried to make this guide as useful and comprehensive as possible. If there's something wrong, or you feel something should be added, please reach out to us via the...]]></description>
+   <pubDate>Thu, 23 Jan 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Twitter Card analytics</title>
    <link>https://dev.twitter.com/docs/cards/analytics</link>
@@ -22,12 +28,6 @@
    <title>Twitter Libraries</title>
    <link>https://dev.twitter.com/docs/twitter-libraries</link>
    <description><![CDATA[These libraries, while not necessarily tested by Twitter, should support Twitter API v1.1. Want your library to be included in this index or need to update the details we have? Submit your library for inclusion! Libraries built and maintained by Twitter Java hbc &mdash; A Java HTTP client for...]]></description>
-   <pubDate>Tue, 21 Jan 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Troubleshooting &amp; FAQ</title>
-   <link>https://dev.twitter.com/docs/cards/troubleshooting</link>
-   <description><![CDATA[We created this troubleshooting guide to help you identify and resolve commonly encountered issues during Cards development. We've tried to make this guide as useful and comprehensive as possible. If there's something wrong, or you feel something should be added, please reach out to us via the...]]></description>
    <pubDate>Tue, 21 Jan 2014 00:00:00 +0100</pubDate>
   </item>
   <item>
