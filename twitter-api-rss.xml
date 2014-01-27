@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 24 Jan 2014 17:45:02 +0100</pubDate>
+  <pubDate>Mon, 27 Jan 2014 13:00:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>User Profile Images and Banners</title>
+   <link>https://dev.twitter.com/docs/user-profile-images-and-banners</link>
+   <description><![CDATA[Profile Images Profile images (or avatars) are an important component of a Twitter account's expression of identity. To upload an avatar on behalf of a user, use POST account/update_profile_image. Alternative image sizes for user profile images You can obtain a user's most recent profile image,...]]></description>
+   <pubDate>Mon, 27 Jan 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Twitter Card analytics</title>
    <link>https://dev.twitter.com/docs/cards/analytics</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/faq/#23733</link>
    <description><![CDATA[Twitter for Websites widgets are tested and supported in most popular browsers. Browsers which are fully supported are: Chrome 4 Firefox 4 Safari 5 Opera 10 Internet Explorer 8 Mobile Safari 5 Android 4 Other, older browsers—such as Internet Explorer 7, Firefox 3, and Android 2.x—are partially...]]></description>
    <pubDate>Tue, 03 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>App Card</title>
-   <link>https://dev.twitter.com/docs/cards/types/app-card</link>
-   <description><![CDATA[App Card is a great way to better represent mobile applications on Twitter and to drive installs. We designed the App Card to allow for a name, description and icon, and also to highlight attributes such as the rating and the price. This will require adding some new markup tags to your pages,...]]></description>
-   <pubDate>Mon, 02 Dec 2013 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
