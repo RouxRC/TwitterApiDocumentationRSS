@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 28 Jan 2014 02:45:03 +0100</pubDate>
+  <pubDate>Tue, 28 Jan 2014 04:15:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Single-user OAuth with Examples</title>
+   <link>https://dev.twitter.com/docs/auth/oauth/single-user-with-examples</link>
+   <description><![CDATA[Please note: Most developers will find working with Application-only authentication a superior approach than what is documented below. Twitter offers the ability for you to retrieve a single access token (complete with oauth_token_secret) from application detail pages found on dev.twitter.com....]]></description>
+   <pubDate>Mon, 27 Jan 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Twitter Card Analytics</title>
    <link>https://dev.twitter.com/docs/cards/analytics</link>
@@ -118,12 +124,6 @@
    <title>What happens if twitter.com has an error or is over capacity?</title>
    <link>https://dev.twitter.com/docs/faq/#23736</link>
    <description><![CDATA[The Tweet Button and Follow Button are hosted on high performance content distribution networks, and are separate from twitter.com. This means if twitter.com goes down your site will not be affected, and the button will still display. When a user clicks the button, the Tweet or User Intent is...]]></description>
-   <pubDate>Tue, 03 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Which browsers do Twitter for Websites widgets support?</title>
-   <link>https://dev.twitter.com/docs/faq/#23733</link>
-   <description><![CDATA[Twitter for Websites widgets are tested and supported in most popular browsers. Browsers which are fully supported are: Chrome 4 Firefox 4 Safari 5 Opera 10 Internet Explorer 8 Mobile Safari 5 Android 4 Other, older browsers—such as Internet Explorer 7, Firefox 3, and Android 2.x—are partially...]]></description>
    <pubDate>Tue, 03 Dec 2013 00:00:00 +0100</pubDate>
   </item>
  </channel>
