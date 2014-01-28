@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 27 Jan 2014 13:00:02 +0100</pubDate>
+  <pubDate>Tue, 28 Jan 2014 02:45:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Twitter Card Analytics</title>
+   <link>https://dev.twitter.com/docs/cards/analytics</link>
+   <description><![CDATA[Introduction Twitter Cards allow you to attach rich media experiences to Tweets about your content; Twitter Card analytics gives you related insights into how your content is being shared on Twitter. Through personalized data and best practices,Twitter Card analytics reveals how you can...]]></description>
+   <pubDate>Mon, 27 Jan 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Twitter Cards</title>
+   <link>https://dev.twitter.com/docs/cards</link>
+   <description><![CDATA[Introduction Twitter Cards make it possible for you to attach media experiences to Tweets that link to your content. Simply add a few lines of HTML to your webpages, and users who Tweet links to your content will have a "card" added to the Tweet that’s visible to all of their followers....]]></description>
+   <pubDate>Mon, 27 Jan 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>User Profile Images and Banners</title>
    <link>https://dev.twitter.com/docs/user-profile-images-and-banners</link>
@@ -13,21 +25,9 @@
    <pubDate>Mon, 27 Jan 2014 00:00:00 +0100</pubDate>
   </item>
   <item>
-   <title>Twitter Card analytics</title>
-   <link>https://dev.twitter.com/docs/cards/analytics</link>
-   <description><![CDATA[Introduction Twitter Cards allow you to attach rich media experiences to Tweets about your content; Twitter Card analytics gives you related insights into how your content is being shared on Twitter. Through personalized data and best practices,Twitter Card analytics reveals how you can...]]></description>
-   <pubDate>Thu, 23 Jan 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
    <title>Troubleshooting &amp; FAQ</title>
    <link>https://dev.twitter.com/docs/cards/troubleshooting</link>
    <description><![CDATA[We created this troubleshooting guide to help you identify and resolve commonly encountered issues during Cards development. We've tried to make this guide as useful and comprehensive as possible. If there's something wrong, or you feel something should be added, please reach out to us via the...]]></description>
-   <pubDate>Thu, 23 Jan 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Twitter Cards</title>
-   <link>https://dev.twitter.com/docs/cards</link>
-   <description><![CDATA[Introduction Twitter cards make it possible for you to attach media experiences to Tweets that link to your content. Simply add a few lines of HTML to your webpages, and users who Tweet links to your content will have a "card" added to the Tweet that’s visible to all of their followers....]]></description>
    <pubDate>Thu, 23 Jan 2014 00:00:00 +0100</pubDate>
   </item>
   <item>
