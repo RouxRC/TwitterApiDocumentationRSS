@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 31 Jan 2014 19:00:02 +0100</pubDate>
+  <pubDate>Tue, 04 Feb 2014 03:45:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Obtaining access tokens</title>
+   <link>https://dev.twitter.com/docs/auth/obtaining-access-tokens</link>
+   <description><![CDATA[In order to make authorized calls to Twitter's APIs, your application must first obtain an OAuth access token on behalf of a Twitter user or you could issue Application-only authenticated requests when user context is not required. The way you will obtain such tokens will depend on your use case...]]></description>
+   <pubDate>Mon, 03 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Single-user OAuth with Examples</title>
    <link>https://dev.twitter.com/docs/auth/oauth/single-user-with-examples</link>
@@ -118,12 +124,6 @@
    <title>Which languages are supported by embedded widgets?</title>
    <link>https://dev.twitter.com/docs/faq/#23735</link>
    <description><![CDATA[Widgets are available in 28 of the languages supported by Twitter's website and clients. The language is determined automatically from the page a widget is embedded upon: That is, an HTML lang attribute on the embed code element or an ancestor determines the language of the widget chrome. Ideally...]]></description>
-   <pubDate>Tue, 03 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>What happens if twitter.com has an error or is over capacity?</title>
-   <link>https://dev.twitter.com/docs/faq/#23736</link>
-   <description><![CDATA[The Tweet Button and Follow Button are hosted on high performance content distribution networks, and are separate from twitter.com. This means if twitter.com goes down your site will not be affected, and the button will still display. When a user clicks the button, the Tweet or User Intent is...]]></description>
    <pubDate>Tue, 03 Dec 2013 00:00:00 +0100</pubDate>
   </item>
  </channel>
