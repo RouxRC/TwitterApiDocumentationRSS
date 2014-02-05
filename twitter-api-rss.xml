@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 05 Feb 2014 18:00:02 +0100</pubDate>
+  <pubDate>Wed, 05 Feb 2014 19:00:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Why can&#039;t I create an application?</title>
+   <link>https://dev.twitter.com/docs/faq/#25781</link>
+   <description><![CDATA[If you're having trouble fulfilling application creation requirements, please contact our Platform Operations team by using the "I have an API policy question not covered by these points" option of the contact form at https://support.twitter.com/forms/platform]]></description>
+   <pubDate>Wed, 05 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Embedded Tweets</title>
    <link>https://dev.twitter.com/docs/embedded-tweets</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/streaming-apis/keyword-matching</link>
    <description><![CDATA[The way POST statuses/filter checks if a tweet includes a keyword is already explained in the track parameter documentation but explaining how every corner case works would make it look more complicated than it is, so on this page you can try interactively. Caution: This was written to be as close...]]></description>
    <pubDate>Tue, 10 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>POST geo/place</title>
-   <link>https://dev.twitter.com/docs/api/1.1/post/geo/place</link>
-   <description><![CDATA[As of December 2nd, 2013, this endpoint is deprecated and retired and no longer functions. Place creation was used infrequently by third party applications and is generally no longer supported on Twitter. Requests will return with status 410 (Gone) with error code 251. Follow the discussion about...]]></description>
-   <pubDate>Wed, 04 Dec 2013 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
