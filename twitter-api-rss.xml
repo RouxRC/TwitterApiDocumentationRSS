@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 04 Feb 2014 08:00:02 +0100</pubDate>
+  <pubDate>Wed, 05 Feb 2014 01:45:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Embedded Tweets</title>
+   <link>https://dev.twitter.com/docs/embedded-tweets</link>
+   <description><![CDATA[English | 日本語 Overview Embedded Tweets make it possible for you take any Tweet and embed it directly in to the content of your article or website. Tweets display with expanded media like photos, videos, and article summaries, and also include real-time retweet and favorite counts. When...]]></description>
+   <pubDate>Tue, 04 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Twitter Cards</title>
    <link>https://dev.twitter.com/docs/cards</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/api/1.1/post/geo/place</link>
    <description><![CDATA[As of December 2nd, 2013, this endpoint is deprecated and retired and no longer functions. Place creation was used infrequently by third party applications and is generally no longer supported on Twitter. Requests will return with status 410 (Gone) with error code 251. Follow the discussion about...]]></description>
    <pubDate>Wed, 04 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Which languages are supported by embedded widgets?</title>
-   <link>https://dev.twitter.com/docs/faq/#23735</link>
-   <description><![CDATA[Widgets are available in 28 of the languages supported by Twitter's website and clients. The language is determined automatically from the page a widget is embedded upon: That is, an HTML lang attribute on the embed code element or an ancestor determines the language of the widget chrome. Ideally...]]></description>
-   <pubDate>Tue, 03 Dec 2013 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
