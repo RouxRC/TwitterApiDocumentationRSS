@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 06 Feb 2014 19:30:03 +0100</pubDate>
+  <pubDate>Fri, 07 Feb 2014 20:30:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>CSS for Embedded Widgets</title>
+   <link>https://dev.twitter.com/docs/tfw/embed-code-css</link>
+   <description><![CDATA[When embedding a Twitter for Websites widget, a placeholder is pasted into your page. This takes the form of either a link to the equivalent page on Twitter (a profile, timeline, or Web Intent), or an HTML &lt;blockquote&gt; of the Tweet being embedded. These shallow versions of the widgets are...]]></description>
+   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Why can&#039;t I create an application?</title>
    <link>https://dev.twitter.com/docs/faq/#25781</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/api/1.1/post/blocks/create</link>
    <description><![CDATA[Blocks the specified user from following the authenticating user. In addition the blocked user will not show in the authenticating users mentions or timeline (unless retweeted by another user). If a follow or friend relationship exists it is destroyed.]]></description>
    <pubDate>Thu, 12 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Streaming API keyword matching</title>
-   <link>https://dev.twitter.com/docs/streaming-apis/keyword-matching</link>
-   <description><![CDATA[The way POST statuses/filter checks if a tweet includes a keyword is already explained in the track parameter documentation but explaining how every corner case works would make it look more complicated than it is, so on this page you can try interactively. Caution: This was written to be as close...]]></description>
-   <pubDate>Tue, 10 Dec 2013 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
