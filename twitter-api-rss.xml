@@ -4,8 +4,44 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 07 Feb 2014 20:45:02 +0100</pubDate>
+  <pubDate>Fri, 07 Feb 2014 22:00:04 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Embedded Timelines</title>
+   <link>https://dev.twitter.com/docs/embedded-timelines</link>
+   <description><![CDATA[English | 日本語 Overview Embeddable timelines make it easy to syndicate any public Twitter timeline to your website with one line of code. Just like timelines on twitter.com, embeddable timelines are interactive and enable your visitors to reply, Retweet, and favorite Tweets directly from your...]]></description>
+   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Embedded Tweets</title>
+   <link>https://dev.twitter.com/docs/embedded-tweets</link>
+   <description><![CDATA[English | 日本語 Overview Embedded Tweets make it possible for you take any Tweet and embed it directly in to the content of your article or website. Tweets display with expanded media like photos, videos, and article summaries, and also include real-time retweet and favorite counts. When...]]></description>
+   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Follow Button</title>
+   <link>https://dev.twitter.com/docs/follow-button</link>
+   <description><![CDATA[The Follow Button is a small widget which allows users to easily follow a Twitter account from any webpage. The Follow Button uses the same implementation model as the Tweet Button, and its integration is just as simple. By using the Follow Button, you agree to the Developer Rules of the Road....]]></description>
+   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Web Intents</title>
+   <link>https://dev.twitter.com/docs/intents</link>
+   <description><![CDATA[By using Web Intents, you agree to the Developer Rules of the Road. Make it easy to bring interactivity to Tweets that you display on the web. Web Intents provide popup-optimized flows for working with Tweets &amp; Twitter Users: Tweet, Reply, Retweet, Favorite, and Follow. They make it possible...]]></description>
+   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Share Bookmarklet</title>
+   <link>https://dev.twitter.com/docs/share-bookmarklet</link>
+   <description><![CDATA[Overview The Share Bookmarklet makes it easy for you to share any webpage on Twitter, even if there isn&rsquo;t a Tweet Button. It works in all major browsers and is easy to install. Getting the Bookmarklet Share on Twitter To use the bookmarklet just drag the Share on Twitter...]]></description>
+   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>How should I file a bug report about a Twitter widget?</title>
+   <link>https://dev.twitter.com/docs/faq/#25874</link>
+   <description><![CDATA[Sorry that you're having trouble. We work constantly to fix bugs, tweak functionality and improve browser support of our widgets, and hopefully we can help resolve your issue, too. Before reporting a bug, please verify as much of the following as you are able: Check the FAQ for known limitations...]]></description>
+   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Why am I signed in as a different user on apps.twitter.com than on dev.twitter.com?</title>
    <link>https://dev.twitter.com/docs/faq/#25873</link>
@@ -35,12 +71,6 @@
    <link>https://dev.twitter.com/docs/faq/#25781</link>
    <description><![CDATA[If you're having trouble fulfilling application creation requirements, please contact our Platform Operations team by using the "I have an API policy question not covered by these points" option of the contact form at https://support.twitter.com/forms/platform]]></description>
    <pubDate>Wed, 05 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Embedded Tweets</title>
-   <link>https://dev.twitter.com/docs/embedded-tweets</link>
-   <description><![CDATA[English | 日本語 Overview Embedded Tweets make it possible for you take any Tweet and embed it directly in to the content of your article or website. Tweets display with expanded media like photos, videos, and article summaries, and also include real-time retweet and favorite counts. When...]]></description>
-   <pubDate>Tue, 04 Feb 2014 00:00:00 +0100</pubDate>
   </item>
   <item>
    <title>Twitter Cards</title>
@@ -95,36 +125,6 @@
    <link>https://dev.twitter.com/programs/twitter-certified-products/products</link>
    <description><![CDATA[English | 日本語 Certified Products Product Description Badge Adobe Social Adobe Social connects the dots between social interactions and business results, enabling marketers to demonstrate social impact at every stage of the...]]></description>
    <pubDate>Wed, 18 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Player Card</title>
-   <link>https://dev.twitter.com/docs/cards/types/player-card</link>
-   <description><![CDATA[The Player Card type requires special approval, and is not available for immediate approval at this time. The Player Card is for streaming media experiences such as audio, video, or slideshows, and allows you to present your content inside of an iframe within the Tweet. Unlike the photo and...]]></description>
-   <pubDate>Wed, 18 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Player Card Whitelisting</title>
-   <link>https://dev.twitter.com/docs/cards/types/player-card/whitelisting</link>
-   <description><![CDATA[Thank you for your interest in using the Twitter Player Card. To help expedite the whitelisting of your Card, it is useful to read the below fully and provide the appropriate information. Unfortunately, we are currently backlogged in our approval of Player Cards, so responses may vary...]]></description>
-   <pubDate>Tue, 17 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Follow Button</title>
-   <link>https://dev.twitter.com/docs/follow-button</link>
-   <description><![CDATA[The Follow Button is a small widget which allows users to easily follow a Twitter account from any webpage. The Follow Button uses the same implementation model as the Tweet Button, and its integration is just as simple. By using the Follow Button, you agree to the Developer Rules of the Road....]]></description>
-   <pubDate>Tue, 17 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Entities in Twitter Objects</title>
-   <link>https://dev.twitter.com/docs/entities</link>
-   <description><![CDATA[See also Entities from the Field Guide. Entities for Tweets Entities for Retweets Entities for Users Entities for Direct Messages Entities for Tweets Entities provide structured data from Tweets including resolved URLs, media, hashtags and mentions without having to parse the text to...]]></description>
-   <pubDate>Mon, 16 Dec 2013 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Entities</title>
-   <link>https://dev.twitter.com/docs/platform-objects/entities</link>
-   <description><![CDATA[Entities provide metadata and additional contextual information about content posted on Twitter. Entities are never divorced from the content they describe. In API v1.1, entities will be returned wherever Tweets are found in the API. Entities are instrumental in resolving URLs. Read Entities in...]]></description>
-   <pubDate>Mon, 16 Dec 2013 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
