@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 10 Feb 2014 22:15:02 +0100</pubDate>
+  <pubDate>Wed, 12 Feb 2014 02:45:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>How should I file a bug report about a Twitter widget?</title>
+   <link>https://dev.twitter.com/docs/faq/#25874</link>
+   <description><![CDATA[Sorry that you're having trouble. We work constantly to fix bugs, tweak functionality and improve browser support of our widgets, and hopefully we can help resolve your issue, too. Before reporting a bug, please verify as much of the following as you are able: Check the FAQ for known limitations...]]></description>
+   <pubDate>Tue, 11 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Player Card</title>
    <link>https://dev.twitter.com/docs/cards/types/player-card</link>
@@ -40,12 +46,6 @@
    <title>Share Bookmarklet</title>
    <link>https://dev.twitter.com/docs/share-bookmarklet</link>
    <description><![CDATA[Overview The Share Bookmarklet makes it easy for you to share any webpage on Twitter, even if there isn&rsquo;t a Tweet Button. It works in all major browsers and is easy to install. Getting the Bookmarklet Share on Twitter To use the bookmarklet just drag the Share on Twitter...]]></description>
-   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>How should I file a bug report about a Twitter widget?</title>
-   <link>https://dev.twitter.com/docs/faq/#25874</link>
-   <description><![CDATA[Sorry that you're having trouble. We work constantly to fix bugs, tweak functionality and improve browser support of our widgets, and hopefully we can help resolve your issue, too. Before reporting a bug, please verify as much of the following as you are able: Check the FAQ for known limitations...]]></description>
    <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
   </item>
   <item>
