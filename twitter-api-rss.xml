@@ -4,8 +4,32 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 13 Feb 2014 01:45:02 +0100</pubDate>
+  <pubDate>Tue, 18 Feb 2014 03:30:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Player Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/player-card</link>
+   <description><![CDATA[English | 日本語 The Player Card type requires special approval, and is not available for immediate approval at this time. The Player Card is for streaming media experiences such as audio, video, or slideshows, and allows you to present your content inside of an iframe within the Tweet....]]></description>
+   <pubDate>Mon, 17 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>App Installs and Deep-Linking</title>
+   <link>https://dev.twitter.com/docs/cards/app-installs-and-deep-linking</link>
+   <description><![CDATA[English | 日本語 Introduction One of the most important features in the new Cards is the ability to allow users to download your app (if the user doesn't already have it installed), or deep-link into your own app (if the app is already installed on the user's mobile device). The ability to enable...]]></description>
+   <pubDate>Mon, 17 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>playerカード</title>
+   <link>https://dev.twitter.com/ja/docs/cards/types/player-card</link>
+   <description><![CDATA[English | 日本語 playerカードを使用できる前に、特別な審査が必要です。 playerカードは音声や動画、スライドショーを視聴できるカードです。コンテンツがツイート内のiframeの中に表示されます。photoやsummaryカードと異なり、コンテンツ配信に関する全てをデベロッパー側で管理する必要があり、下記の全てのTwitterアプリケーションで動作するよう実装しなければなりません。 twitter.com と mobile.twitter.com Twitter for iPhone Twitter for Android...]]></description>
+   <pubDate>Mon, 17 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>アプリケーション・インストールとディープ・リンク</title>
+   <link>https://dev.twitter.com/ja/docs/cards/app-installs-and-deep-linking</link>
+   <description><![CDATA[English | 日本語 紹介 新しいTwitterカードでは、インストールされていないネイティブ・アプリケーションをカードからインストールしたり、インストールされているネイティブ・アプリケーションへのディープ・リンクを設定できます。どのカードの種類でもアプリケーション・インストールとディープ・リンクを使用できます。以下に説明されている通り、必要なのはカード情報にメタタグを追加するだけです。 アプリケーション・インストール このタグを追加すれば、...]]></description>
+   <pubDate>Mon, 17 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Share Bookmarklet</title>
    <link>https://dev.twitter.com/docs/share-bookmarklet</link>
@@ -17,12 +41,6 @@
    <link>https://dev.twitter.com/docs/tfw/set-up</link>
    <description><![CDATA[The easiest way to create a Twitter for Websites widget—a Tweet button, Follow button, embedded Tweet or timeline—is to use our configuration tools, then copy and paste the generated HTML code into the template for your site. Create a Tweet or Follow Button]]></description>
    <pubDate>Wed, 12 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Player Card</title>
-   <link>https://dev.twitter.com/docs/cards/types/player-card</link>
-   <description><![CDATA[The Player Card type requires special approval, and is not available for immediate approval at this time. The Player Card is for streaming media experiences such as audio, video, or slideshows, and allows you to present your content inside of an iframe within the Tweet. Unlike the photo and...]]></description>
-   <pubDate>Tue, 11 Feb 2014 00:00:00 +0100</pubDate>
   </item>
   <item>
    <title>How should I file a bug report about a Twitter widget?</title>
@@ -107,24 +125,6 @@
    <link>https://dev.twitter.com/docs/cards/analytics</link>
    <description><![CDATA[Introduction Twitter Cards allow you to attach rich media experiences to Tweets about your content; Twitter Card analytics gives you related insights into how your content is being shared on Twitter. Through personalized data and best practices,Twitter Card analytics reveals how you can...]]></description>
    <pubDate>Mon, 27 Jan 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>User Profile Images and Banners</title>
-   <link>https://dev.twitter.com/docs/user-profile-images-and-banners</link>
-   <description><![CDATA[Profile Images Profile images (or avatars) are an important component of a Twitter account's expression of identity. To upload an avatar on behalf of a user, use POST account/update_profile_image. Alternative image sizes for user profile images You can obtain a user's most recent profile image,...]]></description>
-   <pubDate>Mon, 27 Jan 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Troubleshooting &amp; FAQ</title>
-   <link>https://dev.twitter.com/docs/cards/troubleshooting</link>
-   <description><![CDATA[We created this troubleshooting guide to help you identify and resolve commonly encountered issues during Cards development. We've tried to make this guide as useful and comprehensive as possible. If there's something wrong, or you feel something should be added, please reach out to us via the...]]></description>
-   <pubDate>Thu, 23 Jan 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Twitter Libraries</title>
-   <link>https://dev.twitter.com/docs/twitter-libraries</link>
-   <description><![CDATA[These libraries, while not necessarily tested by Twitter, should support Twitter API v1.1. Want your library to be included in this index or need to update the details we have? Submit your library for inclusion! Libraries built and maintained by Twitter Java hbc &mdash; A Java HTTP client for...]]></description>
-   <pubDate>Tue, 21 Jan 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
