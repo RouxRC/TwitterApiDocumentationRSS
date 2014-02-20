@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 20 Feb 2014 15:30:02 +0100</pubDate>
+  <pubDate>Thu, 20 Feb 2014 16:30:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Twitter Certified Products Program</title>
+   <link>https://dev.twitter.com/programs/twitter-certified-products</link>
+   <description><![CDATA[English | 日本語 The Twitter Certified program identifies the best products and services that help businesses thrive on Twitter. The Twitter Certified program consists of two data resellers - licensed to syndicate Tweet content &mdash; and a constantly growing list of the leading solutions from the...]]></description>
+   <pubDate>Thu, 20 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Application-only authentication</title>
    <link>https://dev.twitter.com/docs/auth/application-only-auth</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/auth/obtaining-access-tokens</link>
    <description><![CDATA[In order to make authorized calls to Twitter's APIs, your application must first obtain an OAuth access token on behalf of a Twitter user or you could issue Application-only authenticated requests when user context is not required. The way you will obtain such tokens will depend on your use case...]]></description>
    <pubDate>Mon, 03 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Single-user OAuth with Examples</title>
-   <link>https://dev.twitter.com/docs/auth/oauth/single-user-with-examples</link>
-   <description><![CDATA[Please note: Most developers will find working with Application-only authentication a superior approach than what is documented below. Twitter offers the ability for you to retrieve a single access token (complete with oauth_token_secret) from application detail pages found on dev.twitter.com....]]></description>
-   <pubDate>Mon, 27 Jan 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
