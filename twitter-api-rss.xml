@@ -4,12 +4,24 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 20 Feb 2014 16:30:03 +0100</pubDate>
+  <pubDate>Thu, 20 Feb 2014 16:45:03 +0100</pubDate>
   <generator>RouxRC</generator>
   <item>
    <title>Twitter Certified Products Program</title>
    <link>https://dev.twitter.com/programs/twitter-certified-products</link>
-   <description><![CDATA[English | 日本語 The Twitter Certified program identifies the best products and services that help businesses thrive on Twitter. The Twitter Certified program consists of two data resellers - licensed to syndicate Tweet content &mdash; and a constantly growing list of the leading solutions from the...]]></description>
+   <description><![CDATA[English | 日本語 The Twitter Certified program identifies the best products and services that help businesses thrive on Twitter. The Twitter Certified program consists of two data resellers &mdash; licensed to syndicate Tweet content &mdash; and a constantly growing list of the leading solutions from...]]></description>
+   <pubDate>Thu, 20 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Certified Products</title>
+   <link>https://dev.twitter.com/programs/twitter-certified-products/products</link>
+   <description><![CDATA[English | 日本語 Certified Products Product Description Badge Adobe Social Adobe Social connects the dots between social interactions and business results, enabling marketers to demonstrate social impact at every stage of the...]]></description>
+   <pubDate>Thu, 20 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Twitter Certified Products Requirements</title>
+   <link>https://dev.twitter.com/programs/twitter-certified-products/requirements</link>
+   <description><![CDATA[The terms below are requirements for all products in the Twitter Certified Products Program. Current and potential partners must fully adhere to these requirements for certification. We encourage you to audit your product against all of these terms before applying to the Twitter Certified...]]></description>
    <pubDate>Thu, 20 Feb 2014 00:00:00 +0100</pubDate>
   </item>
   <item>
@@ -113,18 +125,6 @@
    <link>https://dev.twitter.com/docs/faq/#25781</link>
    <description><![CDATA[If you're having trouble fulfilling application creation requirements, please contact our Platform Operations team by using the "I have an API policy question not covered by these points" option of the contact form at https://support.twitter.com/forms/platform]]></description>
    <pubDate>Wed, 05 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Twitter Cards</title>
-   <link>https://dev.twitter.com/docs/cards</link>
-   <description><![CDATA[Introduction Twitter Cards make it possible for you to attach media experiences to Tweets that link to your content. Simply add a few lines of HTML to your webpages, and users who Tweet links to your content will have a "card" added to the Tweet that’s visible to all of their followers....]]></description>
-   <pubDate>Mon, 03 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Obtaining access tokens</title>
-   <link>https://dev.twitter.com/docs/auth/obtaining-access-tokens</link>
-   <description><![CDATA[In order to make authorized calls to Twitter's APIs, your application must first obtain an OAuth access token on behalf of a Twitter user or you could issue Application-only authenticated requests when user context is not required. The way you will obtain such tokens will depend on your use case...]]></description>
-   <pubDate>Mon, 03 Feb 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
