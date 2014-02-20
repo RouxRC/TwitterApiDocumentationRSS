@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 18 Feb 2014 03:45:02 +0100</pubDate>
+  <pubDate>Thu, 20 Feb 2014 15:30:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Application-only authentication</title>
+   <link>https://dev.twitter.com/docs/auth/application-only-auth</link>
+   <description><![CDATA[Overview Twitter offers applications the ability to issue authenticated requests on behalf of the application itself (as opposed to on behalf of a specific user). Twitter's implementation is based on the Client Credentials Grant flow of the OAuth 2 specification. Note that OAuth 1.0a is still...]]></description>
+   <pubDate>Thu, 20 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Player Card</title>
    <link>https://dev.twitter.com/docs/cards/types/player-card</link>
@@ -118,12 +124,6 @@
    <title>Single-user OAuth with Examples</title>
    <link>https://dev.twitter.com/docs/auth/oauth/single-user-with-examples</link>
    <description><![CDATA[Please note: Most developers will find working with Application-only authentication a superior approach than what is documented below. Twitter offers the ability for you to retrieve a single access token (complete with oauth_token_secret) from application detail pages found on dev.twitter.com....]]></description>
-   <pubDate>Mon, 27 Jan 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Twitter Card Analytics</title>
-   <link>https://dev.twitter.com/docs/cards/analytics</link>
-   <description><![CDATA[Introduction Twitter Cards allow you to attach rich media experiences to Tweets about your content; Twitter Card analytics gives you related insights into how your content is being shared on Twitter. Through personalized data and best practices,Twitter Card analytics reveals how you can...]]></description>
    <pubDate>Mon, 27 Jan 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
