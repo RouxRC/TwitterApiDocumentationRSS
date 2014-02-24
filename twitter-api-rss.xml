@@ -4,7 +4,127 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 24 Feb 2014 17:05:01 +0100</pubDate>
+  <pubDate>Mon, 24 Feb 2014 17:15:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Twitter Certified Products Program</title>
+   <link>https://dev.twitter.com/programs/twitter-certified-products</link>
+   <description><![CDATA[English | 日本語 The Twitter Certified program identifies the best products and services that help businesses thrive on Twitter. The Twitter Certified program consists of two data resellers &mdash; licensed to syndicate Tweet content &mdash; and a constantly growing list of the leading solutions from...]]></description>
+   <pubDate>Thu, 20 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Certified Products</title>
+   <link>https://dev.twitter.com/programs/twitter-certified-products/products</link>
+   <description><![CDATA[English | 日本語 Certified Products Product Description Badge Adobe Social Adobe Social connects the dots between social interactions and business results, enabling marketers to demonstrate social impact at every stage of the...]]></description>
+   <pubDate>Thu, 20 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Twitter Certified Products Requirements</title>
+   <link>https://dev.twitter.com/programs/twitter-certified-products/requirements</link>
+   <description><![CDATA[The terms below are requirements for all products in the Twitter Certified Products Program. Current and potential partners must fully adhere to these requirements for certification. We encourage you to audit your product against all of these terms before applying to the Twitter Certified...]]></description>
+   <pubDate>Thu, 20 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Application-only authentication</title>
+   <link>https://dev.twitter.com/docs/auth/application-only-auth</link>
+   <description><![CDATA[Overview Twitter offers applications the ability to issue authenticated requests on behalf of the application itself (as opposed to on behalf of a specific user). Twitter's implementation is based on the Client Credentials Grant flow of the OAuth 2 specification. Note that OAuth 1.0a is still...]]></description>
+   <pubDate>Thu, 20 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Player Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/player-card</link>
+   <description><![CDATA[English | 日本語 The Player Card type requires special approval, and is not available for immediate approval at this time. The Player Card is for streaming media experiences such as audio, video, or slideshows, and allows you to present your content inside of an iframe within the Tweet....]]></description>
+   <pubDate>Mon, 17 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Playerカード</title>
+   <link>https://dev.twitter.com/ja/docs/cards/types/player-card</link>
+   <description><![CDATA[English | 日本語 Playerカードを使用できる前に、特別な審査が必要です。 Playerカードは音声や動画、スライドショーを視聴できるカードです。コンテンツがツイート内のiframeの中に表示されます。PhotoやSummaryカードと異なり、コンテンツ配信に関する全てをデベロッパー側で管理する必要があり、下記の全てのTwitterアプリケーションで動作するよう実装しなければなりません。 twitter.com と mobile.twitter.com Twitter for iPhone Twitter for Android...]]></description>
+   <pubDate>Mon, 17 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>App Installs and Deep-Linking</title>
+   <link>https://dev.twitter.com/docs/cards/app-installs-and-deep-linking</link>
+   <description><![CDATA[English | 日本語 Introduction One of the most important features in the new Cards is the ability to allow users to download your app (if the user doesn't already have it installed), or deep-link into your own app (if the app is already installed on the user's mobile device). The ability to enable...]]></description>
+   <pubDate>Mon, 17 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>アプリケーション・インストールとディープ・リンク</title>
+   <link>https://dev.twitter.com/ja/docs/cards/app-installs-and-deep-linking</link>
+   <description><![CDATA[English | 日本語 紹介 新しいTwitterカードでは、インストールされていないネイティブ・アプリケーションをカードからインストールしたり、インストールされているネイティブ・アプリケーションへのディープ・リンクを設定できます。どのカードの種類でもアプリケーション・インストールとディープ・リンクを使用できます。以下に説明されている通り、必要なのはカード情報にメタタグを追加するだけです。 アプリケーション・インストール このタグを追加すれば、...]]></description>
+   <pubDate>Mon, 17 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Share Bookmarklet</title>
+   <link>https://dev.twitter.com/docs/share-bookmarklet</link>
+   <description><![CDATA[Overview The Share Bookmarklet makes it easy for you to share any webpage on Twitter, even if there isn&rsquo;t a Tweet Button. It works in all major browsers and is easy to install. Getting the Bookmarklet Share on Twitter To use the bookmarklet just drag the Share on Twitter...]]></description>
+   <pubDate>Wed, 12 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Set-up Twitter for Websites</title>
+   <link>https://dev.twitter.com/docs/tfw/set-up</link>
+   <description><![CDATA[The easiest way to create a Twitter for Websites widget—a Tweet button, Follow button, embedded Tweet or timeline—is to use our configuration tools, then copy and paste the generated HTML code into the template for your site. Create a Tweet or Follow Button]]></description>
+   <pubDate>Wed, 12 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>How should I file a bug report about a Twitter widget?</title>
+   <link>https://dev.twitter.com/docs/faq/#25874</link>
+   <description><![CDATA[Sorry that you're having trouble. We work constantly to fix bugs, tweak functionality and improve browser support of our widgets, and hopefully we can help resolve your issue, too. Before reporting a bug, please verify as much of the following as you are able: Check the FAQ for known limitations...]]></description>
+   <pubDate>Tue, 11 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Embedded Timelines</title>
+   <link>https://dev.twitter.com/docs/embedded-timelines</link>
+   <description><![CDATA[English | 日本語 Overview Embeddable timelines make it easy to syndicate any public Twitter timeline to your website with one line of code. Just like timelines on twitter.com, embeddable timelines are interactive and enable your visitors to reply, Retweet, and favorite Tweets directly from your...]]></description>
+   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Embedded Tweets</title>
+   <link>https://dev.twitter.com/docs/embedded-tweets</link>
+   <description><![CDATA[English | 日本語 Overview Embedded Tweets make it possible for you take any Tweet and embed it directly in to the content of your article or website. Tweets display with expanded media like photos, videos, and article summaries, and also include real-time retweet and favorite counts. When...]]></description>
+   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Follow Button</title>
+   <link>https://dev.twitter.com/docs/follow-button</link>
+   <description><![CDATA[The Follow Button is a small widget which allows users to easily follow a Twitter account from any webpage. The Follow Button uses the same implementation model as the Tweet Button, and its integration is just as simple. By using the Follow Button, you agree to the Developer Rules of the Road....]]></description>
+   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Web Intents</title>
+   <link>https://dev.twitter.com/docs/intents</link>
+   <description><![CDATA[By using Web Intents, you agree to the Developer Rules of the Road. Make it easy to bring interactivity to Tweets that you display on the web. Web Intents provide popup-optimized flows for working with Tweets &amp; Twitter Users: Tweet, Reply, Retweet, Favorite, and Follow. They make it possible...]]></description>
+   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Why am I signed in as a different user on apps.twitter.com than on dev.twitter.com?</title>
+   <link>https://dev.twitter.com/docs/faq/#25873</link>
+   <description><![CDATA[Apps.twitter.com uses Twitter's centralized login and session service while dev.twitter.com does not currently share sessions with twitter.com.]]></description>
+   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>What happened to application management on dev.twitter.com?</title>
+   <link>https://dev.twitter.com/docs/faq/#25872</link>
+   <description><![CDATA[Application management has moved to https://apps.twiter.com/.]]></description>
+   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Where do I manage my Twitter applications?</title>
+   <link>https://dev.twitter.com/docs/faq/#25871</link>
+   <description><![CDATA[Manage your Twitter applications on https://apps.twiter.com by signing in with your Twitter account.]]></description>
+   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>CSS for Embedded Widgets</title>
+   <link>https://dev.twitter.com/docs/tfw/embed-code-css</link>
+   <description><![CDATA[When embedding a Twitter for Websites widget, a placeholder is pasted into your page. This takes the form of either a link to the equivalent page on Twitter (a profile, timeline, or Web Intent), or an HTML &lt;blockquote&gt; of the Tweet being embedded. These shallow versions of the widgets are...]]></description>
+   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
+  <item>
+   <title>Why can&#039;t I create an application?</title>
+   <link>https://dev.twitter.com/docs/faq/#25781</link>
+   <description><![CDATA[If you're having trouble fulfilling application creation requirements, please contact our Platform Operations team by using the "I have an API policy question not covered by these points" option of the contact form at https://support.twitter.com/forms/platform]]></description>
+   <pubDate>Wed, 05 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
  </channel>
 </rss>
