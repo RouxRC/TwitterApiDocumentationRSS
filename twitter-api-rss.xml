@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 27 Feb 2014 14:15:02 +0100</pubDate>
+  <pubDate>Thu, 27 Feb 2014 20:15:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Useful Links We Found</title>
+   <link>https://dev.twitter.com/docs/misc/useful-articles</link>
+   <description><![CDATA[On using API v1.1 Using API v1.1 with the SignPost library for Scala or Java Streaming data from Twitter using the 1.1 Search API On OAuth Apigee's OAuth: the Big Picture Using OAuth for Twitter Authentication on the BlackBerry PlayBook Using Twitter API with LIFT, Scala, and...]]></description>
+   <pubDate>Thu, 27 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Error Codes &amp; Responses</title>
    <link>https://dev.twitter.com/docs/error-codes-responses</link>
@@ -118,12 +124,6 @@
    <title>What happened to application management on dev.twitter.com?</title>
    <link>https://dev.twitter.com/docs/faq/#25872</link>
    <description><![CDATA[Application management has moved to https://apps.twiter.com/.]]></description>
-   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Where do I manage my Twitter applications?</title>
-   <link>https://dev.twitter.com/docs/faq/#25871</link>
-   <description><![CDATA[Manage your Twitter applications on https://apps.twiter.com by signing in with your Twitter account.]]></description>
    <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
