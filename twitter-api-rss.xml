@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 26 Feb 2014 20:45:02 +0100</pubDate>
+  <pubDate>Thu, 27 Feb 2014 14:00:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Connecting to Twitter API using SSL</title>
+   <link>https://dev.twitter.com/docs/security/using-ssl</link>
+   <description><![CDATA[Currently, only SSL connections are allowed in Twitter API endpoints. Communicating over SSL preserves user privacy by protecting information between the user and the Twitter API as it travels across the public Internet. Using OAuth isn't enough While OAuth is mandated and protects the user...]]></description>
+   <pubDate>Thu, 27 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Twitter Certified Products Program</title>
    <link>https://dev.twitter.com/programs/twitter-certified-products</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/tfw/embed-code-css</link>
    <description><![CDATA[When embedding a Twitter for Websites widget, a placeholder is pasted into your page. This takes the form of either a link to the equivalent page on Twitter (a profile, timeline, or Web Intent), or an HTML &lt;blockquote&gt; of the Tweet being embedded. These shallow versions of the widgets are...]]></description>
    <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Why can&#039;t I create an application?</title>
-   <link>https://dev.twitter.com/docs/faq/#25781</link>
-   <description><![CDATA[If you're having trouble fulfilling application creation requirements, please contact our Platform Operations team by using the "I have an API policy question not covered by these points" option of the contact form at https://support.twitter.com/forms/platform]]></description>
-   <pubDate>Wed, 05 Feb 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
