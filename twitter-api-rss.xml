@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 27 Feb 2014 14:00:03 +0100</pubDate>
+  <pubDate>Thu, 27 Feb 2014 14:15:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Error Codes &amp; Responses</title>
+   <link>https://dev.twitter.com/docs/error-codes-responses</link>
+   <description><![CDATA[HTTP Status Codes The Twitter API attempts to return appropriate HTTP status codes for every request. It is possible to suppress response codes for the REST API. Code Text Description 200 OK Success...]]></description>
+   <pubDate>Thu, 27 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Connecting to Twitter API using SSL</title>
    <link>https://dev.twitter.com/docs/security/using-ssl</link>
@@ -118,12 +124,6 @@
    <title>Where do I manage my Twitter applications?</title>
    <link>https://dev.twitter.com/docs/faq/#25871</link>
    <description><![CDATA[Manage your Twitter applications on https://apps.twiter.com by signing in with your Twitter account.]]></description>
-   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>CSS for Embedded Widgets</title>
-   <link>https://dev.twitter.com/docs/tfw/embed-code-css</link>
-   <description><![CDATA[When embedding a Twitter for Websites widget, a placeholder is pasted into your page. This takes the form of either a link to the equivalent page on Twitter (a profile, timeline, or Web Intent), or an HTML &lt;blockquote&gt; of the Tweet being embedded. These shallow versions of the widgets are...]]></description>
    <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
