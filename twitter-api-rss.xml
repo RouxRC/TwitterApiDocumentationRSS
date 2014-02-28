@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 28 Feb 2014 01:00:03 +0100</pubDate>
+  <pubDate>Fri, 28 Feb 2014 16:15:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>GET friendships/lookup</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/friendships/lookup</link>
+   <description><![CDATA[Returns the relationships of the authenticating user to the comma-separated list of up to 100 screen_names or user_ids provided. Values for connections can be: following, following_requested, followed_by, none, blocking.]]></description>
+   <pubDate>Fri, 28 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>GET lists/show</title>
    <link>https://dev.twitter.com/docs/api/1/get/lists/show</link>
@@ -118,12 +124,6 @@
    <title>Web Intents</title>
    <link>https://dev.twitter.com/docs/intents</link>
    <description><![CDATA[By using Web Intents, you agree to the Developer Rules of the Road. Make it easy to bring interactivity to Tweets that you display on the web. Web Intents provide popup-optimized flows for working with Tweets &amp; Twitter Users: Tweet, Reply, Retweet, Favorite, and Follow. They make it possible...]]></description>
-   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Why am I signed in as a different user on apps.twitter.com than on dev.twitter.com?</title>
-   <link>https://dev.twitter.com/docs/faq/#25873</link>
-   <description><![CDATA[Apps.twitter.com uses Twitter's centralized login and session service while dev.twitter.com does not currently share sessions with twitter.com.]]></description>
    <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
