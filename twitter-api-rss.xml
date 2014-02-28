@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 27 Feb 2014 20:15:03 +0100</pubDate>
+  <pubDate>Fri, 28 Feb 2014 01:00:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>GET lists/show</title>
+   <link>https://dev.twitter.com/docs/api/1/get/lists/show</link>
+   <description><![CDATA[Returns the specified list. Private lists will only be shown if the authenticated user owns the specified list.]]></description>
+   <pubDate>Thu, 27 Feb 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Useful Links We Found</title>
    <link>https://dev.twitter.com/docs/misc/useful-articles</link>
@@ -118,12 +124,6 @@
    <title>Why am I signed in as a different user on apps.twitter.com than on dev.twitter.com?</title>
    <link>https://dev.twitter.com/docs/faq/#25873</link>
    <description><![CDATA[Apps.twitter.com uses Twitter's centralized login and session service while dev.twitter.com does not currently share sessions with twitter.com.]]></description>
-   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>What happened to application management on dev.twitter.com?</title>
-   <link>https://dev.twitter.com/docs/faq/#25872</link>
-   <description><![CDATA[Application management has moved to https://apps.twiter.com/.]]></description>
    <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
