@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sun, 02 Mar 2014 21:00:02 +0100</pubDate>
+  <pubDate>Tue, 04 Mar 2014 09:00:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Summary Card with Large Image</title>
+   <link>https://dev.twitter.com/docs/cards/large-image-summary-card</link>
+   <description><![CDATA[In addition to our regular Summary Card, we also have a format that allows you to feature a larger image above the title and description of the Card. The regular Summary Card features a thumbnail image in the upper right hand corner of the Card, but if you want to more prominently feature your...]]></description>
+   <pubDate>Mon, 03 Mar 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Twitter Cards</title>
    <link>https://dev.twitter.com/docs/cards</link>
@@ -118,12 +124,6 @@
    <title>Embedded Tweets</title>
    <link>https://dev.twitter.com/docs/embedded-tweets</link>
    <description><![CDATA[English | 日本語 Overview Embedded Tweets make it possible for you take any Tweet and embed it directly in to the content of your article or website. Tweets display with expanded media like photos, videos, and article summaries, and also include real-time retweet and favorite counts. When...]]></description>
-   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Follow Button</title>
-   <link>https://dev.twitter.com/docs/follow-button</link>
-   <description><![CDATA[The Follow Button is a small widget which allows users to easily follow a Twitter account from any webpage. The Follow Button uses the same implementation model as the Tweet Button, and its integration is just as simple. By using the Follow Button, you agree to the Developer Rules of the Road....]]></description>
    <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
