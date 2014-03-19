@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 18 Mar 2014 18:45:02 +0100</pubDate>
+  <pubDate>Wed, 19 Mar 2014 06:15:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Calendar of API changes</title>
+   <link>https://dev.twitter.com/calendar</link>
+   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
+   <pubDate>Tue, 18 Mar 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Error Codes &amp; Responses</title>
    <link>https://dev.twitter.com/docs/error-codes-responses</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/faq/#25874</link>
    <description><![CDATA[Sorry that you're having trouble. We work constantly to fix bugs, tweak functionality and improve browser support of our widgets, and hopefully we can help resolve your issue, too. Before reporting a bug, please verify as much of the following as you are able: Check the FAQ for known limitations...]]></description>
    <pubDate>Tue, 11 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Embedded Timelines</title>
-   <link>https://dev.twitter.com/docs/embedded-timelines</link>
-   <description><![CDATA[English | 日本語 Overview Embeddable timelines make it easy to syndicate any public Twitter timeline to your website with one line of code. Just like timelines on twitter.com, embeddable timelines are interactive and enable your visitors to reply, Retweet, and favorite Tweets directly from your...]]></description>
-   <pubDate>Fri, 07 Feb 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
