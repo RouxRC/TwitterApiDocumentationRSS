@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 19 Mar 2014 06:15:02 +0100</pubDate>
+  <pubDate>Thu, 20 Mar 2014 04:30:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>App Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/app-card</link>
+   <description><![CDATA[App Card is a great way to better represent mobile applications on Twitter and to drive installs. We designed the App Card to allow for a name, description and icon, and also to highlight attributes such as the rating and the price. This will require adding some new markup tags to your pages,...]]></description>
+   <pubDate>Wed, 19 Mar 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Calendar of API changes</title>
    <link>https://dev.twitter.com/calendar</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/tfw/set-up</link>
    <description><![CDATA[The easiest way to create a Twitter for Websites widget—a Tweet button, Follow button, embedded Tweet or timeline—is to use our configuration tools, then copy and paste the generated HTML code into the template for your site. Create a Tweet or Follow Button]]></description>
    <pubDate>Wed, 12 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>How should I file a bug report about a Twitter widget?</title>
-   <link>https://dev.twitter.com/docs/faq/#25874</link>
-   <description><![CDATA[Sorry that you're having trouble. We work constantly to fix bugs, tweak functionality and improve browser support of our widgets, and hopefully we can help resolve your issue, too. Before reporting a bug, please verify as much of the following as you are able: Check the FAQ for known limitations...]]></description>
-   <pubDate>Tue, 11 Feb 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
