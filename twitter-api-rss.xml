@@ -4,19 +4,19 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 26 Mar 2014 21:00:03 +0100</pubDate>
+  <pubDate>Thu, 27 Mar 2014 20:30:03 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Calendar of API changes</title>
+   <link>https://dev.twitter.com/calendar</link>
+   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
+   <pubDate>Thu, 27 Mar 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>App Card</title>
    <link>https://dev.twitter.com/docs/cards/types/app-card</link>
    <description><![CDATA[App Card is a great way to better represent mobile applications on Twitter and to drive installs. We designed the App Card to allow for a name, description and icon, and also to highlight attributes such as the rating and the price. This will require adding some new markup tags to your pages,...]]></description>
    <pubDate>Wed, 19 Mar 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Calendar of API changes</title>
-   <link>https://dev.twitter.com/calendar</link>
-   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
-   <pubDate>Tue, 18 Mar 2014 00:00:00 +0100</pubDate>
   </item>
   <item>
    <title>Error Codes &amp; Responses</title>
