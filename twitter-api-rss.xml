@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 27 Mar 2014 22:30:02 +0100</pubDate>
+  <pubDate>Fri, 28 Mar 2014 02:30:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Crimson Hexagon</title>
+   <link>https://dev.twitter.com/ja/programs/twitter-certified-products/crimson-hexagon</link>
+   <description><![CDATA[English | 日本語 @BrainPad_PRさんをフォロー !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, '...]]></description>
+   <pubDate>Thu, 27 Mar 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Calendar of API changes</title>
    <link>https://dev.twitter.com/calendar</link>
@@ -118,12 +124,6 @@
    <title>Share Bookmarklet</title>
    <link>https://dev.twitter.com/docs/share-bookmarklet</link>
    <description><![CDATA[Overview The Share Bookmarklet makes it easy for you to share any webpage on Twitter, even if there isn&rsquo;t a Tweet Button. It works in all major browsers and is easy to install. Getting the Bookmarklet Share on Twitter To use the bookmarklet just drag the Share on Twitter...]]></description>
-   <pubDate>Wed, 12 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Set-up Twitter for Websites</title>
-   <link>https://dev.twitter.com/docs/tfw/set-up</link>
-   <description><![CDATA[The easiest way to create a Twitter for Websites widget—a Tweet button, Follow button, embedded Tweet or timeline—is to use our configuration tools, then copy and paste the generated HTML code into the template for your site. Create a Tweet or Follow Button]]></description>
    <pubDate>Wed, 12 Feb 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
