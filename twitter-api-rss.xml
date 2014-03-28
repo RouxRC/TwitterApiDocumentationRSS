@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 28 Mar 2014 02:30:02 +0100</pubDate>
+  <pubDate>Fri, 28 Mar 2014 03:15:02 +0100</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Twitter公認製品プログラム</title>
+   <link>https://dev.twitter.com/ja/programs/twitter-certified-products</link>
+   <description><![CDATA[English | 日本語 Twitter公認製品プログラムとはTwitterのエコシステムパートナーの中から日本市場の各業界ニーズに応え、ビジネスの課題解決にベストなソリューションとして特に優れているものを認定するプログラムです。 プログラムメンバーがTwitterのAPIやデータをフルに活用し、企業のさらなる発展を支援する製品やサービスを提供できるよう継続的にサポートしていきます。 各製品の詳細は公認製品リストよりご覧ください...]]></description>
+   <pubDate>Thu, 27 Mar 2014 00:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Crimson Hexagon</title>
    <link>https://dev.twitter.com/ja/programs/twitter-certified-products/crimson-hexagon</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/ja/docs/cards/app-installs-and-deep-linking</link>
    <description><![CDATA[English | 日本語 紹介 新しいTwitterカードでは、インストールされていないネイティブ・アプリケーションをカードからインストールしたり、インストールされているネイティブ・アプリケーションへのディープ・リンクを設定できます。どのカードの種類でもアプリケーション・インストールとディープ・リンクを使用できます。以下に説明されている通り、必要なのはカード情報にメタタグを追加するだけです。 アプリケーション・インストール このタグを追加すれば、...]]></description>
    <pubDate>Mon, 17 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Share Bookmarklet</title>
-   <link>https://dev.twitter.com/docs/share-bookmarklet</link>
-   <description><![CDATA[Overview The Share Bookmarklet makes it easy for you to share any webpage on Twitter, even if there isn&rsquo;t a Tweet Button. It works in all major browsers and is easy to install. Getting the Bookmarklet Share on Twitter To use the bookmarklet just drag the Share on Twitter...]]></description>
-   <pubDate>Wed, 12 Feb 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
