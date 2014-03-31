@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 31 Mar 2014 04:45:02 +0200</pubDate>
+  <pubDate>Mon, 31 Mar 2014 20:15:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Embedded Tweets</title>
+   <link>https://dev.twitter.com/docs/embedded-tweets</link>
+   <description><![CDATA[English | 日本語 Overview Embedded Tweets make it possible for you take any Tweet and embed it directly in to the content of your article or website. Tweets display with expanded media like photos, videos, and article summaries, and also include real-time retweet and favorite counts. When...]]></description>
+   <pubDate>Mon, 31 Mar 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Twitter公認製品プログラム</title>
    <link>https://dev.twitter.com/ja/programs/twitter-certified-products</link>
@@ -118,12 +124,6 @@
    <title>App Installs and Deep-Linking</title>
    <link>https://dev.twitter.com/docs/cards/app-installs-and-deep-linking</link>
    <description><![CDATA[English | 日本語 Introduction One of the most important features in the new Cards is the ability to allow users to download your app (if the user doesn't already have it installed), or deep-link into your own app (if the app is already installed on the user's mobile device). The ability to enable...]]></description>
-   <pubDate>Mon, 17 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>アプリケーション・インストールとディープ・リンク</title>
-   <link>https://dev.twitter.com/ja/docs/cards/app-installs-and-deep-linking</link>
-   <description><![CDATA[English | 日本語 紹介 新しいTwitterカードでは、インストールされていないネイティブ・アプリケーションをカードからインストールしたり、インストールされているネイティブ・アプリケーションへのディープ・リンクを設定できます。どのカードの種類でもアプリケーション・インストールとディープ・リンクを使用できます。以下に説明されている通り、必要なのはカード情報にメタタグを追加するだけです。 アプリケーション・インストール このタグを追加すれば、...]]></description>
    <pubDate>Mon, 17 Feb 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
