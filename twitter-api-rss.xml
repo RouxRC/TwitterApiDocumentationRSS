@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 01 Apr 2014 04:45:02 +0200</pubDate>
+  <pubDate>Tue, 01 Apr 2014 08:30:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Things Every Developer Should Know</title>
+   <link>https://dev.twitter.com/docs/things-every-developer-should-know</link>
+   <description><![CDATA[Tweet IDs are enormous and break Javascript Use the id_str field instead of id whenever present to stay safe. Your web browser/Javascript interpreter/JSON consumer may munge our large integer-based ids which is why it's recommended to use the string representation. See Twitter IDs, JSON and...]]></description>
+   <pubDate>Mon, 31 Mar 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Embedded Tweets</title>
    <link>https://dev.twitter.com/docs/embedded-tweets</link>
@@ -118,12 +124,6 @@
    <title>Playerカード</title>
    <link>https://dev.twitter.com/ja/docs/cards/types/player-card</link>
    <description><![CDATA[English | 日本語 Playerカードを使用できる前に、特別な審査が必要です。 Playerカードは音声や動画、スライドショーを視聴できるカードです。コンテンツがツイート内のiframeの中に表示されます。PhotoやSummaryカードと異なり、コンテンツ配信に関する全てをデベロッパー側で管理する必要があり、下記の全てのTwitterアプリケーションで動作するよう実装しなければなりません。 twitter.com と mobile.twitter.com Twitter for iPhone Twitter for Android...]]></description>
-   <pubDate>Mon, 17 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>App Installs and Deep-Linking</title>
-   <link>https://dev.twitter.com/docs/cards/app-installs-and-deep-linking</link>
-   <description><![CDATA[English | 日本語 Introduction One of the most important features in the new Cards is the ability to allow users to download your app (if the user doesn't already have it installed), or deep-link into your own app (if the app is already installed on the user's mobile device). The ability to enable...]]></description>
    <pubDate>Mon, 17 Feb 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>

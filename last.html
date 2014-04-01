@@ -51,7 +51,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
          name="op"
          type="submit"
          value="Search"  />
-<input type="hidden" name="form_build_id" id="form-c315a96d8d60360ef3a27972b08e1a79" value="form-c315a96d8d60360ef3a27972b08e1a79"  />
+<input type="hidden" name="form_build_id" id="form-e4158f2709f0419ed35060ce7d2b73a1" value="form-e4158f2709f0419ed35060ce7d2b73a1"  />
 <input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
 
 </form>
@@ -77,7 +77,15 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
           </tr>
   </thead>
   <tbody>
-          <tr class="odd views-row-first views-row-last">
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-title">
+            <a href="/docs/things-every-developer-should-know">Things Every Developer Should Know</a>          </td>
+                  <td class="views-field views-field-body">
+            Tweet IDs are enormous and break Javascript
+
+  Use the id_str field instead of id whenever present to stay safe. Your web browser/Javascript interpreter/JSON consumer may munge our large integer-based ids which is why it's recommended to use the string representation. See Twitter IDs, JSON and...          </td>
+              </tr>
+          <tr class="even views-row-last">
                   <td class="views-field views-field-title">
             <a href="/docs/embedded-tweets">Embedded Tweets</a>          </td>
                   <td class="views-field views-field-body">
@@ -111,7 +119,7 @@ Embedded Tweets make it possible for you take any Tweet and embed it directly in
   プログラムメンバーがTwitterのAPIやデータをフルに活用し、企業のさらなる発展を支援する製品やサービスを提供できるよう継続的にサポートしていきます。
   各製品の詳細は公認製品リストよりご覧ください...          </td>
               </tr>
-          <tr class="even">
+          <tr class="even views-row-last">
                   <td class="views-field views-field-title">
             <a href="/ja/programs/twitter-certified-products/crimson-hexagon">Crimson Hexagon</a>          </td>
                   <td class="views-field views-field-body">
@@ -123,7 +131,7 @@ Embedded Tweets make it possible for you take any Tweet and embed it directly in
   @BrainPad_PRさんをフォロー
   !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, '...          </td>
               </tr>
-          <tr class="odd views-row-last">
+          <tr class="odd">
                   <td class="views-field views-field-title">
             <a href="/calendar">Calendar of API changes</a>          </td>
                   <td class="views-field views-field-body">
@@ -405,17 +413,6 @@ Playerカードは音声や動画、スライドショーを視聴できるカ�
   twitter.com と mobile.twitter.com
   Twitter for iPhone
   Twitter for Android...          </td>
-              </tr>
-          <tr class="odd">
-                  <td class="views-field views-field-title">
-            <a href="/docs/cards/app-installs-and-deep-linking">App Installs and Deep-Linking</a>          </td>
-                  <td class="views-field views-field-body">
-            English | 日本語
-
-
-  Introduction
-
-One of the most important features in the new Cards is the ability to allow users to download your app (if the user doesn't already have it installed), or deep-link into your own app (if the app is already installed on the user's mobile device). The ability to enable...          </td>
               </tr>
       </tbody>
 </table>
