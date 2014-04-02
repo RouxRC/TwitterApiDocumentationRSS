@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 01 Apr 2014 08:30:02 +0200</pubDate>
+  <pubDate>Wed, 02 Apr 2014 03:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Summary Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/summary-card</link>
+   <description><![CDATA[The Summary Card can be used for many kinds of web content, from blog posts and news articles, to products and restaurants. The screenshot below shows the expanded Tweet view for a New York Times article: Web Mobile...]]></description>
+   <pubDate>Tue, 01 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Things Every Developer Should Know</title>
    <link>https://dev.twitter.com/docs/things-every-developer-should-know</link>
@@ -118,12 +124,6 @@
    <title>Player Card</title>
    <link>https://dev.twitter.com/docs/cards/types/player-card</link>
    <description><![CDATA[English | 日本語 The Player Card type requires special approval, and is not available for immediate approval at this time. The Player Card is for streaming media experiences such as audio, video, or slideshows, and allows you to present your content inside of an iframe within the Tweet....]]></description>
-   <pubDate>Mon, 17 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Playerカード</title>
-   <link>https://dev.twitter.com/ja/docs/cards/types/player-card</link>
-   <description><![CDATA[English | 日本語 Playerカードを使用できる前に、特別な審査が必要です。 Playerカードは音声や動画、スライドショーを視聴できるカードです。コンテンツがツイート内のiframeの中に表示されます。PhotoやSummaryカードと異なり、コンテンツ配信に関する全てをデベロッパー側で管理する必要があり、下記の全てのTwitterアプリケーションで動作するよう実装しなければなりません。 twitter.com と mobile.twitter.com Twitter for iPhone Twitter for Android...]]></description>
    <pubDate>Mon, 17 Feb 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
