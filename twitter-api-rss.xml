@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 07 Apr 2014 21:30:02 +0200</pubDate>
+  <pubDate>Mon, 07 Apr 2014 23:15:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Calendar of API changes</title>
+   <link>https://dev.twitter.com/calendar</link>
+   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
+   <pubDate>Mon, 07 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>トラブルシューティング＆FAQ</title>
    <link>https://dev.twitter.com/ja/docs/cards/troubleshooting</link>
@@ -52,12 +58,6 @@
    <title>Crimson Hexagon</title>
    <link>https://dev.twitter.com/ja/programs/twitter-certified-products/crimson-hexagon</link>
    <description><![CDATA[English | 日本語 @BrainPad_PRさんをフォロー !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, '...]]></description>
-   <pubDate>Thu, 27 Mar 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Calendar of API changes</title>
-   <link>https://dev.twitter.com/calendar</link>
-   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
    <pubDate>Thu, 27 Mar 2014 00:00:00 +0100</pubDate>
   </item>
   <item>
