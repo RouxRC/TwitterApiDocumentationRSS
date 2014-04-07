@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sun, 06 Apr 2014 05:00:02 +0200</pubDate>
+  <pubDate>Mon, 07 Apr 2014 07:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Gallery Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/gallery-card</link>
+   <description><![CDATA[The Gallery Card allows you to represent collections of photos within a Tweet. This Card type is designed to let the user know that there's more than just a single image at the URL shared, but rather a gallery of related images. You can specify up to 4 different images to show in the gallery...]]></description>
+   <pubDate>Sun, 06 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Summary Card</title>
    <link>https://dev.twitter.com/docs/cards/types/summary-card</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/auth/application-only-auth</link>
    <description><![CDATA[Overview Twitter offers applications the ability to issue authenticated requests on behalf of the application itself (as opposed to on behalf of a specific user). Twitter's implementation is based on the Client Credentials Grant flow of the OAuth 2 specification. Note that OAuth 1.0a is still...]]></description>
    <pubDate>Thu, 20 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Player Card</title>
-   <link>https://dev.twitter.com/docs/cards/types/player-card</link>
-   <description><![CDATA[English | 日本語 The Player Card type requires special approval, and is not available for immediate approval at this time. The Player Card is for streaming media experiences such as audio, video, or slideshows, and allows you to present your content inside of an iframe within the Tweet....]]></description>
-   <pubDate>Mon, 17 Feb 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
