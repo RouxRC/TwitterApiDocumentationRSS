@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 08 Apr 2014 22:45:02 +0200</pubDate>
+  <pubDate>Wed, 09 Apr 2014 09:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Player Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/player-card</link>
+   <description><![CDATA[English | 日本語 The Player Card type requires special approval, and is not available for immediate approval at this time. The Player Card is for streaming media experiences such as audio, video, or slideshows, and allows you to present your content inside of an iframe within the Tweet....]]></description>
+   <pubDate>Wed, 09 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Calendar of API changes</title>
    <link>https://dev.twitter.com/calendar</link>
@@ -118,12 +124,6 @@
    <title>Twitter Certified Products Program</title>
    <link>https://dev.twitter.com/programs/twitter-certified-products</link>
    <description><![CDATA[English | 日本語 The Twitter Certified program identifies the best products and services that help businesses thrive on Twitter. The Twitter Certified program consists of two data resellers &mdash; licensed to syndicate Tweet content &mdash; and a constantly growing list of the leading solutions from...]]></description>
-   <pubDate>Thu, 20 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Certified Products</title>
-   <link>https://dev.twitter.com/programs/twitter-certified-products/products</link>
-   <description><![CDATA[English | 日本語 Certified Products Product Description Badge Adobe Social Adobe Social connects the dots between social interactions and business results, enabling marketers to demonstrate social impact at every stage of the...]]></description>
    <pubDate>Thu, 20 Feb 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
