@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 10 Apr 2014 17:15:02 +0200</pubDate>
+  <pubDate>Thu, 10 Apr 2014 19:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>POST statuses/update_with_media</title>
+   <link>https://dev.twitter.com/docs/api/1.1/post/statuses/update_with_media</link>
+   <description><![CDATA[Updates the authenticating user's current status and attaches media for upload. In other words, it creates a Tweet with a picture attached. Unlike POST statuses/update, this method expects raw multipart data. Your POST request's Content-Type should be set to multipart/form-data with the media[]...]]></description>
+   <pubDate>Thu, 10 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Where do I manage my Twitter applications?</title>
    <link>https://dev.twitter.com/docs/faq/#25871</link>
@@ -118,12 +124,6 @@
    <title>GET lists/show</title>
    <link>https://dev.twitter.com/docs/api/1/get/lists/show</link>
    <description><![CDATA[Returns the specified list. Private lists will only be shown if the authenticated user owns the specified list.]]></description>
-   <pubDate>Thu, 27 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Useful Links We Found</title>
-   <link>https://dev.twitter.com/docs/misc/useful-articles</link>
-   <description><![CDATA[On using API v1.1 Using API v1.1 with the SignPost library for Scala or Java Streaming data from Twitter using the 1.1 Search API On OAuth Apigee's OAuth: the Big Picture Using OAuth for Twitter Authentication on the BlackBerry PlayBook Using Twitter API with LIFT, Scala, and...]]></description>
    <pubDate>Thu, 27 Feb 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
