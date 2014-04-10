@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 10 Apr 2014 02:30:02 +0200</pubDate>
+  <pubDate>Thu, 10 Apr 2014 02:45:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Where do I manage my Twitter applications?</title>
+   <link>https://dev.twitter.com/docs/faq/#25871</link>
+   <description><![CDATA[Manage your Twitter applications on https://apps.twitter.com by signing in with your Twitter account.]]></description>
+   <pubDate>Wed, 09 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>What happened to application management on dev.twitter.com?</title>
    <link>https://dev.twitter.com/docs/faq/#25872</link>
@@ -118,12 +124,6 @@
    <title>Useful Links We Found</title>
    <link>https://dev.twitter.com/docs/misc/useful-articles</link>
    <description><![CDATA[On using API v1.1 Using API v1.1 with the SignPost library for Scala or Java Streaming data from Twitter using the 1.1 Search API On OAuth Apigee's OAuth: the Big Picture Using OAuth for Twitter Authentication on the BlackBerry PlayBook Using Twitter API with LIFT, Scala, and...]]></description>
-   <pubDate>Thu, 27 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Connecting to Twitter API using SSL</title>
-   <link>https://dev.twitter.com/docs/security/using-ssl</link>
-   <description><![CDATA[Currently, only SSL connections are allowed in Twitter API endpoints. Communicating over SSL preserves user privacy by protecting information between the user and the Twitter API as it travels across the public Internet. Using OAuth isn't enough While OAuth is mandated and protects the user...]]></description>
    <pubDate>Thu, 27 Feb 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
