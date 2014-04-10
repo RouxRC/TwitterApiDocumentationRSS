@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 09 Apr 2014 18:00:02 +0200</pubDate>
+  <pubDate>Thu, 10 Apr 2014 02:30:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>What happened to application management on dev.twitter.com?</title>
+   <link>https://dev.twitter.com/docs/faq/#25872</link>
+   <description><![CDATA[Application management has moved to https://apps.twitter.com/.]]></description>
+   <pubDate>Wed, 09 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Player Card</title>
    <link>https://dev.twitter.com/docs/cards/types/player-card</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/security/using-ssl</link>
    <description><![CDATA[Currently, only SSL connections are allowed in Twitter API endpoints. Communicating over SSL preserves user privacy by protecting information between the user and the Twitter API as it travels across the public Internet. Using OAuth isn't enough While OAuth is mandated and protects the user...]]></description>
    <pubDate>Thu, 27 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Twitter Certified Products Program</title>
-   <link>https://dev.twitter.com/programs/twitter-certified-products</link>
-   <description><![CDATA[English | 日本語 The Twitter Certified program identifies the best products and services that help businesses thrive on Twitter. The Twitter Certified program consists of two data resellers &mdash; licensed to syndicate Tweet content &mdash; and a constantly growing list of the leading solutions from...]]></description>
-   <pubDate>Thu, 20 Feb 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
