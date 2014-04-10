@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 10 Apr 2014 19:30:03 +0200</pubDate>
+  <pubDate>Fri, 11 Apr 2014 01:15:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Calendar of API changes</title>
+   <link>https://dev.twitter.com/calendar</link>
+   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
+   <pubDate>Thu, 10 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>POST statuses/update_with_media</title>
    <link>https://dev.twitter.com/docs/api/1.1/post/statuses/update_with_media</link>
@@ -29,12 +35,6 @@
    <link>https://dev.twitter.com/docs/cards/types/player-card</link>
    <description><![CDATA[English | 日本語 The Player Card type requires special approval, and is not available for immediate approval at this time. The Player Card is for streaming media experiences such as audio, video, or slideshows, and allows you to present your content inside of an iframe within the Tweet....]]></description>
    <pubDate>Wed, 09 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Calendar of API changes</title>
-   <link>https://dev.twitter.com/calendar</link>
-   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
-   <pubDate>Mon, 07 Apr 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>トラブルシューティング＆FAQ</title>
