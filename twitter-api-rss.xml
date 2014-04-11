@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 11 Apr 2014 01:15:02 +0200</pubDate>
+  <pubDate>Fri, 11 Apr 2014 08:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>トラブルシューティング＆FAQ</title>
+   <link>https://dev.twitter.com/ja/docs/cards/troubleshooting</link>
+   <description><![CDATA[English | 日本語 Twitterカードの設定に関して、よくある疑問やトラブルをまとめました。 なるべくすべての問題を網羅するよう心掛けておりますが、もし内容に誤りがあったり、他にも疑問がある場合は、 Twitter Card Discussion にてお気軽にお問い合せください。 カード検証ツールに関する問題 "exceeded 15.seconds to pink-floyd while waiting for a response for the request, including retries (...]]></description>
+   <pubDate>Thu, 10 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Troubleshooting &amp; FAQ</title>
+   <link>https://dev.twitter.com/docs/cards/troubleshooting</link>
+   <description><![CDATA[English | 日本語 We created this troubleshooting guide to help you identify and resolve commonly encountered issues during Cards development. We've tried to make this guide as useful and comprehensive as possible. If there's something wrong, or you feel something should be added, please reach out...]]></description>
+   <pubDate>Thu, 10 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Calendar of API changes</title>
    <link>https://dev.twitter.com/calendar</link>
@@ -35,18 +47,6 @@
    <link>https://dev.twitter.com/docs/cards/types/player-card</link>
    <description><![CDATA[English | 日本語 The Player Card type requires special approval, and is not available for immediate approval at this time. The Player Card is for streaming media experiences such as audio, video, or slideshows, and allows you to present your content inside of an iframe within the Tweet....]]></description>
    <pubDate>Wed, 09 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>トラブルシューティング＆FAQ</title>
-   <link>https://dev.twitter.com/ja/docs/cards/troubleshooting</link>
-   <description><![CDATA[English | 日本語 Twitterカードの設定に関して、よくある疑問やトラブルをまとめました。 なるべくすべての問題を網羅するよう心掛けておりますが、もし内容に誤りがあったり、他にも疑問がある場合は、 Twitter Card Discussion にてお気軽にお問い合せください。 カード検証ツールに関する問題 "exceeded 15.seconds to pink-floyd while waiting for a response for the request, including retries (...]]></description>
-   <pubDate>Mon, 07 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Troubleshooting &amp; FAQ</title>
-   <link>https://dev.twitter.com/docs/cards/troubleshooting</link>
-   <description><![CDATA[English | 日本語 We created this troubleshooting guide to help you identify and resolve commonly encountered issues during Cards development. We've tried to make this guide as useful and comprehensive as possible. If there's something wrong, or you feel something should be added, please reach out...]]></description>
-   <pubDate>Mon, 07 Apr 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>Gallery Card</title>
