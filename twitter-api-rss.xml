@@ -4,8 +4,32 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 14 Apr 2014 12:46:01 +0200</pubDate>
+  <pubDate>Mon, 14 Apr 2014 23:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>POST account/update_profile_image</title>
+   <link>https://dev.twitter.com/docs/api/1.1/post/account/update_profile_image</link>
+   <description><![CDATA[Updates the authenticating user's profile image. Note that this method expects raw multipart data, not a URL to an image. This method asynchronously processes the uploaded file before updating the user's profile image URL. You can either update your local cache the next time you request the user's...]]></description>
+   <pubDate>Mon, 14 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>User Profile Images and Banners</title>
+   <link>https://dev.twitter.com/docs/user-profile-images-and-banners</link>
+   <description><![CDATA[Profile Images Profile images (or avatars) are an important component of a Twitter account's expression of identity. To upload an avatar on behalf of a user, use POST account/update_profile_image. Alternative image sizes for user profile images You can obtain a user's most recent profile image,...]]></description>
+   <pubDate>Mon, 14 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>POST account/update_profile_banner</title>
+   <link>https://dev.twitter.com/docs/api/1.1/post/account/update_profile_banner</link>
+   <description><![CDATA[Uploads a profile banner on behalf of the authenticating user. For best results, upload an]]></description>
+   <pubDate>Mon, 14 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>GET users/profile_banner</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/users/profile_banner</link>
+   <description><![CDATA[Returns a map of the available size variations of the specified user's profile banner. If the user has not uploaded a profile banner, a HTTP 404 will be served instead. This method can be used instead of string manipulation on the profile_banner_url returned in user objects as described in User...]]></description>
+   <pubDate>Mon, 14 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Twitterカード</title>
    <link>https://dev.twitter.com/ja/docs/cards</link>
@@ -101,30 +125,6 @@
    <link>https://dev.twitter.com/ja/programs/twitter-certified-products/crimson-hexagon</link>
    <description><![CDATA[English | 日本語 @BrainPad_PRさんをフォロー !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, '...]]></description>
    <pubDate>Thu, 27 Mar 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>App Card</title>
-   <link>https://dev.twitter.com/docs/cards/types/app-card</link>
-   <description><![CDATA[App Card is a great way to better represent mobile applications on Twitter and to drive installs. We designed the App Card to allow for a name, description and icon, and also to highlight attributes such as the rating and the price. This will require adding some new markup tags to your pages,...]]></description>
-   <pubDate>Wed, 19 Mar 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Error Codes &amp; Responses</title>
-   <link>https://dev.twitter.com/docs/error-codes-responses</link>
-   <description><![CDATA[HTTP Status Codes The Twitter API attempts to return appropriate HTTP status codes for every request. It is possible to suppress response codes for the REST API. Code Text Description 200 OK Success...]]></description>
-   <pubDate>Fri, 14 Mar 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>POST lists/members/create</title>
-   <link>https://dev.twitter.com/docs/api/1.1/post/lists/members/create</link>
-   <description><![CDATA[Add a member to a list. The authenticated user must own the list to be able to add members to it. Note that lists cannot have more than 5,000 members.]]></description>
-   <pubDate>Wed, 12 Mar 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Summary Card with Large Image</title>
-   <link>https://dev.twitter.com/docs/cards/large-image-summary-card</link>
-   <description><![CDATA[In addition to our regular Summary Card, we also have a format that allows you to feature a larger image above the title and description of the Card. The regular Summary Card features a thumbnail image in the upper right hand corner of the Card, but if you want to more prominently feature your...]]></description>
-   <pubDate>Tue, 04 Mar 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
