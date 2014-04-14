@@ -4,13 +4,31 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sun, 13 Apr 2014 18:00:32 +0200</pubDate>
+  <pubDate>Mon, 14 Apr 2014 08:45:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Twitterカード</title>
+   <link>https://dev.twitter.com/ja/docs/cards</link>
+   <description><![CDATA[English | 日本語 紹介 Twitterカードであなたのサイトへのリンクが入っているツイートにメディアを添付できます。あなたのウェブ・ページにHTMLを数行入れるだけで、どのユーザーもあなたのサイトへのリンクをツイートすると、そのツイートを見るすべてのフォロワーがカードを見られます。 カードであなたのツイートに対するエンゲージメント促進 ツイートにつけられるカードの種類は7種あります。各種類がtwitter.comでもでもTwitterのモバイル・クライアントでも綺麗に表示されます： Summary Card：標準のカードです。タイトル...]]></description>
+   <pubDate>Sun, 13 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Playerカード</title>
+   <link>https://dev.twitter.com/ja/docs/cards/types/player-card</link>
+   <description><![CDATA[English | 日本語 Playerカードを使用できる前に、特別な審査が必要です。 Playerカードは音声や動画、スライドショーを視聴できるカードです。コンテンツがツイート内のiframeの中に表示されます。PhotoやSummaryカードと異なり、コンテンツ配信に関する全てをデベロッパー側で管理する必要があり、下記の全てのTwitterアプリケーションで動作するよう実装しなければなりません。 twitter.com と mobile.twitter.com Twitter for iPhone Twitter for Android...]]></description>
+   <pubDate>Sun, 13 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>トラブルシューティング＆FAQ</title>
    <link>https://dev.twitter.com/ja/docs/cards/troubleshooting</link>
    <description><![CDATA[English | 日本語 Twitterカードの設定に関して、よくある疑問やトラブルをまとめました。 なるべくすべての問題を網羅するよう心掛けておりますが、もし内容に誤りがあったり、他にも疑問がある場合は、 Twitter Card Discussion にてお気軽にお問い合せください。 カード検証ツールに関する問題 "exceeded 15.seconds to pink-floyd while waiting for a response for the request, including retries (...]]></description>
-   <pubDate>Fri, 11 Apr 2014 00:00:00 +0200</pubDate>
+   <pubDate>Sun, 13 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>アプリケーション・インストールとディープ・リンク</title>
+   <link>https://dev.twitter.com/ja/docs/cards/app-installs-and-deep-linking</link>
+   <description><![CDATA[English | 日本語 紹介 新しいTwitterカードでは、インストールされていないネイティブ・アプリケーションをカードからインストールしたり、インストールされているネイティブ・アプリケーションへのディープ・リンクを設定できます。どのカードの種類でもアプリケーション・インストールとディープ・リンクを使用できます。以下に説明されている通り、必要なのはカード情報にメタタグを追加するだけです。 アプリケーション・インストール このタグを追加すれば、...]]></description>
+   <pubDate>Sun, 13 Apr 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>Troubleshooting &amp; FAQ</title>
@@ -107,24 +125,6 @@
    <link>https://dev.twitter.com/docs/cards/large-image-summary-card</link>
    <description><![CDATA[In addition to our regular Summary Card, we also have a format that allows you to feature a larger image above the title and description of the Card. The regular Summary Card features a thumbnail image in the upper right hand corner of the Card, but if you want to more prominently feature your...]]></description>
    <pubDate>Tue, 04 Mar 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Twitter Cards</title>
-   <link>https://dev.twitter.com/docs/cards</link>
-   <description><![CDATA[Introduction Twitter Cards make it possible for you to attach media experiences to Tweets that link to your content. Simply add a few lines of HTML to your webpages, and users who Tweet links to your content will have a "card" added to the Tweet that’s visible to all of their followers....]]></description>
-   <pubDate>Fri, 28 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>GET friendships/lookup</title>
-   <link>https://dev.twitter.com/docs/api/1.1/get/friendships/lookup</link>
-   <description><![CDATA[Returns the relationships of the authenticating user to the comma-separated list of up to 100 screen_names or user_ids provided. Values for connections can be: following, following_requested, followed_by, none, blocking.]]></description>
-   <pubDate>Fri, 28 Feb 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>GET lists/show</title>
-   <link>https://dev.twitter.com/docs/api/1/get/lists/show</link>
-   <description><![CDATA[Returns the specified list. Private lists will only be shown if the authenticated user owns the specified list.]]></description>
-   <pubDate>Thu, 27 Feb 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
