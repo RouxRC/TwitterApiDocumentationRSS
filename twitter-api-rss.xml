@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 15 Apr 2014 19:45:02 +0200</pubDate>
+  <pubDate>Wed, 16 Apr 2014 00:30:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Error Codes &amp; Responses</title>
+   <link>https://dev.twitter.com/docs/error-codes-responses</link>
+   <description><![CDATA[HTTP Status Codes The Twitter API attempts to return appropriate HTTP status codes for every request. It is possible to suppress response codes for the REST API. Code Text Description 200 OK Success...]]></description>
+   <pubDate>Tue, 15 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>POST account/update_profile_image</title>
    <link>https://dev.twitter.com/docs/api/1.1/post/account/update_profile_image</link>
@@ -118,12 +124,6 @@
    <title>Twitter公認製品プログラム</title>
    <link>https://dev.twitter.com/ja/programs/twitter-certified-products</link>
    <description><![CDATA[English | 日本語 Twitter公認製品プログラムとはTwitterのエコシステムパートナーの中から日本市場の各業界ニーズに応え、ビジネスの課題解決にベストなソリューションとして特に優れているものを認定するプログラムです。 プログラムメンバーがTwitterのAPIやデータをフルに活用し、企業のさらなる発展を支援する製品やサービスを提供できるよう継続的にサポートしていきます。 各製品の詳細は公認製品リストよりご覧ください...]]></description>
-   <pubDate>Thu, 27 Mar 2014 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Crimson Hexagon</title>
-   <link>https://dev.twitter.com/ja/programs/twitter-certified-products/crimson-hexagon</link>
-   <description><![CDATA[English | 日本語 @BrainPad_PRさんをフォロー !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, '...]]></description>
    <pubDate>Thu, 27 Mar 2014 00:00:00 +0100</pubDate>
   </item>
  </channel>
