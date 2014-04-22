@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 21 Apr 2014 21:16:03 +0200</pubDate>
+  <pubDate>Tue, 22 Apr 2014 02:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>POST account/update_profile_banner</title>
+   <link>https://dev.twitter.com/docs/api/1.1/post/account/update_profile_banner</link>
+   <description><![CDATA[Uploads a profile banner on behalf of the authenticating user. For best results, upload an]]></description>
+   <pubDate>Mon, 21 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>User Profile Images and Banners</title>
+   <link>https://dev.twitter.com/docs/user-profile-images-and-banners</link>
+   <description><![CDATA[Profile Images Profile images (or avatars) are an important component of a Twitter account's expression of identity. To upload an avatar on behalf of a user, use POST account/update_profile_image. Alternative image sizes for user profile images You can obtain a user's most recent profile image,...]]></description>
+   <pubDate>Mon, 21 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Error Codes &amp; Responses</title>
    <link>https://dev.twitter.com/docs/error-codes-responses</link>
@@ -16,18 +28,6 @@
    <title>POST account/update_profile_image</title>
    <link>https://dev.twitter.com/docs/api/1.1/post/account/update_profile_image</link>
    <description><![CDATA[Updates the authenticating user's profile image. Note that this method expects raw multipart data, not a URL to an image. This method asynchronously processes the uploaded file before updating the user's profile image URL. You can either update your local cache the next time you request the user's...]]></description>
-   <pubDate>Mon, 14 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>User Profile Images and Banners</title>
-   <link>https://dev.twitter.com/docs/user-profile-images-and-banners</link>
-   <description><![CDATA[Profile Images Profile images (or avatars) are an important component of a Twitter account's expression of identity. To upload an avatar on behalf of a user, use POST account/update_profile_image. Alternative image sizes for user profile images You can obtain a user's most recent profile image,...]]></description>
-   <pubDate>Mon, 14 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>POST account/update_profile_banner</title>
-   <link>https://dev.twitter.com/docs/api/1.1/post/account/update_profile_banner</link>
-   <description><![CDATA[Uploads a profile banner on behalf of the authenticating user. For best results, upload an]]></description>
    <pubDate>Mon, 14 Apr 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
