@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 22 Apr 2014 18:30:03 +0200</pubDate>
+  <pubDate>Wed, 23 Apr 2014 09:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Twitter Cards</title>
+   <link>https://dev.twitter.com/docs/cards</link>
+   <description><![CDATA[English | 日本語 Introduction Twitter Cards make it possible for you to attach media experiences to Tweets that link to your content. Simply add a few lines of HTML to your webpages, and users who Tweet links to your content will have a "card" added to the Tweet that’s visible to all of their...]]></description>
+   <pubDate>Wed, 23 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>POST blocks/create</title>
    <link>https://dev.twitter.com/docs/api/1.1/post/blocks/create</link>
@@ -118,12 +124,6 @@
    <title>Things Every Developer Should Know</title>
    <link>https://dev.twitter.com/docs/things-every-developer-should-know</link>
    <description><![CDATA[Tweet IDs are enormous and break Javascript Use the id_str field instead of id whenever present to stay safe. Your web browser/Javascript interpreter/JSON consumer may munge our large integer-based ids which is why it's recommended to use the string representation. See Twitter IDs, JSON and...]]></description>
-   <pubDate>Mon, 31 Mar 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Embedded Tweets</title>
-   <link>https://dev.twitter.com/docs/embedded-tweets</link>
-   <description><![CDATA[English | 日本語 Overview Embedded Tweets make it possible for you take any Tweet and embed it directly in to the content of your article or website. Tweets display with expanded media like photos, videos, and article summaries, and also include real-time retweet and favorite counts. When...]]></description>
    <pubDate>Mon, 31 Mar 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
