@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 24 Apr 2014 23:30:02 +0200</pubDate>
+  <pubDate>Fri, 25 Apr 2014 00:00:04 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>GET statuses/show/:id</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/statuses/show/%3Aid</link>
+   <description><![CDATA[Returns a single Tweet, specified by the id parameter. The Tweet's author will also be embedded within the tweet. See GET statuses/lookup for getting Tweets in bulk (up to 100 per call). See also Embeddable Timelines, Embeddable Tweets, and GET statuses/oembed for tools to render Tweets according...]]></description>
+   <pubDate>Thu, 24 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>GET statuses/lookup</title>
    <link>https://dev.twitter.com/docs/api/1.1/get/statuses/lookup</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/cards/types/gallery-card</link>
    <description><![CDATA[The Gallery Card allows you to represent collections of photos within a Tweet. This Card type is designed to let the user know that there's more than just a single image at the URL shared, but rather a gallery of related images. You can specify up to 4 different images to show in the gallery...]]></description>
    <pubDate>Sun, 06 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Summary Card</title>
-   <link>https://dev.twitter.com/docs/cards/types/summary-card</link>
-   <description><![CDATA[The Summary Card can be used for many kinds of web content, from blog posts and news articles, to products and restaurants. The screenshot below shows the expanded Tweet view for a New York Times article: Web Mobile...]]></description>
-   <pubDate>Tue, 01 Apr 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>

@@ -51,7 +51,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
          name="op"
          type="submit"
          value="Search"  />
-<input type="hidden" name="form_build_id" id="form-2a5b184f8601894ec139823139f1bed3" value="form-2a5b184f8601894ec139823139f1bed3"  />
+<input type="hidden" name="form_build_id" id="form-e3c52d6a93b07f5276d520e27e2957cb" value="form-e3c52d6a93b07f5276d520e27e2957cb"  />
 <input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
 
 </form>
@@ -79,6 +79,14 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   <tbody>
           <tr class="odd views-row-first">
                   <td class="views-field views-field-title">
+            <a href="/docs/api/1.1/get/statuses/show/%3Aid">GET statuses/show/:id</a>          </td>
+                  <td class="views-field views-field-body">
+            Returns a single Tweet, specified by the id parameter. The Tweet's author will also be embedded within the tweet.
+
+See GET statuses/lookup for getting Tweets in bulk (up to 100 per call). See also Embeddable Timelines, Embeddable Tweets, and GET statuses/oembed for tools to render Tweets according...          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
             <a href="/docs/api/1.1/get/statuses/lookup">GET statuses/lookup</a>          </td>
                   <td class="views-field views-field-body">
             Returns fully-hydrated  tweet objects for up to 100 tweets per request, as specified by comma-separated values passed to the id parameter.
@@ -86,7 +94,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
 This method is especially useful to get the details (hydrate) a collection of Tweet IDs.
 GET statuses/show/:id is used to retrieve a single tweet object.          </td>
               </tr>
-          <tr class="even views-row-last">
+          <tr class="odd views-row-last">
                   <td class="views-field views-field-title">
             <a href="/docs/cards/troubleshooting">Cards Troubleshooting Guide</a>          </td>
                   <td class="views-field views-field-body">
@@ -414,35 +422,6 @@ The Gallery Card allows you to represent collections of photos within a Tweet. T
 
 
 You can specify up to 4 different images to show in the gallery...          </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-2">
-      <caption>April 1, 2014</caption>
-    <thead>
-    <tr>
-              <th class="views-field views-field-title">
-          Document        </th>
-              <th class="views-field views-field-body">
-          Description        </th>
-          </tr>
-  </thead>
-  <tbody>
-          <tr class="odd">
-                  <td class="views-field views-field-title">
-            <a href="/docs/cards/types/summary-card">Summary Card</a>          </td>
-                  <td class="views-field views-field-body">
-            
-
-  The Summary Card can be used for many kinds of web content, from blog posts and news articles, to products and restaurants. 
-
-The screenshot below shows the expanded Tweet view for a New York Times article:
-
-  
-    
-      
-        Web
-        Mobile...          </td>
               </tr>
       </tbody>
 </table>
