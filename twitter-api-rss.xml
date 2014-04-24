@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 24 Apr 2014 19:00:03 +0200</pubDate>
+  <pubDate>Thu, 24 Apr 2014 19:30:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>GET statuses/lookup</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/statuses/lookup</link>
+   <description><![CDATA[Returns fully-hydrated tweet objects for up to 100 tweets per request, as specified by comma-separated values passed to the id parameter. This method is especially useful to get the details (hydrate) a collection of Tweet IDs. GET statuses/show/:id is used to retrieve a single tweet object.]]></description>
+   <pubDate>Thu, 24 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Cards Troubleshooting Guide</title>
    <link>https://dev.twitter.com/docs/cards/troubleshooting</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/cards/types/summary-card</link>
    <description><![CDATA[The Summary Card can be used for many kinds of web content, from blog posts and news articles, to products and restaurants. The screenshot below shows the expanded Tweet view for a New York Times article: Web Mobile...]]></description>
    <pubDate>Tue, 01 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Things Every Developer Should Know</title>
-   <link>https://dev.twitter.com/docs/things-every-developer-should-know</link>
-   <description><![CDATA[Tweet IDs are enormous and break Javascript Use the id_str field instead of id whenever present to stay safe. Your web browser/Javascript interpreter/JSON consumer may munge our large integer-based ids which is why it's recommended to use the string representation. See Twitter IDs, JSON and...]]></description>
-   <pubDate>Mon, 31 Mar 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
