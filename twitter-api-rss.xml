@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 25 Apr 2014 18:15:03 +0200</pubDate>
+  <pubDate>Sat, 26 Apr 2014 02:00:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Sign up for Twitter&#039;s Developer Newsletter</title>
+   <link>https://dev.twitter.com/docs/sign-twitters-developer-newsletter</link>
+   <description><![CDATA[]]></description>
+   <pubDate>Fri, 25 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>GET statuses/show/:id</title>
    <link>https://dev.twitter.com/docs/api/1.1/get/statuses/show/%3Aid</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/cards/types/player-card</link>
    <description><![CDATA[English | 日本語 The Player Card type requires special approval, and is not available for immediate approval at this time. The Player Card is for streaming media experiences such as audio, video, or slideshows, and allows you to present your content inside of an iframe within the Tweet....]]></description>
    <pubDate>Wed, 09 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Gallery Card</title>
-   <link>https://dev.twitter.com/docs/cards/types/gallery-card</link>
-   <description><![CDATA[The Gallery Card allows you to represent collections of photos within a Tweet. This Card type is designed to let the user know that there's more than just a single image at the URL shared, but rather a gallery of related images. You can specify up to 4 different images to show in the gallery...]]></description>
-   <pubDate>Sun, 06 Apr 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
