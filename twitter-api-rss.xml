@@ -4,12 +4,18 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 29 Apr 2014 02:45:02 +0200</pubDate>
+  <pubDate>Tue, 29 Apr 2014 03:00:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Cards Troubleshooting Guide</title>
+   <link>https://dev.twitter.com/docs/cards/troubleshooting</link>
+   <description><![CDATA[English | 日本語 We created this troubleshooting guide to help you identify and resolve commonly encountered issues during Cards development. We've tried to make this guide as useful and comprehensive as possible. If there's something wrong, or you feel something should be added, please reach out...]]></description>
+   <pubDate>Mon, 28 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Player Card Approval Guide</title>
    <link>https://dev.twitter.com/docs/cards/types/player-card/whitelisting</link>
-   <description><![CDATA[Thank you for your interest in using the Twitter Player Card. To help expedite the approval of your Card, it is useful to read the below fully and provide the appropriate information when prompted via e-mail. General Rules and Guidelines In particular, we are interested that your Player Card...]]></description>
+   <description><![CDATA[Thank you for your interest in using the Twitter Player Card. To help expedite the approval of your Card, it is useful to read the below fully and provide the appropriate information when prompted via e-mail. General Rules and Guidelines Most Common Issues Providing Us Additional...]]></description>
    <pubDate>Mon, 28 Apr 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
@@ -28,12 +34,6 @@
    <title>GET statuses/lookup</title>
    <link>https://dev.twitter.com/docs/api/1.1/get/statuses/lookup</link>
    <description><![CDATA[Returns fully-hydrated tweet objects for up to 100 tweets per request, as specified by comma-separated values passed to the id parameter. This method is especially useful to get the details (hydrate) a collection of Tweet IDs. GET statuses/show/:id is used to retrieve a single tweet object.]]></description>
-   <pubDate>Thu, 24 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Cards Troubleshooting Guide</title>
-   <link>https://dev.twitter.com/docs/cards/troubleshooting</link>
-   <description><![CDATA[English | 日本語 We created this troubleshooting guide to help you identify and resolve commonly encountered issues during Cards development. We've tried to make this guide as useful and comprehensive as possible. If there's something wrong, or you feel something should be added, please reach out...]]></description>
    <pubDate>Thu, 24 Apr 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
