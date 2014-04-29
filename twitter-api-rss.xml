@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 28 Apr 2014 16:00:03 +0200</pubDate>
+  <pubDate>Tue, 29 Apr 2014 02:30:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Player Card Whitelisting</title>
+   <link>https://dev.twitter.com/docs/cards/types/player-card/whitelisting</link>
+   <description><![CDATA[Thank you for your interest in using the Twitter Player Card. To help expedite the whitelisting of your Card, it is useful to read the below fully and provide the appropriate information when prompted via e-mail. Providing Information for Your Player Card In particular, we are interested that...]]></description>
+   <pubDate>Mon, 28 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Sign up for Twitter&#039;s Developer Newsletter</title>
    <link>https://dev.twitter.com/docs/sign-twitters-developer-newsletter</link>
@@ -118,12 +124,6 @@
    <title>What happened to application management on dev.twitter.com?</title>
    <link>https://dev.twitter.com/docs/faq/#25872</link>
    <description><![CDATA[Application management has moved to https://apps.twitter.com/.]]></description>
-   <pubDate>Wed, 09 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Player Card</title>
-   <link>https://dev.twitter.com/docs/cards/types/player-card</link>
-   <description><![CDATA[English | 日本語 The Player Card type requires special approval, and is not available for immediate approval at this time. The Player Card is for streaming media experiences such as audio, video, or slideshows, and allows you to present your content inside of an iframe within the Tweet....]]></description>
    <pubDate>Wed, 09 Apr 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
