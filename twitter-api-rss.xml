@@ -4,24 +4,24 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 30 Apr 2014 09:15:02 +0200</pubDate>
+  <pubDate>Wed, 30 Apr 2014 09:30:02 +0200</pubDate>
   <generator>RouxRC</generator>
   <item>
    <title>Player Card</title>
    <link>https://dev.twitter.com/docs/cards/types/player-card</link>
-   <description><![CDATA[English | 日本語 Video clips and audio streams have a special place on the Twitter platform thanks to the Player Card. By implementing a few HTML meta tags to your website and following the Twitter Rules of the Road, you can deliver your rich media to users across the globe. Getting started...]]></description>
+   <description><![CDATA[English | 日本語 Video clips and audio streams have a special place on the Twitter platform thanks to the Player Card. By implementing a few HTML meta tags to your website and following the Twitter Rules of the Road, you can deliver your rich media to users across the globe. Examples Getting...]]></description>
+   <pubDate>Wed, 30 Apr 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Player Card Approval Guide</title>
+   <link>https://dev.twitter.com/docs/cards/types/player-card/approval-guide</link>
+   <description><![CDATA[Thank you for your interest in using the Twitter Player Card. To help expedite the approval of your Card, it is useful to read the below fully and provide the appropriate information when prompted via e-mail. General Policy and Rules Most Common Issues Providing Us Additional Information...]]></description>
    <pubDate>Wed, 30 Apr 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>Cards Troubleshooting Guide</title>
    <link>https://dev.twitter.com/docs/cards/troubleshooting</link>
    <description><![CDATA[English | 日本語 We created this troubleshooting guide to help you identify and resolve commonly encountered issues during Cards development. We've tried to make this guide as useful and comprehensive as possible. If there's something wrong, or you feel something should be added, please reach out...]]></description>
-   <pubDate>Tue, 29 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Player Card Approval Guide</title>
-   <link>https://dev.twitter.com/docs/cards/types/player-card/approval-guide</link>
-   <description><![CDATA[Thank you for your interest in using the Twitter Player Card. To help expedite the approval of your Card, it is useful to read the below fully and provide the appropriate information when prompted via e-mail. General Policy and Rules Most Common Issues Providing Us Additional Information...]]></description>
    <pubDate>Tue, 29 Apr 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
