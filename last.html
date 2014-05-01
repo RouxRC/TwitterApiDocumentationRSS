@@ -51,7 +51,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
          name="op"
          type="submit"
          value="Search"  />
-<input type="hidden" name="form_build_id" id="form-171316fef486e6b82e1539fe84131b8d" value="form-171316fef486e6b82e1539fe84131b8d"  />
+<input type="hidden" name="form_build_id" id="form-cf8ac0fff9d7a7b7e181bd396f8b18c0" value="form-cf8ac0fff9d7a7b7e181bd396f8b18c0"  />
 <input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
 
 </form>
@@ -77,7 +77,15 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
           </tr>
   </thead>
   <tbody>
-          <tr class="odd views-row-first views-row-last">
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-title">
+            <a href="/docs/things-every-developer-should-know">Things Every Developer Should Know</a>          </td>
+                  <td class="views-field views-field-body">
+            Tweet IDs are enormous and break Javascript
+
+  Use the id_str field instead of id whenever present to stay safe. Your web browser/Javascript interpreter/JSON consumer may munge our large integer-based ids which is why it's recommended to use the string representation. See Twitter IDs, JSON and...          </td>
+              </tr>
+          <tr class="even views-row-last">
                   <td class="views-field views-field-title">
             <a href="/docs/streaming-apis/parameters">Streaming API request parameters</a>          </td>
                   <td class="views-field views-field-body">
@@ -121,7 +129,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
           </tr>
   </thead>
   <tbody>
-          <tr class="odd">
+          <tr class="odd views-row-last">
                   <td class="views-field views-field-title">
             <a href="/docs/cards/types/player-card">Player Card</a>          </td>
                   <td class="views-field views-field-body">
@@ -137,7 +145,7 @@ Video clips and audio streams have a special place on the Twitter platform thank
 
 	Player Card...          </td>
               </tr>
-          <tr class="even views-row-last">
+          <tr class="even">
                   <td class="views-field views-field-title">
             <a href="/docs/cards/types/player-card/approval-guide">Player Card Approval Guide</a>          </td>
                   <td class="views-field views-field-body">
@@ -471,14 +479,6 @@ Twitterカードの設定に関して、よくある疑問やトラブルをま�
             This page lists important upcoming dates for consumers of Twitter's APIs.  The dates listed will be as specific as possible, but may not be exact for various reasons.  Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform.
 
 Upcoming changes...          </td>
-              </tr>
-          <tr class="even">
-                  <td class="views-field views-field-title">
-            <a href="/docs/api/1.1/post/statuses/update_with_media">POST statuses/update_with_media</a>          </td>
-                  <td class="views-field views-field-body">
-            Updates the authenticating user's current status and attaches media for upload. In other words, it creates a Tweet with a picture attached.
-
-Unlike POST statuses/update, this method expects raw multipart data. Your POST request's Content-Type should be set to multipart/form-data with the media[]...          </td>
               </tr>
       </tbody>
 </table>
