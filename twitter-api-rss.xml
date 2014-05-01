@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 30 Apr 2014 09:45:02 +0200</pubDate>
+  <pubDate>Thu, 01 May 2014 17:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Streaming API request parameters</title>
+   <link>https://dev.twitter.com/docs/streaming-apis/parameters</link>
+   <description><![CDATA[Use the following request parameters to define what data is returned by the Streaming API endpoints: delimited stall_warnings filter_level language follow track locations count with replies stringify_friend_ids delimited This parameter may be used on all streaming...]]></description>
+   <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Player Card</title>
    <link>https://dev.twitter.com/docs/cards/types/player-card</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/api/1.1/post/statuses/update_with_media</link>
    <description><![CDATA[Updates the authenticating user's current status and attaches media for upload. In other words, it creates a Tweet with a picture attached. Unlike POST statuses/update, this method expects raw multipart data. Your POST request's Content-Type should be set to multipart/form-data with the media[]...]]></description>
    <pubDate>Thu, 10 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Where do I manage my Twitter applications?</title>
-   <link>https://dev.twitter.com/docs/faq/#25871</link>
-   <description><![CDATA[Manage your Twitter applications on https://apps.twitter.com by signing in with your Twitter account.]]></description>
-   <pubDate>Wed, 09 Apr 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
