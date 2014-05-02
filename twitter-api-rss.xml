@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 01 May 2014 18:00:03 +0200</pubDate>
+  <pubDate>Fri, 02 May 2014 08:45:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Web Intents</title>
+   <link>https://dev.twitter.com/docs/intents</link>
+   <description><![CDATA[By using Web Intents, you agree to the Developer Rules of the Road. Make it easy to bring interactivity to Tweets that you display on the web. Web Intents provide popup-optimized flows for working with Tweets &amp; Twitter Users: Tweet, Reply, Retweet, Favorite, and Follow. They make it possible...]]></description>
+   <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Things Every Developer Should Know</title>
    <link>https://dev.twitter.com/docs/things-every-developer-should-know</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/ja/docs/cards/app-installs-and-deep-linking</link>
    <description><![CDATA[English | 日本語 紹介 新しいTwitterカードでは、インストールされていないネイティブ・アプリケーションをカードからインストールしたり、インストールされているネイティブ・アプリケーションへのディープ・リンクを設定できます。どのカードの種類でもアプリケーション・インストールとディープ・リンクを使用できます。以下に説明されている通り、必要なのはカード情報にメタタグを追加するだけです。 アプリケーション・インストール このタグを追加すれば、...]]></description>
    <pubDate>Sun, 13 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Calendar of API changes</title>
-   <link>https://dev.twitter.com/calendar</link>
-   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
-   <pubDate>Thu, 10 Apr 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
