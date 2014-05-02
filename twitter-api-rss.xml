@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 02 May 2014 09:00:02 +0200</pubDate>
+  <pubDate>Fri, 02 May 2014 09:45:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Tweet Button</title>
+   <link>https://dev.twitter.com/docs/tweet-button</link>
+   <description><![CDATA[By using the Tweet Button, you agree to the Developer Rules of the Road. Overview The Tweet Button is a small widget which allows users to easily share your website with their followers. This page is for developers and users who wish to build their own Tweet Buttons. If you are looking for a...]]></description>
+   <pubDate>Fri, 02 May 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Set-up Twitter for Websites</title>
    <link>https://dev.twitter.com/docs/tfw/set-up</link>
@@ -118,12 +124,6 @@
    <title>Playerカード</title>
    <link>https://dev.twitter.com/ja/docs/cards/types/player-card</link>
    <description><![CDATA[English | 日本語 Playerカードを使用できる前に、特別な審査が必要です。 Playerカードは音声や動画、スライドショーを視聴できるカードです。コンテンツがツイート内のiframeの中に表示されます。PhotoやSummaryカードと異なり、コンテンツ配信に関する全てをデベロッパー側で管理する必要があり、下記の全てのTwitterアプリケーションで動作するよう実装しなければなりません。 twitter.com と mobile.twitter.com Twitter for iPhone Twitter for Android...]]></description>
-   <pubDate>Sun, 13 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>トラブルシューティング＆FAQ</title>
-   <link>https://dev.twitter.com/ja/docs/cards/troubleshooting</link>
-   <description><![CDATA[English | 日本語 Twitterカードの設定に関して、よくある疑問やトラブルをまとめました。 なるべくすべての問題を網羅するよう心掛けておりますが、もし内容に誤りがあったり、他にも疑問がある場合は、 Twitter Card Discussion にてお気軽にお問い合せください。 カード検証ツールに関する問題 "exceeded 15.seconds to pink-floyd while waiting for a response for the request, including retries (...]]></description>
    <pubDate>Sun, 13 Apr 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
