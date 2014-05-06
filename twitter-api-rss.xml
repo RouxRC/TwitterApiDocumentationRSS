@@ -4,12 +4,24 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 06 May 2014 19:15:03 +0200</pubDate>
+  <pubDate>Tue, 06 May 2014 19:30:02 +0200</pubDate>
   <generator>RouxRC</generator>
   <item>
    <title>Twitter for Websites</title>
    <link>https://dev.twitter.com/docs/tfw</link>
-   <description><![CDATA[Twitter for Websites is a suite of embeddable widgets and client-side scripting tools to integrate Twitter and display Tweets in your site or web app. You can find documentation for publishers and developers here, refer to the FAQ, or ask questions or share what you build in the discussion...]]></description>
+   <description><![CDATA[Twitter for Websites is a suite of embeddable widgets and client-side scripting tools to integrate Twitter and display Tweets in your site or web app. You can find documentation for publishers and developers here, refer to the Twitter for Websites FAQ, or ask questions or share what you...]]></description>
+   <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Twitter for Websites FAQ</title>
+   <link>https://dev.twitter.com/docs/tfw/faq</link>
+   <description><![CDATA[Which browsers does the Tweet Button support? Does the Tweet Button support other languages? What are the dimensions of the Tweet Button? What happens if twitter.com has an error or is over capacity? I want to use multiple Tweet Buttons on my page. Is there anything I should know? Can I...]]></description>
+   <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Tweet Button</title>
+   <link>https://dev.twitter.com/docs/tweet-button</link>
+   <description><![CDATA[By using the Tweet Button, you agree to the Developer Rules of the Road. Overview The Tweet Button is a small widget which allows users to easily share your website with their followers. This page is for developers and users who wish to build their own Tweet Buttons. If you are looking for a...]]></description>
    <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
@@ -25,15 +37,15 @@
    <pubDate>Sun, 04 May 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
+   <title>Scripting: Factory Functions</title>
+   <link>https://dev.twitter.com/docs/tfw/factories</link>
+   <description><![CDATA[By using Twitter Javascript, you agree to the Developer Rules of the Road. If you're integrating your site with Twitter using [node:21973,title="Twitter for Websites"] and Web Intents, you can dynamically generate widgets using JavaScript functions. Twitter for Websites products—Tweet buttons,...]]></description>
+   <pubDate>Sun, 04 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
    <title>Calendar of API changes</title>
    <link>https://dev.twitter.com/calendar</link>
    <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
-   <pubDate>Fri, 02 May 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Tweet Button</title>
-   <link>https://dev.twitter.com/docs/tweet-button</link>
-   <description><![CDATA[By using the Tweet Button, you agree to the Developer Rules of the Road. Overview The Tweet Button is a small widget which allows users to easily share your website with their followers. This page is for developers and users who wish to build their own Tweet Buttons. If you are looking for a...]]></description>
    <pubDate>Fri, 02 May 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
@@ -113,18 +125,6 @@
    <link>https://dev.twitter.com/docs/cards</link>
    <description><![CDATA[English | 日本語 Introduction Twitter Cards make it possible for you to attach media experiences to Tweets that link to your content. Simply add a few lines of HTML to your webpages, and users who Tweet links to your content will have a "card" added to the Tweet that’s visible to all of their...]]></description>
    <pubDate>Wed, 23 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>POST blocks/create</title>
-   <link>https://dev.twitter.com/docs/api/1.1/post/blocks/create</link>
-   <description><![CDATA[Blocks the specified user from following the authenticating user. In addition the blocked user will not show in the authenticating users mentions or timeline (unless retweeted by another user). If a follow or friend relationship exists it is destroyed.]]></description>
-   <pubDate>Tue, 22 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>User Profile Images and Banners</title>
-   <link>https://dev.twitter.com/docs/user-profile-images-and-banners</link>
-   <description><![CDATA[Profile Images Profile images (or avatars) are an important component of a Twitter account's expression of identity. To upload an avatar on behalf of a user, use POST account/update_profile_image. Alternative image sizes for user profile images You can obtain a user's most recent profile image,...]]></description>
-   <pubDate>Mon, 21 Apr 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
