@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 06 May 2014 20:00:02 +0200</pubDate>
+  <pubDate>Tue, 06 May 2014 20:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>JavaScript Interfaces for Twitter for Websites</title>
+   <link>https://dev.twitter.com/docs/intents/events</link>
+   <description><![CDATA[By using Twitter JavaScript, you agree to the Developer Rules of the Road. If you're integrating your site with Twitter using Twitter for Websites and Web Intents, you can enhance your application using JavaScript. By default, widgets-js will find mark-up in a page and convert basic, functional...]]></description>
+   <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Web Intents</title>
    <link>https://dev.twitter.com/docs/intents</link>
@@ -41,12 +47,6 @@
    <link>https://dev.twitter.com/docs/cards/types/app-card</link>
    <description><![CDATA[App Card is a great way to better represent mobile applications on Twitter and to drive installs. We designed the App Card to allow for a name, description and icon, and also to highlight attributes such as the rating and the price. This will require adding some new markup tags to your pages,...]]></description>
    <pubDate>Mon, 05 May 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>JavaScript Interfaces for Twitter for Websites</title>
-   <link>https://dev.twitter.com/docs/intents/events</link>
-   <description><![CDATA[By using Twitter Javascript, you agree to the Developer Rules of the Road. If you're integrating your site with Twitter using Twitter for Websites and Web Intents, you can enhance your application using JavaScript functions and events. Twitter for Websites products—Tweet buttons, Follow buttons,...]]></description>
-   <pubDate>Sun, 04 May 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>Scripting: Factory Functions</title>
