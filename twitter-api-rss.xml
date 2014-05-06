@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 06 May 2014 17:15:02 +0200</pubDate>
+  <pubDate>Tue, 06 May 2014 19:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Twitter for Websites</title>
+   <link>https://dev.twitter.com/docs/tfw</link>
+   <description><![CDATA[Twitter for Websites is a suite of embeddable widgets and client-side scripting tools to integrate Twitter and display Tweets in your site or web app. You can find documentation for publishers and developers here, refer to the FAQ, or ask questions or share what you build in the discussion...]]></description>
+   <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>App Card</title>
    <link>https://dev.twitter.com/docs/cards/types/app-card</link>
@@ -31,9 +37,21 @@
    <pubDate>Fri, 02 May 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
+   <title>Scripting: Loading and Initialization</title>
+   <link>https://dev.twitter.com/docs/tfw/loading</link>
+   <description><![CDATA[Most Twitter for Websites integrations will be well served by the recommended embed code found in the set-up documentation, but you may want to optimise how and when widgets are initialised for more advanced publishing systems. The widgets-js script provides various functions to help you optimize...]]></description>
+   <pubDate>Fri, 02 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
    <title>Set-up Twitter for Websites</title>
    <link>https://dev.twitter.com/docs/tfw/set-up</link>
    <description><![CDATA[The easiest way to create a Twitter for Websites widget—a Tweet button, Follow button, embedded Tweet or timeline—is to use our configuration tools, then copy and paste the generated HTML code into the template for your site. Create a Tweet or Follow Button]]></description>
+   <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Scripting: Events</title>
+   <link>https://dev.twitter.com/docs/tfw/events</link>
+   <description><![CDATA[By using Twitter Javascript, you agree to the Developer Rules of the Road. By default, widgets-js will find mark-up in a page and convert basic, functional mark-up into rich interactive widgets. In addition, there are a number of functions of widgets-js that allow developers to work with Twitter...]]></description>
    <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
@@ -107,24 +125,6 @@
    <link>https://dev.twitter.com/docs/user-profile-images-and-banners</link>
    <description><![CDATA[Profile Images Profile images (or avatars) are an important component of a Twitter account's expression of identity. To upload an avatar on behalf of a user, use POST account/update_profile_image. Alternative image sizes for user profile images You can obtain a user's most recent profile image,...]]></description>
    <pubDate>Mon, 21 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>POST account/update_profile_banner</title>
-   <link>https://dev.twitter.com/docs/api/1.1/post/account/update_profile_banner</link>
-   <description><![CDATA[Uploads a profile banner on behalf of the authenticating user. For best results, upload an]]></description>
-   <pubDate>Mon, 21 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Error Codes &amp; Responses</title>
-   <link>https://dev.twitter.com/docs/error-codes-responses</link>
-   <description><![CDATA[HTTP Status Codes The Twitter API attempts to return appropriate HTTP status codes for every request. It is possible to suppress response codes for the REST API. Code Text Description 200 OK Success...]]></description>
-   <pubDate>Tue, 15 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>POST account/update_profile_image</title>
-   <link>https://dev.twitter.com/docs/api/1.1/post/account/update_profile_image</link>
-   <description><![CDATA[Updates the authenticating user's profile image. Note that this method expects raw multipart data, not a URL to an image. This method asynchronously processes the uploaded file before updating the user's profile image URL. You can either update your local cache the next time you request the user's...]]></description>
-   <pubDate>Mon, 14 Apr 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
