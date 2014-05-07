@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 06 May 2014 20:15:03 +0200</pubDate>
+  <pubDate>Wed, 07 May 2014 07:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Twitter Cards</title>
+   <link>https://dev.twitter.com/docs/cards</link>
+   <description><![CDATA[English | 日本語 Introduction Twitter Cards make it possible for you to attach media experiences to Tweets that link to your content. Simply add a few lines of HTML to your webpages, and users who Tweet links to your content will have a "card" added to the Tweet that’s visible to all of their...]]></description>
+   <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>JavaScript Interfaces for Twitter for Websites</title>
    <link>https://dev.twitter.com/docs/intents/events</link>
@@ -118,12 +124,6 @@
    <title>GET statuses/show/:id</title>
    <link>https://dev.twitter.com/docs/api/1.1/get/statuses/show/%3Aid</link>
    <description><![CDATA[Returns a single Tweet, specified by the id parameter. The Tweet's author will also be embedded within the tweet. See GET statuses/lookup for getting Tweets in bulk (up to 100 per call). See also Embeddable Timelines, Embeddable Tweets, and GET statuses/oembed for tools to render Tweets according...]]></description>
-   <pubDate>Thu, 24 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>GET statuses/lookup</title>
-   <link>https://dev.twitter.com/docs/api/1.1/get/statuses/lookup</link>
-   <description><![CDATA[Returns fully-hydrated tweet objects for up to 100 tweets per request, as specified by comma-separated values passed to the id parameter. This method is especially useful to get the details (hydrate) a collection of Tweet IDs. GET statuses/show/:id is used to retrieve a single tweet object.]]></description>
    <pubDate>Thu, 24 Apr 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
