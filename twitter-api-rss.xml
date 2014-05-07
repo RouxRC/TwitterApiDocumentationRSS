@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 07 May 2014 17:45:02 +0200</pubDate>
+  <pubDate>Wed, 07 May 2014 18:15:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Web Intents</title>
+   <link>https://dev.twitter.com/docs/intents</link>
+   <description><![CDATA[By using Web Intents, you agree to the Developer Rules of the Road. Make it easy to bring interactivity to Tweets that you display on the web. Web Intents provide popup-optimized flows for working with Tweets &amp; Twitter Users: Tweet, Reply, Retweet, Favorite, and Follow. They make it possible...]]></description>
+   <pubDate>Wed, 07 May 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Twitter Cards</title>
    <link>https://dev.twitter.com/docs/cards</link>
@@ -16,12 +22,6 @@
    <title>JavaScript Interfaces for Twitter for Websites</title>
    <link>https://dev.twitter.com/docs/tfw-javascript</link>
    <description><![CDATA[By using Twitter JavaScript, you agree to the Developer Rules of the Road. If you're integrating your site with Twitter using Twitter for Websites and Web Intents, you can enhance your application using JavaScript. By default, widgets-js will find mark-up in a page and convert basic, functional...]]></description>
-   <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Web Intents</title>
-   <link>https://dev.twitter.com/docs/intents</link>
-   <description><![CDATA[By using Web Intents, you agree to the Developer Rules of the Road. Make it easy to bring interactivity to Tweets that you display on the web. Web Intents provide popup-optimized flows for working with Tweets &amp; Twitter Users: Tweet, Reply, Retweet, Favorite, and Follow. They make it possible...]]></description>
    <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
