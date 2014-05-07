@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 07 May 2014 18:15:02 +0200</pubDate>
+  <pubDate>Wed, 07 May 2014 22:15:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>How should I file a bug report about a Twitter widget?</title>
+   <link>https://dev.twitter.com/docs/faq/#25874</link>
+   <description><![CDATA[Sorry that you're having trouble. We work constantly to fix bugs, tweak functionality and improve browser support of our widgets, and hopefully we can help resolve your issue, too. Before reporting a bug, please verify as much of the following as you are able: Check the FAQ for known limitations...]]></description>
+   <pubDate>Wed, 07 May 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Web Intents</title>
    <link>https://dev.twitter.com/docs/intents</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/sign-twitters-developer-newsletter</link>
    <description><![CDATA[]]></description>
    <pubDate>Fri, 25 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>GET statuses/show/:id</title>
-   <link>https://dev.twitter.com/docs/api/1.1/get/statuses/show/%3Aid</link>
-   <description><![CDATA[Returns a single Tweet, specified by the id parameter. The Tweet's author will also be embedded within the tweet. See GET statuses/lookup for getting Tweets in bulk (up to 100 per call). See also Embeddable Timelines, Embeddable Tweets, and GET statuses/oembed for tools to render Tweets according...]]></description>
-   <pubDate>Thu, 24 Apr 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
