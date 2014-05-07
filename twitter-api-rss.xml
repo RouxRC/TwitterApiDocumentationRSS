@@ -4,7 +4,7 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 07 May 2014 11:00:02 +0200</pubDate>
+  <pubDate>Wed, 07 May 2014 17:45:02 +0200</pubDate>
   <generator>RouxRC</generator>
   <item>
    <title>Twitter Cards</title>
@@ -57,7 +57,7 @@
   <item>
    <title>Scripting: Factory Functions</title>
    <link>https://dev.twitter.com/docs/tfw/factories</link>
-   <description><![CDATA[By using Twitter Javascript, you agree to the Developer Rules of the Road. If you're integrating your site with Twitter using [node:21973,title="Twitter for Websites"] and Web Intents, you can dynamically generate widgets using JavaScript functions. Twitter for Websites products—Tweet buttons,...]]></description>
+   <description><![CDATA[By using Twitter Javascript, you agree to the Developer Rules of the Road. If you're integrating your site with Twitter using Twitter for Websites and Web Intents, you can dynamically generate widgets using JavaScript functions. Twitter for Websites products—Tweet buttons, Follow buttons,...]]></description>
    <pubDate>Sun, 04 May 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
