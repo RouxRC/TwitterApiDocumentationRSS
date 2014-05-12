@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sun, 11 May 2014 05:30:02 +0200</pubDate>
+  <pubDate>Mon, 12 May 2014 18:30:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>GET friendships/show</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/friendships/show</link>
+   <description><![CDATA[Returns detailed information about the relationship between two arbitrary users.]]></description>
+   <pubDate>Mon, 12 May 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Twitterカード</title>
    <link>https://dev.twitter.com/ja/docs/cards</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/cards/types/player-card/approval-guide</link>
    <description><![CDATA[Thank you for your interest in using the Twitter Player Card. To help expedite the approval of your Card, it is useful to read the below fully and provide the appropriate information when prompted via e-mail. General Policy and Rules Most Common Issues Providing Us Additional Information...]]></description>
    <pubDate>Wed, 30 Apr 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Cards Troubleshooting Guide</title>
-   <link>https://dev.twitter.com/docs/cards/troubleshooting</link>
-   <description><![CDATA[English | 日本語 We created this troubleshooting guide to help you identify and resolve commonly encountered issues during Cards development. We've tried to make this guide as useful and comprehensive as possible. If there's something wrong, or you feel something should be added, please reach out...]]></description>
-   <pubDate>Tue, 29 Apr 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
