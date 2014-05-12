@@ -50,7 +50,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
          name="op"
          type="submit"
          value="Search"  />
-<input type="hidden" name="form_build_id" id="form-613ff34d0e13fb96002e555e00ae9545" value="form-613ff34d0e13fb96002e555e00ae9545"  />
+<input type="hidden" name="form_build_id" id="form-0d7a983769e3f471661467a9414be291" value="form-0d7a983769e3f471661467a9414be291"  />
 <input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
 
 </form>
@@ -76,7 +76,15 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
           </tr>
   </thead>
   <tbody>
-          <tr class="odd views-row-first views-row-last">
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-title">
+            <a href="/calendar">Calendar of API changes</a>          </td>
+                  <td class="views-field views-field-body">
+            This page lists important upcoming dates for consumers of Twitter's APIs.  The dates listed will be as specific as possible, but may not be exact for various reasons.  Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform.
+
+Upcoming changes...          </td>
+              </tr>
+          <tr class="even views-row-last">
                   <td class="views-field views-field-title">
             <a href="/docs/api/1.1/get/friendships/show">GET friendships/show</a>          </td>
                   <td class="views-field views-field-body">
@@ -116,7 +124,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   
     Summary Card：標準のカードです。タイトル...          </td>
               </tr>
-          <tr class="even">
+          <tr class="even views-row-last">
                   <td class="views-field views-field-title">
             <a href="/docs/faq/#25874">How should I file a bug report about a Twitter widget?</a>          </td>
                   <td class="views-field views-field-body">
@@ -125,7 +133,7 @@ Before reporting a bug, please verify as much of the following as you are able:
 
 Check the FAQ for known limitations...          </td>
               </tr>
-          <tr class="odd views-row-last">
+          <tr class="odd">
                   <td class="views-field views-field-title">
             <a href="/docs/intents">Web Intents</a>          </td>
                   <td class="views-field views-field-body">
@@ -157,7 +165,7 @@ Web Intents provide popup-optimized flows for working with Tweets &amp; Twitter 
   Introduction
   Twitter Cards make it possible for you to attach media experiences to Tweets that link to your content. Simply add a few lines of HTML to your webpages, and users who Tweet links to your content will have a "card" added to the Tweet that’s visible to all of their...          </td>
               </tr>
-          <tr class="even">
+          <tr class="even views-row-last">
                   <td class="views-field views-field-title">
             <a href="/docs/tfw-javascript">JavaScript Interfaces for Twitter for Websites</a>          </td>
                   <td class="views-field views-field-body">
@@ -165,7 +173,7 @@ Web Intents provide popup-optimized flows for working with Tweets &amp; Twitter 
 
 If you're integrating your site with Twitter using Twitter for Websites and Web Intents, you can enhance your application using JavaScript. By default, widgets-js will find mark-up in a page and convert basic, functional...          </td>
               </tr>
-          <tr class="odd views-row-last">
+          <tr class="odd">
                   <td class="views-field views-field-title">
             <a href="/docs/follow-button">Follow Button</a>          </td>
                   <td class="views-field views-field-body">
@@ -267,14 +275,6 @@ Twitter for Websites products—Tweet buttons, Follow buttons,...          </td>
   <tbody>
           <tr class="odd">
                   <td class="views-field views-field-title">
-            <a href="/calendar">Calendar of API changes</a>          </td>
-                  <td class="views-field views-field-body">
-            This page lists important upcoming dates for consumers of Twitter's APIs.  The dates listed will be as specific as possible, but may not be exact for various reasons.  Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform.
-
-Upcoming changes...          </td>
-              </tr>
-          <tr class="even">
-                  <td class="views-field views-field-title">
             <a href="/docs/tfw/loading">Scripting: Loading and Initialization</a>          </td>
                   <td class="views-field views-field-body">
             Most Twitter for Websites integrations will be well served by the recommended embed code found in the set-up documentation, but you may want to optimise how and when widgets are initialised for more advanced publishing systems. The widgets-js script provides various functions to help you optimize...          </td>
@@ -349,50 +349,21 @@ By default, widgets-js will find mark-up in a page and convert basic, functional
   delimited
   This parameter may be used on all streaming...          </td>
               </tr>
-      </tbody>
-</table>
-<table class="views-table cols-2">
-      <caption>April 30, 2014</caption>
-    <thead>
-    <tr>
-              <th class="views-field views-field-title">
-          Document        </th>
-              <th class="views-field views-field-body">
-          Description        </th>
-          </tr>
-  </thead>
-  <tbody>
           <tr class="odd">
                   <td class="views-field views-field-title">
-            <a href="/docs/cards/types/player-card">Player Card</a>          </td>
+            <a href="/docs/api/1.1/get/mutes/users/ids">GET mutes/users/ids</a>          </td>
                   <td class="views-field views-field-body">
-            English | 日本語
-
-
-
-Video clips and audio streams have a special place on the Twitter platform thanks to the Player Card. By implementing a few HTML meta tags to your website and following the Twitter Rules of the Road, you can deliver your rich media to users across the globe.
-
-
-
-
-
-	Player Card...          </td>
+            
+Returns an array of numeric user ids the authenticating user has muted.
+          </td>
               </tr>
           <tr class="even">
                   <td class="views-field views-field-title">
-            <a href="/docs/cards/types/player-card/approval-guide">Player Card Approval Guide</a>          </td>
+            <a href="/docs/api/1.1/get/mutes/users/list">GET mutes/users/list</a>          </td>
                   <td class="views-field views-field-body">
             
-Thank you for your interest in using the Twitter Player Card. To help expedite the approval of your Card,  it is useful to read the below fully and provide the appropriate information when prompted via e-mail.
-
-
-
-
-
-
-	General Policy and Rules
-	Most Common Issues
-	Providing Us Additional Information...          </td>
+Returns an array of user objects the authenticating user has muted.
+          </td>
               </tr>
       </tbody>
 </table>
