@@ -4,7 +4,127 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 13 May 2014 10:15:22 +0200</pubDate>
+  <pubDate>Tue, 13 May 2014 10:45:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Calendar of API changes</title>
+   <link>https://dev.twitter.com/calendar</link>
+   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
+   <pubDate>Mon, 12 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>GET friendships/show</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/friendships/show</link>
+   <description><![CDATA[Returns detailed information about the relationship between two arbitrary users.]]></description>
+   <pubDate>Mon, 12 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Twitterカード</title>
+   <link>https://dev.twitter.com/ja/docs/cards</link>
+   <description><![CDATA[English | 日本語 紹介 Twitterカードであなたのサイトへのリンクが入っているツイートにメディアを添付できます。あなたのウェブ・ページにHTMLを数行入れるだけで、どのユーザーもあなたのサイトへのリンクをツイートすると、そのツイートを見るすべてのフォロワーがカードを見られます。 カードであなたのツイートに対するエンゲージメント促進 ツイートにつけられるカードの種類は7種あります。各種類がtwitter.comでもでもTwitterのモバイル・クライアントでも綺麗に表示されます： Summary Card：標準のカードです。タイトル...]]></description>
+   <pubDate>Wed, 07 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>How should I file a bug report about a Twitter widget?</title>
+   <link>https://dev.twitter.com/docs/faq/#25874</link>
+   <description><![CDATA[Sorry that you're having trouble. We work constantly to fix bugs, tweak functionality and improve browser support of our widgets, and hopefully we can help resolve your issue, too. Before reporting a bug, please verify as much of the following as you are able: Check the FAQ for known limitations...]]></description>
+   <pubDate>Wed, 07 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Web Intents</title>
+   <link>https://dev.twitter.com/docs/intents</link>
+   <description><![CDATA[By using Web Intents, you agree to the Developer Rules of the Road. Make it easy to bring interactivity to Tweets that you display on the web. Web Intents provide popup-optimized flows for working with Tweets &amp; Twitter Users: Tweet, Reply, Retweet, Favorite, and Follow. They make it possible...]]></description>
+   <pubDate>Wed, 07 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Twitter Cards</title>
+   <link>https://dev.twitter.com/docs/cards</link>
+   <description><![CDATA[English | 日本語 Introduction Twitter Cards make it possible for you to attach media experiences to Tweets that link to your content. Simply add a few lines of HTML to your webpages, and users who Tweet links to your content will have a "card" added to the Tweet that’s visible to all of their...]]></description>
+   <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>JavaScript Interfaces for Twitter for Websites</title>
+   <link>https://dev.twitter.com/docs/tfw-javascript</link>
+   <description><![CDATA[By using Twitter JavaScript, you agree to the Developer Rules of the Road. If you're integrating your site with Twitter using Twitter for Websites and Web Intents, you can enhance your application using JavaScript. By default, widgets-js will find mark-up in a page and convert basic, functional...]]></description>
+   <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Follow Button</title>
+   <link>https://dev.twitter.com/docs/follow-button</link>
+   <description><![CDATA[The Follow Button is a small widget which allows users to easily follow a Twitter account from any webpage. The Follow Button uses the same implementation model as the Tweet Button, and its integration is just as simple. By using the Follow Button, you agree to the Developer Rules of the Road....]]></description>
+   <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Twitter for Websites FAQ</title>
+   <link>https://dev.twitter.com/docs/tfw/faq</link>
+   <description><![CDATA[Which browsers does the Tweet Button support? Does the Tweet Button support other languages? What are the dimensions of the Tweet Button? What happens if twitter.com has an error or is over capacity? I want to use multiple Tweet Buttons on my page. Is there anything I should know? Can I...]]></description>
+   <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Twitter for Websites</title>
+   <link>https://dev.twitter.com/docs/tfw</link>
+   <description><![CDATA[Twitter for Websites is a suite of embeddable widgets and client-side scripting tools to integrate Twitter and display Tweets in your site or web app. You can find documentation for publishers and developers here, refer to the Twitter for Websites FAQ, or ask questions or share what you...]]></description>
+   <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Tweet Button</title>
+   <link>https://dev.twitter.com/docs/tweet-button</link>
+   <description><![CDATA[By using the Tweet Button, you agree to the Developer Rules of the Road. Overview The Tweet Button is a small widget which allows users to easily share your website with their followers. This page is for developers and users who wish to build their own Tweet Buttons. If you are looking for a...]]></description>
+   <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>App Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/app-card</link>
+   <description><![CDATA[App Card is a great way to better represent mobile applications on Twitter and to drive installs. We designed the App Card to allow for a name, description and icon, and also to highlight attributes such as the rating and the price. This will require adding some new markup tags to your pages,...]]></description>
+   <pubDate>Mon, 05 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Scripting: Factory Functions</title>
+   <link>https://dev.twitter.com/docs/tfw/factories</link>
+   <description><![CDATA[By using Twitter Javascript, you agree to the Developer Rules of the Road. If you're integrating your site with Twitter using Twitter for Websites and Web Intents, you can dynamically generate widgets using JavaScript functions. Twitter for Websites products—Tweet buttons, Follow buttons,...]]></description>
+   <pubDate>Sun, 04 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Scripting: Loading and Initialization</title>
+   <link>https://dev.twitter.com/docs/tfw/loading</link>
+   <description><![CDATA[Most Twitter for Websites integrations will be well served by the recommended embed code found in the set-up documentation, but you may want to optimise how and when widgets are initialised for more advanced publishing systems. The widgets-js script provides various functions to help you optimize...]]></description>
+   <pubDate>Fri, 02 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Set-up Twitter for Websites</title>
+   <link>https://dev.twitter.com/docs/tfw/set-up</link>
+   <description><![CDATA[The easiest way to create a Twitter for Websites widget—a Tweet button, Follow button, embedded Tweet or timeline—is to use our configuration tools, then copy and paste the generated HTML code into the template for your site. Create a Tweet or Follow Button]]></description>
+   <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Scripting: Events</title>
+   <link>https://dev.twitter.com/docs/tfw/events</link>
+   <description><![CDATA[By using Twitter Javascript, you agree to the Developer Rules of the Road. By default, widgets-js will find mark-up in a page and convert basic, functional mark-up into rich interactive widgets. In addition, there are a number of functions of widgets-js that allow developers to work with Twitter...]]></description>
+   <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Things Every Developer Should Know</title>
+   <link>https://dev.twitter.com/docs/things-every-developer-should-know</link>
+   <description><![CDATA[Tweet IDs are enormous and break Javascript Use the id_str field instead of id whenever present to stay safe. Your web browser/Javascript interpreter/JSON consumer may munge our large integer-based ids which is why it's recommended to use the string representation. See Twitter IDs, JSON and...]]></description>
+   <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Streaming API request parameters</title>
+   <link>https://dev.twitter.com/docs/streaming-apis/parameters</link>
+   <description><![CDATA[Use the following request parameters to define what data is returned by the Streaming API endpoints: delimited stall_warnings filter_level language follow track locations count with replies stringify_friend_ids delimited This parameter may be used on all streaming...]]></description>
+   <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>GET mutes/users/ids</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/mutes/users/ids</link>
+   <description><![CDATA[Returns an array of numeric user ids the authenticating user has muted.]]></description>
+   <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>GET mutes/users/list</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/mutes/users/list</link>
+   <description><![CDATA[Returns an array of user objects the authenticating user has muted.]]></description>
+   <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
+  </item>
  </channel>
 </rss>
