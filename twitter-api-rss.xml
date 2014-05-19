@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 19 May 2014 17:45:02 +0200</pubDate>
+  <pubDate>Mon, 19 May 2014 18:00:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Calendar of API changes</title>
+   <link>https://dev.twitter.com/calendar</link>
+   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
+   <pubDate>Mon, 19 May 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Error Codes &amp; Responses</title>
    <link>https://dev.twitter.com/docs/error-codes-responses</link>
@@ -29,12 +35,6 @@
    <link>https://dev.twitter.com/docs/api/1.1/get/friendships/show</link>
    <description><![CDATA[Returns detailed information about the relationship between two arbitrary users.]]></description>
    <pubDate>Tue, 13 May 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Calendar of API changes</title>
-   <link>https://dev.twitter.com/calendar</link>
-   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
-   <pubDate>Mon, 12 May 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>Twitterカード</title>
