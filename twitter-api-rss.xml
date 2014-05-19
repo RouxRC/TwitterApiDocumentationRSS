@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 19 May 2014 11:15:02 +0200</pubDate>
+  <pubDate>Mon, 19 May 2014 11:30:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Error Codes &amp; Responses</title>
+   <link>https://dev.twitter.com/docs/error-codes-responses</link>
+   <description><![CDATA[HTTP Status Codes The Twitter API attempts to return appropriate HTTP status codes for every request. It is possible to suppress response codes for the REST API. Code Text Description 200 OK Success...]]></description>
+   <pubDate>Mon, 19 May 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>GET friendships/lookup</title>
    <link>https://dev.twitter.com/docs/api/1.1/get/friendships/lookup</link>
@@ -118,12 +124,6 @@
    <title>Streaming API request parameters</title>
    <link>https://dev.twitter.com/docs/streaming-apis/parameters</link>
    <description><![CDATA[Use the following request parameters to define what data is returned by the Streaming API endpoints: delimited stall_warnings filter_level language follow track locations count with replies stringify_friend_ids delimited This parameter may be used on all streaming...]]></description>
-   <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>GET mutes/users/ids</title>
-   <link>https://dev.twitter.com/docs/api/1.1/get/mutes/users/ids</link>
-   <description><![CDATA[Returns an array of numeric user ids the authenticating user has muted.]]></description>
    <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
