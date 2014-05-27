@@ -50,7 +50,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
          name="op"
          type="submit"
          value="Search"  />
-<input type="hidden" name="form_build_id" id="form-cd0be8c66acadd9f85543376abc4fb69" value="form-cd0be8c66acadd9f85543376abc4fb69"  />
+<input type="hidden" name="form_build_id" id="form-374524418b47da99bbc68c839cdbd8a8" value="form-374524418b47da99bbc68c839cdbd8a8"  />
 <input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
 
 </form>
@@ -76,7 +76,15 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
           </tr>
   </thead>
   <tbody>
-          <tr class="odd views-row-first views-row-last">
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-title">
+            <a href="/docs/api/1.1/get/statuses/retweets_of_me">GET statuses/retweets_of_me</a>          </td>
+                  <td class="views-field views-field-body">
+            Returns the most recent tweets authored by the authenticating user that have been retweeted by others. This timeline is a subset of the user's GET statuses/user_timeline.
+
+See Working with Timelines for instructions on traversing timelines.          </td>
+              </tr>
+          <tr class="even views-row-last">
                   <td class="views-field views-field-title">
             <a href="/docs/api/multiple-media-extended-entities">Multiple Media Entities in Statuses</a>          </td>
                   <td class="views-field views-field-body">
@@ -99,7 +107,7 @@ GETting Extended Entities...          </td>
           </tr>
   </thead>
   <tbody>
-          <tr class="odd views-row-last">
+          <tr class="odd">
                   <td class="views-field views-field-title">
             <a href="/calendar">Calendar of API changes</a>          </td>
                   <td class="views-field views-field-body">
@@ -120,7 +128,7 @@ Upcoming changes...          </td>
           </tr>
   </thead>
   <tbody>
-          <tr class="odd views-row-last">
+          <tr class="odd">
                   <td class="views-field views-field-title">
             <a href="/docs/error-codes-responses">Error Codes &amp; Responses</a>          </td>
                   <td class="views-field views-field-body">
@@ -398,14 +406,6 @@ Twitter for Websites products—Tweet buttons, Follow buttons,...          </td>
             By using Twitter Javascript, you agree to the Developer Rules of the Road.
 
 By default, widgets-js will find mark-up in a page and convert basic, functional mark-up into rich interactive widgets. In addition, there are a number of functions of widgets-js that allow developers to work with Twitter...          </td>
-              </tr>
-          <tr class="odd">
-                  <td class="views-field views-field-title">
-            <a href="/docs/things-every-developer-should-know">Things Every Developer Should Know</a>          </td>
-                  <td class="views-field views-field-body">
-            Tweet IDs are enormous and break Javascript
-
-  Use the id_str field instead of id whenever present to stay safe. Your web browser/Javascript interpreter/JSON consumer may munge our large integer-based ids which is why it's recommended to use the string representation. See Twitter IDs, JSON and...          </td>
               </tr>
       </tbody>
 </table>
