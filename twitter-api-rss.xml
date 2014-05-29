@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 28 May 2014 22:30:02 +0200</pubDate>
+  <pubDate>Thu, 29 May 2014 05:30:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>POST statuses/update_with_media</title>
+   <link>https://dev.twitter.com/docs/api/1.1/post/statuses/update_with_media</link>
+   <description><![CDATA[Updates the authenticating user's current status and attaches media for upload. In other words, it creates a Tweet with a picture attached. Unlike POST statuses/update, this method expects raw multipart data. Your POST request's Content-Type should be set to multipart/form-data with the media[]...]]></description>
+   <pubDate>Wed, 28 May 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>GET statuses/retweets_of_me</title>
    <link>https://dev.twitter.com/docs/api/1.1/get/statuses/retweets_of_me</link>
@@ -118,12 +124,6 @@
    <title>Set-up Twitter for Websites</title>
    <link>https://dev.twitter.com/docs/tfw/set-up</link>
    <description><![CDATA[The easiest way to create a Twitter for Websites widget—a Tweet button, Follow button, embedded Tweet or timeline—is to use our configuration tools, then copy and paste the generated HTML code into the template for your site. Create a Tweet or Follow Button]]></description>
-   <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Scripting: Events</title>
-   <link>https://dev.twitter.com/docs/tfw/events</link>
-   <description><![CDATA[By using Twitter Javascript, you agree to the Developer Rules of the Road. By default, widgets-js will find mark-up in a page and convert basic, functional mark-up into rich interactive widgets. In addition, there are a number of functions of widgets-js that allow developers to work with Twitter...]]></description>
    <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
