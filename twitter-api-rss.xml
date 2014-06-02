@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sun, 01 Jun 2014 22:45:03 +0200</pubDate>
+  <pubDate>Mon, 02 Jun 2014 23:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>POST statuses/update</title>
+   <link>https://dev.twitter.com/docs/api/1.1/post/statuses/update</link>
+   <description><![CDATA[Updates the authenticating user's current status, also known as tweeting. To upload an image to accompany the tweet, use POST statuses/update_with_media. For each update attempt, the update text is compared with the authenticating user's recent tweets. Any attempt that would result in duplication...]]></description>
+   <pubDate>Mon, 02 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>POST statuses/update_with_media</title>
    <link>https://dev.twitter.com/docs/api/1.1/post/statuses/update_with_media</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/tfw/loading</link>
    <description><![CDATA[Most Twitter for Websites integrations will be well served by the recommended embed code found in the set-up documentation, but you may want to optimise how and when widgets are initialised for more advanced publishing systems. The widgets-js script provides various functions to help you optimize...]]></description>
    <pubDate>Fri, 02 May 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Set-up Twitter for Websites</title>
-   <link>https://dev.twitter.com/docs/tfw/set-up</link>
-   <description><![CDATA[The easiest way to create a Twitter for Websites widget—a Tweet button, Follow button, embedded Tweet or timeline—is to use our configuration tools, then copy and paste the generated HTML code into the template for your site. Create a Tweet or Follow Button]]></description>
-   <pubDate>Thu, 01 May 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
