@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 05 Jun 2014 07:00:03 +0200</pubDate>
+  <pubDate>Thu, 05 Jun 2014 22:45:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>GET statuses/lookup</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/statuses/lookup</link>
+   <description><![CDATA[Returns fully-hydrated tweet objects for up to 100 tweets per request, as specified by comma-separated values passed to the id parameter. This method is especially useful to get the details (hydrate) a collection of Tweet IDs. GET statuses/show/:id is used to retrieve a single tweet object.]]></description>
+   <pubDate>Thu, 05 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>POST statuses/update</title>
    <link>https://dev.twitter.com/docs/api/1.1/post/statuses/update</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/tfw/factories</link>
    <description><![CDATA[By using Twitter Javascript, you agree to the Developer Rules of the Road. If you're integrating your site with Twitter using Twitter for Websites and Web Intents, you can dynamically generate widgets using JavaScript functions. Twitter for Websites products—Tweet buttons, Follow buttons,...]]></description>
    <pubDate>Sun, 04 May 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Scripting: Loading and Initialization</title>
-   <link>https://dev.twitter.com/docs/tfw/loading</link>
-   <description><![CDATA[Most Twitter for Websites integrations will be well served by the recommended embed code found in the set-up documentation, but you may want to optimise how and when widgets are initialised for more advanced publishing systems. The widgets-js script provides various functions to help you optimize...]]></description>
-   <pubDate>Fri, 02 May 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
