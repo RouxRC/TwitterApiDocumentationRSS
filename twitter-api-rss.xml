@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 09 Jun 2014 13:15:02 +0200</pubDate>
+  <pubDate>Mon, 09 Jun 2014 16:00:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>POST statuses/update</title>
+   <link>https://dev.twitter.com/docs/api/1/post/statuses/update</link>
+   <description><![CDATA[Updates the authenticating user's status, also known as tweeting. To upload an image to accompany the tweet, use POST statuses/update_with_media. For each update attempt, the update text is compared with the authenticating user's recent tweets. Any attempt that would result in duplication will be...]]></description>
+   <pubDate>Mon, 09 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>GET help/configuration</title>
    <link>https://dev.twitter.com/docs/api/1.1/get/help/configuration</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/tweet-button</link>
    <description><![CDATA[By using the Tweet Button, you agree to the Developer Rules of the Road. Overview The Tweet Button is a small widget which allows users to easily share your website with their followers. This page is for developers and users who wish to build their own Tweet Buttons. If you are looking for a...]]></description>
    <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>App Card</title>
-   <link>https://dev.twitter.com/docs/cards/types/app-card</link>
-   <description><![CDATA[App Card is a great way to better represent mobile applications on Twitter and to drive installs. We designed the App Card to allow for a name, description and icon, and also to highlight attributes such as the rating and the price. This will require adding some new markup tags to your pages,...]]></description>
-   <pubDate>Mon, 05 May 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
