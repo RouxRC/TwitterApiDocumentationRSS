@@ -4,7 +4,127 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 10 Jun 2014 08:45:22 +0200</pubDate>
+  <pubDate>Tue, 10 Jun 2014 09:00:06 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>POST statuses/update</title>
+   <link>https://dev.twitter.com/docs/api/1/post/statuses/update</link>
+   <description><![CDATA[Updates the authenticating user's status, also known as tweeting. To upload an image to accompany the tweet, use POST statuses/update_with_media. For each update attempt, the update text is compared with the authenticating user's recent tweets. Any attempt that would result in duplication will be...]]></description>
+   <pubDate>Mon, 09 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>GET help/configuration</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/help/configuration</link>
+   <description><![CDATA[Returns the current configuration used by Twitter including twitter.com slugs which are not usernames, maximum photo resolutions, and t.co URL lengths. It is recommended applications request this endpoint when they are loaded, but no more than once a day.]]></description>
+   <pubDate>Mon, 09 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>GET statuses/lookup</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/statuses/lookup</link>
+   <description><![CDATA[Returns fully-hydrated tweet objects for up to 100 tweets per request, as specified by comma-separated values passed to the id parameter. This method is especially useful to get the details (hydrate) a collection of Tweet IDs. GET statuses/show/:id is used to retrieve a single tweet object.]]></description>
+   <pubDate>Thu, 05 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>POST statuses/update</title>
+   <link>https://dev.twitter.com/docs/api/1.1/post/statuses/update</link>
+   <description><![CDATA[Updates the authenticating user's current status, also known as tweeting. To upload an image to accompany the tweet, use POST statuses/update_with_media. For each update attempt, the update text is compared with the authenticating user's recent tweets. Any attempt that would result in duplication...]]></description>
+   <pubDate>Mon, 02 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>POST statuses/update_with_media</title>
+   <link>https://dev.twitter.com/docs/api/1.1/post/statuses/update_with_media</link>
+   <description><![CDATA[Updates the authenticating user's current status and attaches media for upload. In other words, it creates a Tweet with a picture attached. Unlike POST statuses/update, this method expects raw multipart data. Your POST request's Content-Type should be set to multipart/form-data with the media[]...]]></description>
+   <pubDate>Thu, 29 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>GET statuses/retweets_of_me</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/statuses/retweets_of_me</link>
+   <description><![CDATA[Returns the most recent tweets authored by the authenticating user that have been retweeted by others. This timeline is a subset of the user's GET statuses/user_timeline. See Working with Timelines for instructions on traversing timelines.]]></description>
+   <pubDate>Tue, 27 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Multiple Media Entities in Statuses</title>
+   <link>https://dev.twitter.com/docs/api/multiple-media-extended-entities</link>
+   <description><![CDATA[Multiple Media Entities in Tweets for the REST API We are ready to launch a new extended entities representation to support our multiple images per tweet feature. See https://blog.twitter.com/2014/photos-just-got-more-social for the blog post announcing this for users. GETting Extended Entities...]]></description>
+   <pubDate>Tue, 27 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Calendar of API changes</title>
+   <link>https://dev.twitter.com/calendar</link>
+   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
+   <pubDate>Thu, 22 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Error Codes &amp; Responses</title>
+   <link>https://dev.twitter.com/docs/error-codes-responses</link>
+   <description><![CDATA[HTTP Status Codes The Twitter API attempts to return appropriate HTTP status codes for every request. It is possible to suppress response codes for the REST API. Code Text Description 200 OK Success...]]></description>
+   <pubDate>Mon, 19 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>GET friendships/lookup</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/friendships/lookup</link>
+   <description><![CDATA[Returns the relationships of the authenticating user to the comma-separated list of up to 100 screen_names or user_ids provided. Values for connections can be: following, following_requested, followed_by, none, blocking, muting.]]></description>
+   <pubDate>Mon, 19 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Twitter Cards</title>
+   <link>https://dev.twitter.com/docs/cards</link>
+   <description><![CDATA[English | 日本語 Introduction Twitter Cards make it possible for you to attach media experiences to Tweets that link to your content. Simply add a few lines of HTML to your webpages, and users who Tweet links to your content will have a "card" added to the Tweet that’s visible to all of their...]]></description>
+   <pubDate>Fri, 16 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>GET friendships/show</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/friendships/show</link>
+   <description><![CDATA[Returns detailed information about the relationship between two arbitrary users.]]></description>
+   <pubDate>Tue, 13 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Twitterカード</title>
+   <link>https://dev.twitter.com/ja/docs/cards</link>
+   <description><![CDATA[English | 日本語 紹介 Twitterカードであなたのサイトへのリンクが入っているツイートにメディアを添付できます。あなたのウェブ・ページにHTMLを数行入れるだけで、どのユーザーもあなたのサイトへのリンクをツイートすると、そのツイートを見るすべてのフォロワーがカードを見られます。 カードであなたのツイートに対するエンゲージメント促進 ツイートにつけられるカードの種類は7種あります。各種類がtwitter.comでもでもTwitterのモバイル・クライアントでも綺麗に表示されます： Summary Card：標準のカードです。タイトル...]]></description>
+   <pubDate>Wed, 07 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>How should I file a bug report about a Twitter widget?</title>
+   <link>https://dev.twitter.com/docs/faq/#25874</link>
+   <description><![CDATA[Sorry that you're having trouble. We work constantly to fix bugs, tweak functionality and improve browser support of our widgets, and hopefully we can help resolve your issue, too. Before reporting a bug, please verify as much of the following as you are able: Check the FAQ for known limitations...]]></description>
+   <pubDate>Wed, 07 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Web Intents</title>
+   <link>https://dev.twitter.com/docs/intents</link>
+   <description><![CDATA[By using Web Intents, you agree to the Developer Rules of the Road. Make it easy to bring interactivity to Tweets that you display on the web. Web Intents provide popup-optimized flows for working with Tweets &amp; Twitter Users: Tweet, Reply, Retweet, Favorite, and Follow. They make it possible...]]></description>
+   <pubDate>Wed, 07 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>JavaScript Interfaces for Twitter for Websites</title>
+   <link>https://dev.twitter.com/docs/intents/events</link>
+   <description><![CDATA[By using Twitter JavaScript, you agree to the Developer Rules of the Road. If you're integrating your site with Twitter using Twitter for Websites and Web Intents, you can enhance your application using JavaScript. By default, widgets-js will find mark-up in a page and convert basic, functional...]]></description>
+   <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Follow Button</title>
+   <link>https://dev.twitter.com/docs/follow-button</link>
+   <description><![CDATA[The Follow Button is a small widget which allows users to easily follow a Twitter account from any webpage. The Follow Button uses the same implementation model as the Tweet Button, and its integration is just as simple. By using the Follow Button, you agree to the Developer Rules of the Road....]]></description>
+   <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Twitter for Websites FAQ</title>
+   <link>https://dev.twitter.com/docs/tfw/faq</link>
+   <description><![CDATA[Which browsers does the Tweet Button support? Does the Tweet Button support other languages? What are the dimensions of the Tweet Button? What happens if twitter.com has an error or is over capacity? I want to use multiple Tweet Buttons on my page. Is there anything I should know? Can I...]]></description>
+   <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Twitter for Websites</title>
+   <link>https://dev.twitter.com/docs/tfw</link>
+   <description><![CDATA[Twitter for Websites is a suite of embeddable widgets and client-side scripting tools to integrate Twitter and display Tweets in your site or web app. You can find documentation for publishers and developers here, refer to the Twitter for Websites FAQ, or ask questions or share what you...]]></description>
+   <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Tweet Button</title>
+   <link>https://dev.twitter.com/docs/tweet-button</link>
+   <description><![CDATA[By using the Tweet Button, you agree to the Developer Rules of the Road. Overview The Tweet Button is a small widget which allows users to easily share your website with their followers. This page is for developers and users who wish to build their own Tweet Buttons. If you are looking for a...]]></description>
+   <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
+  </item>
  </channel>
 </rss>
