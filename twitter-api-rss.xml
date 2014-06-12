@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 12 Jun 2014 08:15:03 +0200</pubDate>
+  <pubDate>Thu, 12 Jun 2014 21:00:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>GET search/tweets</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/search/tweets</link>
+   <description><![CDATA[Returns a collection of relevant Tweets matching a specified query. Please note that Twitter's search service and, by extension, the Search API is not meant to be an exhaustive source of Tweets. Not all Tweets will be indexed or made available via the search interface. In API v1.1, the response...]]></description>
+   <pubDate>Thu, 12 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Set-up Twitter for Websites</title>
    <link>https://dev.twitter.com/docs/tfw/set-up</link>
@@ -118,12 +124,6 @@
    <title>Twitter for Websites FAQ</title>
    <link>https://dev.twitter.com/docs/tfw/faq</link>
    <description><![CDATA[Which browsers does the Tweet Button support? Does the Tweet Button support other languages? What are the dimensions of the Tweet Button? What happens if twitter.com has an error or is over capacity? I want to use multiple Tweet Buttons on my page. Is there anything I should know? Can I...]]></description>
-   <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Twitter for Websites</title>
-   <link>https://dev.twitter.com/docs/tfw</link>
-   <description><![CDATA[Twitter for Websites is a suite of embeddable widgets and client-side scripting tools to integrate Twitter and display Tweets in your site or web app. You can find documentation for publishers and developers here, refer to the Twitter for Websites FAQ, or ask questions or share what you...]]></description>
    <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
