@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 18 Jun 2014 06:30:03 +0200</pubDate>
+  <pubDate>Wed, 18 Jun 2014 19:15:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>POST statuses/update_with_media</title>
+   <link>https://dev.twitter.com/docs/api/1.1/post/statuses/update_with_media</link>
+   <description><![CDATA[Updates the authenticating user's current status and attaches media for upload. In other words, it creates a Tweet with a picture attached. Unlike POST statuses/update, this method expects raw multipart data. Your POST request's Content-Type should be set to multipart/form-data with the media[]...]]></description>
+   <pubDate>Wed, 18 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>GET search/tweets</title>
    <link>https://dev.twitter.com/docs/api/1.1/get/search/tweets</link>
@@ -41,12 +47,6 @@
    <link>https://dev.twitter.com/docs/api/1.1/post/statuses/update</link>
    <description><![CDATA[Updates the authenticating user's current status, also known as tweeting. To upload an image to accompany the tweet, use POST statuses/update_with_media. For each update attempt, the update text is compared with the authenticating user's recent tweets. Any attempt that would result in duplication...]]></description>
    <pubDate>Mon, 02 Jun 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>POST statuses/update_with_media</title>
-   <link>https://dev.twitter.com/docs/api/1.1/post/statuses/update_with_media</link>
-   <description><![CDATA[Updates the authenticating user's current status and attaches media for upload. In other words, it creates a Tweet with a picture attached. Unlike POST statuses/update, this method expects raw multipart data. Your POST request's Content-Type should be set to multipart/form-data with the media[]...]]></description>
-   <pubDate>Thu, 29 May 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>GET statuses/retweets_of_me</title>
