@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 19 Jun 2014 06:30:04 +0200</pubDate>
+  <pubDate>Fri, 20 Jun 2014 00:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>GET lists/memberships</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/lists/memberships</link>
+   <description><![CDATA[Returns the lists the specified user has been added to. If user_id or screen_name are not provided the memberships for the authenticating user are returned.]]></description>
+   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>POST statuses/update_with_media</title>
    <link>https://dev.twitter.com/docs/api/1.1/post/statuses/update_with_media</link>
@@ -118,12 +124,6 @@
    <title>Follow Button</title>
    <link>https://dev.twitter.com/docs/follow-button</link>
    <description><![CDATA[The Follow Button is a small widget which allows users to easily follow a Twitter account from any webpage. The Follow Button uses the same implementation model as the Tweet Button, and its integration is just as simple. By using the Follow Button, you agree to the Developer Rules of the Road....]]></description>
-   <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Twitter for Websites FAQ</title>
-   <link>https://dev.twitter.com/docs/tfw/faq</link>
-   <description><![CDATA[Which browsers does the Tweet Button support? Does the Tweet Button support other languages? What are the dimensions of the Tweet Button? What happens if twitter.com has an error or is over capacity? I want to use multiple Tweet Buttons on my page. Is there anything I should know? Can I...]]></description>
    <pubDate>Tue, 06 May 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
