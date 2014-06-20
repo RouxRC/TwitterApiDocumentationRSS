@@ -4,12 +4,12 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 20 Jun 2014 05:45:03 +0200</pubDate>
+  <pubDate>Fri, 20 Jun 2014 06:00:03 +0200</pubDate>
   <generator>RouxRC</generator>
   <item>
    <title>Summary Card</title>
    <link>https://dev.twitter.com/docs/cards/types/summary-card</link>
-   <description><![CDATA[The Summary Card can be used for many kinds of web content, from blog posts and news articles, to products and restaurants. The Tweet Embed below shows the expanded Tweet view for a United Nations article: Thanks to all of those who participated in our #islands2014 photo call! View all the...]]></description>
+   <description><![CDATA[The Summary Card can be used for many kinds of web content, from blog posts and news articles, to products and restaurants. It is designed to give the reader a preview of the content before clicking through to your website. The Tweet Embed below shows the expanded Tweet view for a United...]]></description>
    <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
