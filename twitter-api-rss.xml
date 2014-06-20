@@ -4,18 +4,18 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 20 Jun 2014 06:30:04 +0200</pubDate>
+  <pubDate>Fri, 20 Jun 2014 07:00:03 +0200</pubDate>
   <generator>RouxRC</generator>
-  <item>
-   <title>Twitter Cards</title>
-   <link>https://dev.twitter.com/docs/cards</link>
-   <description><![CDATA[English | 日本語 Introduction Twitter Cards make it possible for you to attach media experiences to Tweets that link to your content. Simply add a few lines of HTML to your webpages, and users who Tweet links to your content will have a "card" added to the Tweet that’s visible to all of their...]]></description>
-   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
-  </item>
   <item>
    <title>Summary Card</title>
    <link>https://dev.twitter.com/docs/cards/types/summary-card</link>
    <description><![CDATA[The Summary Card can be used for many kinds of web content, from blog posts and news articles, to products and restaurants. It is designed to give the reader a preview of the content before clicking through to your website. The Tweet Embed below shows a tweet from the United Nations, with the...]]></description>
+   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Twitter Cards</title>
+   <link>https://dev.twitter.com/docs/cards</link>
+   <description><![CDATA[English | 日本語 Introduction Twitter Cards make it possible for you to attach media experiences to Tweets that link to your content. Simply add a few lines of HTML to your webpages, and users who Tweet links to your content will have a "card" added to the Tweet that’s visible to all of their...]]></description>
    <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
