@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 20 Jun 2014 08:45:02 +0200</pubDate>
+  <pubDate>Fri, 20 Jun 2014 09:00:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Gallery Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/gallery-card</link>
+   <description><![CDATA[The Gallery Card allows you to represent collections of photos within a Tweet. This Card type is designed to let the user know that there's more than just a single image at the URL shared, but rather a gallery of related images. You can specify up to 4 different images to show in the gallery...]]></description>
+   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>CMS Integration Guide</title>
+   <link>https://dev.twitter.com/docs/cards/twitter-cards-for-cms-wordpress-blogger-tumblr</link>
+   <description><![CDATA[This page has tips for integrating Twitter Cards into popular CMS systems like Wordpress, Tumblr and Blogger. If you have feedback or additional references we should add, please tell us in the forums. Thanks! Wordpress Site, Self-Hosted or Third-Party Hosted Jetpack Plugin JM Twitter Cards...]]></description>
+   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>App Installs and Deep-Linking</title>
    <link>https://dev.twitter.com/docs/cards/app-installs-and-deep-linking</link>
@@ -52,12 +64,6 @@
    <title>Getting Started Guide</title>
    <link>https://dev.twitter.com/docs/cards/getting-started</link>
    <description><![CDATA[Getting Started with Cards Card and Content Attribution URL Crawling &amp; Caching Multiple URLs in a Tweet Twitter Cards and Open Graph Getting Started with Cards To get started with implementing the Cards markup, you'll want to specify the type of card for your content by adding...]]></description>
-   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Gallery Card</title>
-   <link>https://dev.twitter.com/docs/cards/types/gallery-card</link>
-   <description><![CDATA[The Gallery Card allows you to represent collections of photos within a Tweet. This Card type is designed to let the user know that there's more than just a single image at the URL shared, but rather a gallery of related images. You can specify up to 4 different images to show in the gallery...]]></description>
    <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/api/multiple-media-extended-entities</link>
    <description><![CDATA[Multiple Media Entities in Tweets for the REST API We are ready to launch a new extended entities representation to support our multiple images per tweet feature. See https://blog.twitter.com/2014/photos-just-got-more-social for the blog post announcing this for users. GETting Extended Entities...]]></description>
    <pubDate>Tue, 27 May 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Calendar of API changes</title>
-   <link>https://dev.twitter.com/calendar</link>
-   <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
-   <pubDate>Thu, 22 May 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
