@@ -4,8 +4,26 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 20 Jun 2014 08:30:03 +0200</pubDate>
+  <pubDate>Fri, 20 Jun 2014 08:45:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>App Installs and Deep-Linking</title>
+   <link>https://dev.twitter.com/docs/cards/app-installs-and-deep-linking</link>
+   <description><![CDATA[English | 日本語 Introduction One of the most important features in the new Cards is the ability to allow users to download your app (if the user doesn't already have it installed), or deep-link into your own app (if the app is already installed on the user's mobile device). The ability to enable...]]></description>
+   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Player Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/player-card</link>
+   <description><![CDATA[English | 日本語 Video clips and audio streams have a special place on the Twitter platform thanks to the Player Card. By implementing a few HTML meta tags to your website and following the Twitter Rules of the Road, you can deliver your rich media to users across the globe. Player Card...]]></description>
+   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Photo Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/photo-card</link>
+   <description><![CDATA[The Photo Card puts the image front and center in the Tweet. Clicking on the photo expands it to a richer, detailed view. Below is a tweet from Flickr showcasing the Photo Card. Stunning photo of mountainous landscape and reflections http://t.co/esvsXTy7Tq&mdash; Flickr (@Flickr) January 15,...]]></description>
+   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Summary Card with Large Image</title>
    <link>https://dev.twitter.com/docs/cards/large-image-summary-card</link>
@@ -16,37 +34,37 @@
    <title>Summary Card</title>
    <link>https://dev.twitter.com/docs/cards/types/summary-card</link>
    <description><![CDATA[The Summary Card can be used for many kinds of web content, from blog posts and news articles, to products and restaurants. It is designed to give the reader a preview of the content before clicking through to your website. The Tweet below from the United Nations shows a Summary Card (photo...]]></description>
-   <pubDate></pubDate>
+   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>Twitter Cards</title>
    <link>https://dev.twitter.com/docs/cards</link>
    <description><![CDATA[English | 日本語 Introduction With Twitter Cards, you can attach rich photos, videos and media experience to Tweets that drive traffic to your website. Simply add a few lines of HTML to your webpage, and users who Tweet links to your content will have a "Card" added to the Tweet that’s visible...]]></description>
-   <pubDate></pubDate>
+   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>Twitter Card Analytics</title>
    <link>https://dev.twitter.com/docs/cards/analytics</link>
    <description><![CDATA[Introduction Twitter Cards allow you to attach rich media experiences to Tweets about your content; Twitter Card analytics gives you related insights into how your content is being shared on Twitter. Through personalized data and best practices,Twitter Card analytics reveals how you can...]]></description>
-   <pubDate></pubDate>
+   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>Getting Started Guide</title>
    <link>https://dev.twitter.com/docs/cards/getting-started</link>
    <description><![CDATA[Getting Started with Cards Card and Content Attribution URL Crawling &amp; Caching Multiple URLs in a Tweet Twitter Cards and Open Graph Getting Started with Cards To get started with implementing the Cards markup, you'll want to specify the type of card for your content by adding...]]></description>
-   <pubDate></pubDate>
+   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>Gallery Card</title>
    <link>https://dev.twitter.com/docs/cards/types/gallery-card</link>
    <description><![CDATA[The Gallery Card allows you to represent collections of photos within a Tweet. This Card type is designed to let the user know that there's more than just a single image at the URL shared, but rather a gallery of related images. You can specify up to 4 different images to show in the gallery...]]></description>
-   <pubDate></pubDate>
+   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>GET lists/memberships</title>
    <link>https://dev.twitter.com/docs/api/1.1/get/lists/memberships</link>
    <description><![CDATA[Returns the lists the specified user has been added to. If user_id or screen_name are not provided the memberships for the authenticating user are returned.]]></description>
-   <pubDate></pubDate>
+   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>POST statuses/update_with_media</title>
@@ -107,18 +125,6 @@
    <link>https://dev.twitter.com/calendar</link>
    <description><![CDATA[This page lists important upcoming dates for consumers of Twitter's APIs. The dates listed will be as specific as possible, but may not be exact for various reasons. Please continue to follow @twitterapi and the Twitter developer blog for announcements about the platform. Upcoming changes...]]></description>
    <pubDate>Thu, 22 May 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Error Codes &amp; Responses</title>
-   <link>https://dev.twitter.com/docs/error-codes-responses</link>
-   <description><![CDATA[HTTP Status Codes The Twitter API attempts to return appropriate HTTP status codes for every request. It is possible to suppress response codes for the REST API. Code Text Description 200 OK Success...]]></description>
-   <pubDate>Mon, 19 May 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>GET friendships/lookup</title>
-   <link>https://dev.twitter.com/docs/api/1.1/get/friendships/lookup</link>
-   <description><![CDATA[Returns the relationships of the authenticating user to the comma-separated list of up to 100 screen_names or user_ids provided. Values for connections can be: following, following_requested, followed_by, none, blocking, muting.]]></description>
-   <pubDate>Mon, 19 May 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
