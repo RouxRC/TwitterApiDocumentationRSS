@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 20 Jun 2014 00:30:03 +0200</pubDate>
+  <pubDate>Fri, 20 Jun 2014 02:45:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Twitter Cards</title>
+   <link>https://dev.twitter.com/docs/cards</link>
+   <description><![CDATA[English | 日本語 Introduction Twitter Cards make it possible for you to attach media experiences to Tweets that link to your content. Simply add a few lines of HTML to your webpages, and users who Tweet links to your content will have a "card" added to the Tweet that’s visible to all of their...]]></description>
+   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>GET lists/memberships</title>
    <link>https://dev.twitter.com/docs/api/1.1/get/lists/memberships</link>
@@ -83,12 +89,6 @@
    <link>https://dev.twitter.com/docs/api/1.1/get/friendships/lookup</link>
    <description><![CDATA[Returns the relationships of the authenticating user to the comma-separated list of up to 100 screen_names or user_ids provided. Values for connections can be: following, following_requested, followed_by, none, blocking, muting.]]></description>
    <pubDate>Mon, 19 May 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Twitter Cards</title>
-   <link>https://dev.twitter.com/docs/cards</link>
-   <description><![CDATA[English | 日本語 Introduction Twitter Cards make it possible for you to attach media experiences to Tweets that link to your content. Simply add a few lines of HTML to your webpages, and users who Tweet links to your content will have a "card" added to the Tweet that’s visible to all of their...]]></description>
-   <pubDate>Fri, 16 May 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>GET friendships/show</title>
