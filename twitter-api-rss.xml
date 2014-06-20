@@ -4,13 +4,19 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 20 Jun 2014 09:00:03 +0200</pubDate>
+  <pubDate>Fri, 20 Jun 2014 09:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Product Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/product-card</link>
+   <description><![CDATA[The Product Card is a great way to represent retail items on Twitter, and to drive sales. This Card type is designed to showcase your products via an image, a description, and allow you to highlight two other key details about your product. These fields are strings and can be used to show the...]]></description>
+   <pubDate>Fri, 20 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Gallery Card</title>
    <link>https://dev.twitter.com/docs/cards/types/gallery-card</link>
    <description><![CDATA[The Gallery Card allows you to represent collections of photos within a Tweet. This Card type is designed to let the user know that there's more than just a single image at the URL shared, but rather a gallery of related images. You can specify up to 4 different images to show in the gallery...]]></description>
-   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
+   <pubDate>Fri, 20 Jun 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>CMS Integration Guide</title>
@@ -118,12 +124,6 @@
    <title>GET statuses/retweets_of_me</title>
    <link>https://dev.twitter.com/docs/api/1.1/get/statuses/retweets_of_me</link>
    <description><![CDATA[Returns the most recent tweets authored by the authenticating user that have been retweeted by others. This timeline is a subset of the user's GET statuses/user_timeline. See Working with Timelines for instructions on traversing timelines.]]></description>
-   <pubDate>Tue, 27 May 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Multiple Media Entities in Statuses</title>
-   <link>https://dev.twitter.com/docs/api/multiple-media-extended-entities</link>
-   <description><![CDATA[Multiple Media Entities in Tweets for the REST API We are ready to launch a new extended entities representation to support our multiple images per tweet feature. See https://blog.twitter.com/2014/photos-just-got-more-social for the blog post announcing this for users. GETting Extended Entities...]]></description>
    <pubDate>Tue, 27 May 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
