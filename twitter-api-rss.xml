@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 20 Jun 2014 08:00:02 +0200</pubDate>
+  <pubDate>Fri, 20 Jun 2014 08:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Summary Card with Large Image</title>
+   <link>https://dev.twitter.com/docs/cards/large-image-summary-card</link>
+   <description><![CDATA[The Summary Card with Large Image features a large, full-width prominent image alongside a tweet. It is designed to give the reader a rich photo experience before clicking through to your website. The Tweet below from Yahoo shows a Summary Card with Large Image along with the 140 characters...]]></description>
+   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Summary Card</title>
    <link>https://dev.twitter.com/docs/cards/types/summary-card</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/api/1.1/get/friendships/show</link>
    <description><![CDATA[Returns detailed information about the relationship between two arbitrary users.]]></description>
    <pubDate>Tue, 13 May 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Twitterカード</title>
-   <link>https://dev.twitter.com/ja/docs/cards</link>
-   <description><![CDATA[English | 日本語 紹介 Twitterカードであなたのサイトへのリンクが入っているツイートにメディアを添付できます。あなたのウェブ・ページにHTMLを数行入れるだけで、どのユーザーもあなたのサイトへのリンクをツイートすると、そのツイートを見るすべてのフォロワーがカードを見られます。 カードであなたのツイートに対するエンゲージメント促進 ツイートにつけられるカードの種類は7種あります。各種類がtwitter.comでもでもTwitterのモバイル・クライアントでも綺麗に表示されます： Summary Card：標準のカードです。タイトル...]]></description>
-   <pubDate>Wed, 07 May 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
