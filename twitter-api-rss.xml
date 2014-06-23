@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 24 Jun 2014 00:00:04 +0200</pubDate>
+  <pubDate>Tue, 24 Jun 2014 00:15:04 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Getting Started Guide</title>
+   <link>https://dev.twitter.com/docs/cards/getting-started</link>
+   <description><![CDATA[Getting Started with Cards Card and Content Attribution URL Crawling &amp; Caching Multiple URLs in a Tweet Twitter Cards and Open Graph Getting Started with Cards To get started with implementing the Cards markup, you'll want to specify the type of card for your content by adding...]]></description>
+   <pubDate>Mon, 23 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>App Card</title>
    <link>https://dev.twitter.com/docs/cards/types/app-card</link>
@@ -70,12 +76,6 @@
    <title>Twitter Card Analytics</title>
    <link>https://dev.twitter.com/docs/cards/analytics</link>
    <description><![CDATA[Introduction Twitter Cards allow you to attach rich media experiences to Tweets about your content; Twitter Card analytics gives you related insights into how your content is being shared on Twitter. Through personalized data and best practices,Twitter Card analytics reveals how you can...]]></description>
-   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Getting Started Guide</title>
-   <link>https://dev.twitter.com/docs/cards/getting-started</link>
-   <description><![CDATA[Getting Started with Cards Card and Content Attribution URL Crawling &amp; Caching Multiple URLs in a Tweet Twitter Cards and Open Graph Getting Started with Cards To get started with implementing the Cards markup, you'll want to specify the type of card for your content by adding...]]></description>
    <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
