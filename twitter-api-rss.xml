@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 24 Jun 2014 11:15:03 +0200</pubDate>
+  <pubDate>Tue, 24 Jun 2014 11:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>GET application/rate_limit_status</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/application/rate_limit_status</link>
+   <description><![CDATA[Returns the current rate limits for methods belonging to the specified resource families. Each 1.1 API resource belongs to a "resource family" which is indicated in its method documentation. You can typically determine a method's resource family from the first component of the path after the...]]></description>
+   <pubDate>Tue, 24 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>GET help/tos</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/help/tos</link>
+   <description><![CDATA[Returns the Twitter Terms of Service. Note: these are not the same as the Developer Rules of the Road.]]></description>
+   <pubDate>Tue, 24 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>GET help/languages</title>
    <link>https://dev.twitter.com/docs/api/1.1/get/help/languages</link>
@@ -113,18 +125,6 @@
    <link>https://dev.twitter.com/docs/tfw/set-up</link>
    <description><![CDATA[The easiest way to create a Twitter for Websites widget—a Tweet button, Follow button, embedded Tweet or timeline—is to use our configuration tools, then copy and paste the generated HTML code into the template for your site. Create a Tweet or Follow Button Create an Embedded Timeline (note,...]]></description>
    <pubDate>Wed, 11 Jun 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>POST statuses/update</title>
-   <link>https://dev.twitter.com/docs/api/1/post/statuses/update</link>
-   <description><![CDATA[Updates the authenticating user's status, also known as tweeting. To upload an image to accompany the tweet, use POST statuses/update_with_media. For each update attempt, the update text is compared with the authenticating user's recent tweets. Any attempt that would result in duplication will be...]]></description>
-   <pubDate>Mon, 09 Jun 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>GET help/configuration</title>
-   <link>https://dev.twitter.com/docs/api/1.1/get/help/configuration</link>
-   <description><![CDATA[Returns the current configuration used by Twitter including twitter.com slugs which are not usernames, maximum photo resolutions, and t.co URL lengths. It is recommended applications request this endpoint when they are loaded, but no more than once a day.]]></description>
-   <pubDate>Mon, 09 Jun 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
