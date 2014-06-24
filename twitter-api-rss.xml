@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 24 Jun 2014 00:15:04 +0200</pubDate>
+  <pubDate>Tue, 24 Jun 2014 11:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>GET help/languages</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/help/languages</link>
+   <description><![CDATA[Returns the list of languages supported by Twitter along with their ISO 639-1 code. The ISO 639-1 code is the two letter value to use if you include lang with any of your requests.]]></description>
+   <pubDate>Tue, 24 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>GET help/privacy</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/help/privacy</link>
+   <description><![CDATA[Returns Twitter's Privacy Policy.]]></description>
+   <pubDate>Tue, 24 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Getting Started Guide</title>
    <link>https://dev.twitter.com/docs/cards/getting-started</link>
@@ -113,18 +125,6 @@
    <link>https://dev.twitter.com/docs/api/1.1/get/help/configuration</link>
    <description><![CDATA[Returns the current configuration used by Twitter including twitter.com slugs which are not usernames, maximum photo resolutions, and t.co URL lengths. It is recommended applications request this endpoint when they are loaded, but no more than once a day.]]></description>
    <pubDate>Mon, 09 Jun 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>GET statuses/lookup</title>
-   <link>https://dev.twitter.com/docs/api/1.1/get/statuses/lookup</link>
-   <description><![CDATA[Returns fully-hydrated tweet objects for up to 100 tweets per request, as specified by comma-separated values passed to the id parameter. This method is especially useful to get the details (hydrate) a collection of Tweet IDs. GET statuses/show/:id is used to retrieve a single tweet object.]]></description>
-   <pubDate>Thu, 05 Jun 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>POST statuses/update</title>
-   <link>https://dev.twitter.com/docs/api/1.1/post/statuses/update</link>
-   <description><![CDATA[Updates the authenticating user's current status, also known as tweeting. To upload an image to accompany the tweet, use POST statuses/update_with_media. For each update attempt, the update text is compared with the authenticating user's recent tweets. Any attempt that would result in duplication...]]></description>
-   <pubDate>Mon, 02 Jun 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>

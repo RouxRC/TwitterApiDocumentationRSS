@@ -50,7 +50,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
          name="op"
          type="submit"
          value="Search"  />
-<input type="hidden" name="form_build_id" id="form-94d85dbc5d56fd1847c22b7c286c0e72" value="form-94d85dbc5d56fd1847c22b7c286c0e72"  />
+<input type="hidden" name="form_build_id" id="form-b445f70d2ab54435f95ecbc3625f801e" value="form-b445f70d2ab54435f95ecbc3625f801e"  />
 <input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
 
 </form>
@@ -66,7 +66,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   <div class="view api-docs api-docs-recent">
     <div class="content">
 <table class="views-table cols-2">
-      <caption>June 23, 2014</caption>
+      <caption>June 24, 2014</caption>
     <thead>
     <tr>
               <th class="views-field views-field-title">
@@ -77,6 +77,31 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   </thead>
   <tbody>
           <tr class="odd views-row-first">
+                  <td class="views-field views-field-title">
+            <a href="/docs/api/1.1/get/help/languages">GET help/languages</a>          </td>
+                  <td class="views-field views-field-body">
+            Returns the list of languages supported by Twitter along with their ISO 639-1 code. The ISO 639-1 code is the two letter value to use if you include lang with any of your requests.          </td>
+              </tr>
+          <tr class="even views-row-last">
+                  <td class="views-field views-field-title">
+            <a href="/docs/api/1.1/get/help/privacy">GET help/privacy</a>          </td>
+                  <td class="views-field views-field-body">
+            Returns Twitter's Privacy Policy.          </td>
+              </tr>
+      </tbody>
+</table>
+<table class="views-table cols-2">
+      <caption>June 23, 2014</caption>
+    <thead>
+    <tr>
+              <th class="views-field views-field-title">
+          Document        </th>
+              <th class="views-field views-field-body">
+          Description        </th>
+          </tr>
+  </thead>
+  <tbody>
+          <tr class="odd views-row-last">
                   <td class="views-field views-field-title">
             <a href="/docs/cards/getting-started">Getting Started Guide</a>          </td>
                   <td class="views-field views-field-body">
@@ -98,7 +123,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
  
 To get started with implementing the Cards markup, you'll want to specify the type of card for your content by adding...          </td>
               </tr>
-          <tr class="even views-row-last">
+          <tr class="even">
                   <td class="views-field views-field-title">
             <a href="/docs/cards/types/app-card">App Card</a>          </td>
                   <td class="views-field views-field-body">
@@ -133,7 +158,7 @@ The Gallery Card allows you to represent collections of photos within a Tweet. T
 
 The Tweet below from @VisitCA shows a Gallery Card below the 140...          </td>
               </tr>
-          <tr class="even">
+          <tr class="even views-row-last">
                   <td class="views-field views-field-title">
             <a href="/docs/cards/types/photo-card">Photo Card</a>          </td>
                   <td class="views-field views-field-body">
@@ -156,7 +181,7 @@ The Summary Card with Large Image features a large, full-width prominent image a
 
 The Tweet below from @Yahoo shows a Summary Card with Large Image along with...          </td>
               </tr>
-          <tr class="even views-row-last">
+          <tr class="even">
                   <td class="views-field views-field-title">
             <a href="/docs/cards/types/summary-card">Summary Card</a>          </td>
                   <td class="views-field views-field-body">
@@ -353,49 +378,6 @@ For each update attempt, the update text is compared with the authenticating use
             Returns the current configuration used by Twitter including twitter.com slugs which are not usernames, maximum photo resolutions, and t.co URL lengths.
 
 It is recommended applications request this endpoint when they are loaded, but no more than once a day.          </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-2">
-      <caption>June 5, 2014</caption>
-    <thead>
-    <tr>
-              <th class="views-field views-field-title">
-          Document        </th>
-              <th class="views-field views-field-body">
-          Description        </th>
-          </tr>
-  </thead>
-  <tbody>
-          <tr class="odd">
-                  <td class="views-field views-field-title">
-            <a href="/docs/api/1.1/get/statuses/lookup">GET statuses/lookup</a>          </td>
-                  <td class="views-field views-field-body">
-            Returns fully-hydrated  tweet objects for up to 100 tweets per request, as specified by comma-separated values passed to the id parameter.
-
-This method is especially useful to get the details (hydrate) a collection of Tweet IDs.
-GET statuses/show/:id is used to retrieve a single tweet object.          </td>
-              </tr>
-      </tbody>
-</table>
-<table class="views-table cols-2">
-      <caption>June 2, 2014</caption>
-    <thead>
-    <tr>
-              <th class="views-field views-field-title">
-          Document        </th>
-              <th class="views-field views-field-body">
-          Description        </th>
-          </tr>
-  </thead>
-  <tbody>
-          <tr class="odd">
-                  <td class="views-field views-field-title">
-            <a href="/docs/api/1.1/post/statuses/update">POST statuses/update</a>          </td>
-                  <td class="views-field views-field-body">
-            Updates the authenticating user's current status, also known as tweeting. To upload an image to accompany the tweet, use POST statuses/update_with_media.
-
-For each update attempt, the update text is compared with the authenticating user's recent tweets. Any attempt that would result in duplication...          </td>
               </tr>
       </tbody>
 </table>
