@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 25 Jun 2014 06:30:09 +0200</pubDate>
+  <pubDate>Thu, 26 Jun 2014 01:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>App Installs and Deep-Linking</title>
+   <link>https://dev.twitter.com/docs/cards/app-installs-and-deep-linking</link>
+   <description><![CDATA[English | 日本語 Introduction One of the most important features in the new Cards is the ability to let users to download your app (if the user doesn't already have it installed), or deep-link into your own app (if the app is already installed on the user's mobile device). You can enable app...]]></description>
+   <pubDate>Wed, 25 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>GET application/rate_limit_status</title>
    <link>https://dev.twitter.com/docs/api/1.1/get/application/rate_limit_status</link>
@@ -76,12 +82,6 @@
    <title>CMS Integration Guide</title>
    <link>https://dev.twitter.com/docs/cards/twitter-cards-for-cms-wordpress-blogger-tumblr</link>
    <description><![CDATA[This page has tips for integrating Twitter Cards into popular CMS systems like Wordpress, Tumblr and Blogger. If you have feedback or additional references we should add, please tell us in the forums. Thanks! Wordpress Site, Self-Hosted or Third-Party Hosted Jetpack Plugin JM Twitter Cards...]]></description>
-   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>App Installs and Deep-Linking</title>
-   <link>https://dev.twitter.com/docs/cards/app-installs-and-deep-linking</link>
-   <description><![CDATA[English | 日本語 Introduction One of the most important features in the new Cards is the ability to allow users to download your app (if the user doesn't already have it installed), or deep-link into your own app (if the app is already installed on the user's mobile device). The ability to enable...]]></description>
    <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
