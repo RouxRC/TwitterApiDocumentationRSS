@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 26 Jun 2014 01:30:03 +0200</pubDate>
+  <pubDate>Thu, 26 Jun 2014 05:00:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Twitter Cards</title>
+   <link>https://dev.twitter.com/docs/cards</link>
+   <description><![CDATA[English | 日本語 Introduction With Twitter Cards, you can attach rich photos, videos and media experience to Tweets that drive traffic to your website. Simply add a few lines of HTML to your webpage, and users who Tweet links to your content will have a "Card" added to the Tweet that’s visible...]]></description>
+   <pubDate>Wed, 25 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>App Installs and Deep-Linking</title>
    <link>https://dev.twitter.com/docs/cards/app-installs-and-deep-linking</link>
@@ -88,12 +94,6 @@
    <title>Player Card</title>
    <link>https://dev.twitter.com/docs/cards/types/player-card</link>
    <description><![CDATA[English | 日本語 Video clips and audio streams have a special place on the Twitter platform thanks to the Player Card. By implementing a few HTML meta tags to your website and following the Twitter Rules of the Road, you can deliver your rich media to users across the globe. Player Card...]]></description>
-   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Twitter Cards</title>
-   <link>https://dev.twitter.com/docs/cards</link>
-   <description><![CDATA[English | 日本語 Introduction With Twitter Cards, you can attach rich photos, videos and media experience to Tweets that drive traffic to your website. Simply add a few lines of HTML to your webpage, and users who Tweet links to your content will have a "Card" added to the Tweet that’s visible...]]></description>
    <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
