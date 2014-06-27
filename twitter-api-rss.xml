@@ -4,8 +4,38 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 27 Jun 2014 19:30:03 +0200</pubDate>
+  <pubDate>Fri, 27 Jun 2014 19:45:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Product Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/product-card</link>
+   <description><![CDATA[The Product Card is a great way to represent product and retail items on Twitter. This Card type is designed to showcase your products via an image, a description, and allow you to highlight two other key details about your product. The Tweet below from @iHeartRadio shows a Photo Card below...]]></description>
+   <pubDate>Fri, 27 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Player Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/player-card</link>
+   <description><![CDATA[English | 日本語 Video clips and audio streams have a special place on the Twitter platform thanks to the Player Card. By implementing a few HTML meta tags to your website and following the Twitter Rules of the Road, you can deliver your rich media to users across the globe. Player Card...]]></description>
+   <pubDate>Fri, 27 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Gallery Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/gallery-card</link>
+   <description><![CDATA[The Gallery Card allows you to represent collections of photos within a Tweet. This Card type is designed to let the user know that there's more than just a single image at the URL shared, but rather a gallery of related images. The Tweet below from @VisitCA shows a Gallery Card below the 140...]]></description>
+   <pubDate>Fri, 27 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Photo Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/photo-card</link>
+   <description><![CDATA[The Photo Card puts the image front and center in the Tweet. Clicking on the photo expands it to a richer, detailed view. Below is a tweet from @Flickr showcasing the Photo Card. Stunning photo of mountainous landscape and reflections http://t.co/esvsXTy7Tq&mdash; Flickr (@Flickr) January 15,...]]></description>
+   <pubDate>Fri, 27 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Summary Card with Large Image</title>
+   <link>https://dev.twitter.com/docs/cards/large-image-summary-card</link>
+   <description><![CDATA[The Summary Card with Large Image features a large, full-width prominent image alongside a tweet. It is designed to give the reader a rich photo experience, and clicking on the image brings the user to your website. The Tweet below from @Yahoo shows a Summary Card with Large Image along with...]]></description>
+   <pubDate>Fri, 27 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Summary Card</title>
    <link>https://dev.twitter.com/docs/cards/types/summary-card</link>
@@ -61,39 +91,9 @@
    <pubDate>Mon, 23 Jun 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
-   <title>Gallery Card</title>
-   <link>https://dev.twitter.com/docs/cards/types/gallery-card</link>
-   <description><![CDATA[The Gallery Card allows you to represent collections of photos within a Tweet. This Card type is designed to let the user know that there's more than just a single image at the URL shared, but rather a gallery of related images. The Tweet below from @VisitCA shows a Gallery Card below the 140...]]></description>
-   <pubDate>Fri, 20 Jun 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Photo Card</title>
-   <link>https://dev.twitter.com/docs/cards/types/photo-card</link>
-   <description><![CDATA[The Photo Card puts the image front and center in the Tweet. Clicking on the photo expands it to a richer, detailed view. Below is a tweet from @Flickr showcasing the Photo Card. Stunning photo of mountainous landscape and reflections http://t.co/esvsXTy7Tq&mdash; Flickr (@Flickr) January 15,...]]></description>
-   <pubDate>Fri, 20 Jun 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Summary Card with Large Image</title>
-   <link>https://dev.twitter.com/docs/cards/large-image-summary-card</link>
-   <description><![CDATA[The Summary Card with Large Image features a large, full-width prominent image alongside a tweet. It is designed to give the reader a rich photo experience, and clicking on the image brings the user to your website. The Tweet below from @Yahoo shows a Summary Card with Large Image along with...]]></description>
-   <pubDate>Fri, 20 Jun 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Product Card</title>
-   <link>https://dev.twitter.com/docs/cards/types/product-card</link>
-   <description><![CDATA[The Product Card is a great way to represent product and retail items on Twitter. This Card type is designed to showcase your products via an image, a description, and allow you to highlight two other key details about your product. The Tweet below from @iHeartRadio shows a Photo Card below...]]></description>
-   <pubDate>Fri, 20 Jun 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
    <title>CMS Integration Guide</title>
    <link>https://dev.twitter.com/docs/cards/twitter-cards-for-cms-wordpress-blogger-tumblr</link>
    <description><![CDATA[This page has tips for integrating Twitter Cards into popular CMS systems like Wordpress, Tumblr and Blogger. If you have feedback or additional references we should add, please tell us in the forums. Thanks! Wordpress Site, Self-Hosted or Third-Party Hosted Jetpack Plugin JM Twitter Cards...]]></description>
-   <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Player Card</title>
-   <link>https://dev.twitter.com/docs/cards/types/player-card</link>
-   <description><![CDATA[English | 日本語 Video clips and audio streams have a special place on the Twitter platform thanks to the Player Card. By implementing a few HTML meta tags to your website and following the Twitter Rules of the Road, you can deliver your rich media to users across the globe. Player Card...]]></description>
    <pubDate>Thu, 19 Jun 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
