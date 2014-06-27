@@ -4,13 +4,19 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 26 Jun 2014 05:00:02 +0200</pubDate>
+  <pubDate>Fri, 27 Jun 2014 19:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Summary Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/summary-card</link>
+   <description><![CDATA[The Summary Card can be used for many kinds of web content, from blog posts and news articles, to products and restaurants. It is designed to give the reader a preview of the content before clicking through to your website. The Tweet below from the United Nations (@UN) shows a Summary Card (...]]></description>
+   <pubDate>Fri, 27 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Twitter Cards</title>
    <link>https://dev.twitter.com/docs/cards</link>
    <description><![CDATA[English | 日本語 Introduction With Twitter Cards, you can attach rich photos, videos and media experience to Tweets that drive traffic to your website. Simply add a few lines of HTML to your webpage, and users who Tweet links to your content will have a "Card" added to the Tweet that’s visible...]]></description>
-   <pubDate>Wed, 25 Jun 2014 00:00:00 +0200</pubDate>
+   <pubDate>Fri, 27 Jun 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>App Installs and Deep-Linking</title>
@@ -70,12 +76,6 @@
    <title>Summary Card with Large Image</title>
    <link>https://dev.twitter.com/docs/cards/large-image-summary-card</link>
    <description><![CDATA[The Summary Card with Large Image features a large, full-width prominent image alongside a tweet. It is designed to give the reader a rich photo experience, and clicking on the image brings the user to your website. The Tweet below from @Yahoo shows a Summary Card with Large Image along with...]]></description>
-   <pubDate>Fri, 20 Jun 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Summary Card</title>
-   <link>https://dev.twitter.com/docs/cards/types/summary-card</link>
-   <description><![CDATA[The Summary Card can be used for many kinds of web content, from blog posts and news articles, to products and restaurants. It is designed to give the reader a preview of the content before clicking through to your website. The Tweet below from the United Nations (@UN) shows a Summary Card (...]]></description>
    <pubDate>Fri, 20 Jun 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
