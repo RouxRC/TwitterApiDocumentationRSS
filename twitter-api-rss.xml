@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 27 Jun 2014 20:45:02 +0200</pubDate>
+  <pubDate>Fri, 27 Jun 2014 21:00:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>App Installs and Deep-Linking</title>
+   <link>https://dev.twitter.com/docs/cards/app-installs-and-deep-linking</link>
+   <description><![CDATA[English | 日本語 Introduction One of the most important features in the new Cards is the ability to let users to download your app (if the user doesn't already have it installed), or deep-link into your own app (if the app is already installed on the user's mobile device). You can enable app...]]></description>
+   <pubDate>Fri, 27 Jun 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Uploading Media</title>
    <link>https://dev.twitter.com/docs/uploading-media</link>
@@ -53,12 +59,6 @@
    <link>https://dev.twitter.com/docs/cards</link>
    <description><![CDATA[English | 日本語 Introduction With Twitter Cards, you can attach rich photos, videos and media experience to Tweets that drive traffic to your website. Simply add a few lines of HTML to your webpage, and users who Tweet links to your content will have a "Card" added to the Tweet that’s visible...]]></description>
    <pubDate>Fri, 27 Jun 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>App Installs and Deep-Linking</title>
-   <link>https://dev.twitter.com/docs/cards/app-installs-and-deep-linking</link>
-   <description><![CDATA[English | 日本語 Introduction One of the most important features in the new Cards is the ability to let users to download your app (if the user doesn't already have it installed), or deep-link into your own app (if the app is already installed on the user's mobile device). You can enable app...]]></description>
-   <pubDate>Wed, 25 Jun 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>GET application/rate_limit_status</title>
