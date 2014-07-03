@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 03 Jul 2014 02:15:03 +0200</pubDate>
+  <pubDate>Thu, 03 Jul 2014 20:00:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>GET help/languages</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/help/languages</link>
+   <description><![CDATA[Returns the list of languages supported by Twitter along with the language code supported by Twitter. The language code may be formatted as ISO 639-1 alpha-2 (en), ISO 639-3 alpha-3 (msa), or ISO 639-1 alpha-2 combined with an ISO 3166-1 alpha-2 localization (zh-tw).]]></description>
+   <pubDate>Thu, 03 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Burstly Integration</title>
    <link>https://dev.twitter.com/docs/burstly-integration</link>
@@ -118,12 +124,6 @@
    <title>Create an Ad Unit</title>
    <link>https://dev.twitter.com/docs/create-ad-unit</link>
    <description><![CDATA[Ad Unit Creation Your application will require one or more Ad Units in order to show ads. From your Inventory tab, click “Add a New App” Select your platform choice in the Device Format section Select Ad...]]></description>
-   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Add an Application to the Dashboard</title>
-   <link>https://dev.twitter.com/docs/add-application-dashboard</link>
-   <description><![CDATA[Add an application to MoPub Dashboard To target ads to your application, add the application of interest into the MoPub dashboard. From your Inventory tab, click “Add a New App.” Platform: Select the OS you wish your application to target. Options:...]]></description>
    <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
