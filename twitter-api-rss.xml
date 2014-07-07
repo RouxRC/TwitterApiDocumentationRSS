@@ -4,18 +4,24 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 07 Jul 2014 19:00:03 +0200</pubDate>
+  <pubDate>Tue, 08 Jul 2014 00:30:02 +0200</pubDate>
   <generator>RouxRC</generator>
   <item>
-   <title>MRAID Vendor Tag Certification Process</title>
-   <link>https://dev.twitter.com/docs/mraid-vendor-tag-certification-process</link>
-   <description><![CDATA[MoPub MRAID Vendor Certification Process Guiding Principles: The MoPub SDK is built to be fully compliant with the IAB MRAID v1.0 specification Overview: Pre-Certification Questionnaire Setup Vendor Self Test Vendor impression test Reporting test Scale Test Best Practices...]]></description>
+   <title>IAB Categorization with Examples</title>
+   <link>https://dev.twitter.com/docs/iab-categorization-examples</link>
+   <description><![CDATA[IAB Categorization with Examples IAB Category Name Examples IAB1 Arts...]]></description>
    <pubDate>Mon, 07 Jul 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>Self-Testing Your Creatives with the MoPub SDK and SimpleAdsDemo Sample App</title>
    <link>https://dev.twitter.com/docs/self-testing-your-creatives-mopub-sdk-and-simpleadsdemo-sample-app</link>
    <description><![CDATA[This tutorial is a step-by-step guide that shows you how to self-test your creatives using the SimpleAds Demo app. Self Testing with the MoPub SDK and Simple Ads Demo App What: SimpleAds Demo is a mobile application for iOS and Android that demonstrates how live tags would render/behave on MoPub...]]></description>
+   <pubDate>Mon, 07 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>MRAID Vendor Tag Certification Process</title>
+   <link>https://dev.twitter.com/docs/mraid-vendor-tag-certification-process</link>
+   <description><![CDATA[MoPub MRAID Vendor Certification Process Guiding Principles: The MoPub SDK is built to be fully compliant with the IAB MRAID v1.0 specification Overview: Pre-Certification Questionnaire Setup Vendor Self Test Vendor impression test Reporting test Scale Test Best Practices...]]></description>
    <pubDate>Mon, 07 Jul 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
@@ -118,12 +124,6 @@
    <title>Ad Serving Sequence and CPM Values</title>
    <link>https://dev.twitter.com/docs/ad-serving-sequence-and-cpm-values</link>
    <description><![CDATA[Change CPMs and re-order the “waterfall” for a specific ad unit using the ‘Quick Edit’ function in the MoPub Dashboard tab. The ad unit waterfall is the sequence in which network ad sources are requested to fill each impression for a particular ad unit ID from within an application...]]></description>
-   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Orders &amp; Line Items Settings</title>
-   <link>https://dev.twitter.com/docs/orders-line-items-settings</link>
-   <description><![CDATA[Orders &amp; Line Items Settings Within MoPub’s dashboard, Orders &amp; Line Item settings can be adjusted on different ad sources for a particular ad unit. Line item types include Guaranteed (G), Network (N), MoPub Marketplace (M), Promotional (P), Non-Guaranteed (NG), or Backfill...]]></description>
    <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
