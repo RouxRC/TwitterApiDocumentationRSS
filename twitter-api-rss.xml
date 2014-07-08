@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 08 Jul 2014 23:30:02 +0200</pubDate>
+  <pubDate>Tue, 08 Jul 2014 23:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Mojiva Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/mojiva-revenue-reporting</link>
+   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting&nbsp;here. In order to set up ad network revenue reporting for Mojiva, you will need to enter your private key&nbsp;on the networks set up page....]]></description>
+   <pubDate>Tue, 08 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Refresh Rates</title>
    <link>https://dev.twitter.com/docs/refresh-rates</link>
@@ -118,12 +124,6 @@
    <title>Ad Network Setup</title>
    <link>https://dev.twitter.com/docs/ad-network-setup</link>
    <description><![CDATA[MoPub allows for the set-up and management of multiple Ad Networks through the MoPub Dashboard. Ad Networks will serve ads to the ad unit ID that is referenced. From within the dashboard, click the Networks tab. From your Network tab, click “Add a Network” MoPub...]]></description>
-   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Ad Serving Sequence and CPM Values</title>
-   <link>https://dev.twitter.com/docs/ad-serving-sequence-and-cpm-values</link>
-   <description><![CDATA[Change CPMs and re-order the “waterfall” for a specific ad unit using the ‘Quick Edit’ function in the MoPub Dashboard tab. The ad unit waterfall is the sequence in which network ad sources are requested to fill each impression for a particular ad unit ID from within an application...]]></description>
    <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
