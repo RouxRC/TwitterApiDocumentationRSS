@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 08 Jul 2014 23:45:03 +0200</pubDate>
+  <pubDate>Thu, 10 Jul 2014 00:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>IAB Categorization with Examples</title>
+   <link>https://dev.twitter.com/docs/iab-categorization-examples</link>
+   <description><![CDATA[IAB Categorization with Examples IAB Category Name Examples IAB1 Arts & Entertainment IAB1-1 Books &amp; Literature...]]></description>
+   <pubDate>Wed, 09 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Mojiva Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/mojiva-revenue-reporting</link>
@@ -16,12 +22,6 @@
    <title>Refresh Rates</title>
    <link>https://dev.twitter.com/docs/refresh-rates</link>
    <description><![CDATA[When you create an ad unit, you will need to set the refresh rate. The refresh rate is the number of seconds until the next ad unit displays. For example, if you set a refresh rate of 30 seconds, the second ad unit will display 30 seconds later...]]></description>
-   <pubDate>Tue, 08 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>IAB Categorization with Examples</title>
-   <link>https://dev.twitter.com/docs/iab-categorization-examples</link>
-   <description><![CDATA[IAB Categorization with Examples IAB Category Name Examples IAB1 Arts & Entertainment IAB1-1 Books &amp; Literature...]]></description>
    <pubDate>Tue, 08 Jul 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
