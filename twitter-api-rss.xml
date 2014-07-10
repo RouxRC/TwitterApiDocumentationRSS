@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 10 Jul 2014 21:45:03 +0200</pubDate>
+  <pubDate>Thu, 10 Jul 2014 22:00:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Setting Up Ad Networks</title>
+   <link>https://dev.twitter.com/docs/setting-ad-networks</link>
+   <description><![CDATA[MoPub supports dozens of the most popular ad networks via server-to-server connections. For a list of standard supported networks, visit here. In addition to these networks, you can set up any network on MoPub via a &quot;Custom Event&quot;. These networks are referred to as a &quot;Custom...]]></description>
+   <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>JumpTap Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/jumptap-revenue-reporting</link>
@@ -118,12 +124,6 @@
    <title>Ad Unit FAQ</title>
    <link>https://dev.twitter.com/docs/ad-unit-faq</link>
    <description><![CDATA[Ad creatives not always displaying within ad unit during testing on simulator/emulator When the ad unit begins receiving traffic again, a short delay will occur as information gets loaded onto the ad server machines. Click ‘Load Ad’ a few times to receive a proper response from the...]]></description>
-   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Custom Native Network Setup</title>
-   <link>https://dev.twitter.com/docs/custom-native-network-setup</link>
-   <description><![CDATA[Custom Native Network Setup MoPub supports 3rd party Ad Network SDKs through a Custom Native Network implementation. If an Ad Network not listed provides their solution through an SDK, the network may be integrated leveraging MoPub’s Custom Events. The integration of Custom...]]></description>
    <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
