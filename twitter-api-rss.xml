@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 10 Jul 2014 22:00:02 +0200</pubDate>
+  <pubDate>Thu, 10 Jul 2014 23:30:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Ad Network Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/ad-network-revenue-reporting</link>
+   <description><![CDATA[MoPub allows you to view your ad network revenue, impression, and click data, all in one place. From the MoPub interface you can get a snapshot of how your ad networks have been performing, allowing you to manage and optimize your revenue more efficiently. Sounds great, how do I get started? To...]]></description>
+   <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Setting Up Ad Networks</title>
    <link>https://dev.twitter.com/docs/setting-ad-networks</link>
@@ -118,12 +124,6 @@
    <title>Order &amp; Line Item Types</title>
    <link>https://dev.twitter.com/docs/order-line-item-types</link>
    <description><![CDATA[Order Types There are four campaign types that MoPub supports to help with creating ad serving strategies. MoPub prioritizes Orders in the following sequence: guaranteed, promotional, networks, Marketplace, and then backfill promotional. Within each category of Orders, CPM is...]]></description>
-   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Ad Unit FAQ</title>
-   <link>https://dev.twitter.com/docs/ad-unit-faq</link>
-   <description><![CDATA[Ad creatives not always displaying within ad unit during testing on simulator/emulator When the ad unit begins receiving traffic again, a short delay will occur as information gets loaded onto the ad server machines. Click ‘Load Ad’ a few times to receive a proper response from the...]]></description>
    <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
