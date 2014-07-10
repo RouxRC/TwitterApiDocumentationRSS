@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 11 Jul 2014 00:00:03 +0200</pubDate>
+  <pubDate>Fri, 11 Jul 2014 00:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Chartboost Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/chartboost-revenue-reporting</link>
+   <description><![CDATA[In order to set up revenue reporting for Chartboost, you need to first set up Chartboost as a network. Directions to set up Chartboost. In order to set up Chartboost for revenue reporting, you will need to enter in your Chartboost User ID and Chartboost User Signature into the MoPub UI. The User...]]></description>
+   <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Chartboost Network Setup</title>
    <link>https://dev.twitter.com/docs/chartboost-network-setup</link>
@@ -118,12 +124,6 @@
    <title>Ads Demo - JavaScript/MRAID Ad Tag Testing [iOS]</title>
    <link>https://dev.twitter.com/docs/ads-demo-javascriptmraid-ad-tag-testing-ios</link>
    <description><![CDATA[Ads Demo - JavaScript/MRAID Ad Tag Testing [iOS] Testing JavaScript/MRAID Ad Tags Create a new order - ‘TestOrder1’​ Within TestOrder1 create a new Line Item - ‘TestLineItem1...]]></description>
-   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Orders &amp; Line Items Setup</title>
-   <link>https://dev.twitter.com/docs/orders-line-items-setup</link>
-   <description><![CDATA[An Order is a set of Line Items, usually created for an ad campaign. The Order targets one or more Ad Units to display creatives After logging into app.mopub.com, go to your ‘Orders’ tab. Click on the ‘Add a New Order’ button at the top right. Name your Order, drop in the...]]></description>
    <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
