@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 10 Jul 2014 23:30:02 +0200</pubDate>
+  <pubDate>Fri, 11 Jul 2014 00:00:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Chartboost Network Setup</title>
+   <link>https://dev.twitter.com/docs/chartboost-network-setup</link>
+   <description><![CDATA[In order to set up Chartboost, you will need the most recent MoPub SDKs for iOS and Android. iOS: https://github.com/mopub/mopub-ios-sdk/ Android: https://github.com/mopub/mopub-android-sdk/ 1. You will first need to integrate the Chartboost SDK and Chartboost supporting files for ad serving to...]]></description>
+   <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Ad Network Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/ad-network-revenue-reporting</link>
@@ -118,12 +124,6 @@
    <title>Orders &amp; Line Items Setup</title>
    <link>https://dev.twitter.com/docs/orders-line-items-setup</link>
    <description><![CDATA[An Order is a set of Line Items, usually created for an ad campaign. The Order targets one or more Ad Units to display creatives After logging into app.mopub.com, go to your ‘Orders’ tab. Click on the ‘Add a New Order’ button at the top right. Name your Order, drop in the...]]></description>
-   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Order &amp; Line Item Types</title>
-   <link>https://dev.twitter.com/docs/order-line-item-types</link>
-   <description><![CDATA[Order Types There are four campaign types that MoPub supports to help with creating ad serving strategies. MoPub prioritizes Orders in the following sequence: guaranteed, promotional, networks, Marketplace, and then backfill promotional. Within each category of Orders, CPM is...]]></description>
    <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
