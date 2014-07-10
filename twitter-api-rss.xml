@@ -4,7 +4,127 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 10 Jul 2014 16:15:57 +0200</pubDate>
+  <pubDate>Thu, 10 Jul 2014 16:30:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>IAB Categorization with Examples</title>
+   <link>https://dev.twitter.com/docs/iab-categorization-examples</link>
+   <description><![CDATA[IAB Categorization with Examples IAB Category Name Examples IAB1 Arts & Entertainment IAB1-1 Books &amp; Literature...]]></description>
+   <pubDate>Wed, 09 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Mojiva Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/mojiva-revenue-reporting</link>
+   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting&nbsp;here. In order to set up ad network revenue reporting for Mojiva, you will need to enter your private key&nbsp;on the networks set up page....]]></description>
+   <pubDate>Tue, 08 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Refresh Rates</title>
+   <link>https://dev.twitter.com/docs/refresh-rates</link>
+   <description><![CDATA[When you create an ad unit, you will need to set the refresh rate. The refresh rate is the number of seconds until the next ad unit displays. For example, if you set a refresh rate of 30 seconds, the second ad unit will display 30 seconds later...]]></description>
+   <pubDate>Tue, 08 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Self-Testing Your Creatives with the MoPub SDK and SimpleAdsDemo Sample App</title>
+   <link>https://dev.twitter.com/docs/self-testing-your-creatives-mopub-sdk-and-simpleadsdemo-sample-app</link>
+   <description><![CDATA[This tutorial is a step-by-step guide that shows you how to self-test your creatives using the SimpleAds Demo app. Self Testing with the MoPub SDK and Simple Ads Demo App What: SimpleAds Demo is a mobile application for iOS and Android that demonstrates how live tags would render/behave on MoPub...]]></description>
+   <pubDate>Mon, 07 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>MRAID Vendor Tag Certification Process</title>
+   <link>https://dev.twitter.com/docs/mraid-vendor-tag-certification-process</link>
+   <description><![CDATA[MoPub MRAID Vendor Certification Process Guiding Principles: The MoPub SDK is built to be fully compliant with the IAB MRAID v1.0 specification Overview: Pre-Certification Questionnaire Setup Vendor Self Test Vendor impression test Reporting test Scale Test Best Practices...]]></description>
+   <pubDate>Mon, 07 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>GET help/languages</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/help/languages</link>
+   <description><![CDATA[Returns the list of languages supported by Twitter along with the language code supported by Twitter. The language code may be formatted as ISO 639-1 alpha-2 (en), ISO 639-3 alpha-3 (msa), or ISO 639-1 alpha-2 combined with an ISO 3166-1 alpha-2 localization (zh-tw).]]></description>
+   <pubDate>Thu, 03 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Burstly Integration</title>
+   <link>https://dev.twitter.com/docs/burstly-integration</link>
+   <description><![CDATA[Burstly SDK Passing IFA and Android ID values positively affects MoPub Marketplace performance. The following platform versions are certified to work correctly with MoPub Marketplace: iOS: Burstly SDK version 1.35+ required to pass IFA. Update Burstly SDK accordingly before...]]></description>
+   <pubDate>Wed, 02 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>MoPub Dashboard FAQ</title>
+   <link>https://dev.twitter.com/docs/mopub-dashboard-faq</link>
+   <description><![CDATA[What is the MoPub Dashboard? The MoPub Dashboard enables you to see your entire monetization strategy on a single screen. The Dashboard offers a single, comprehensive view of all your app revenue data &mdash; including ad networks, MoPub Marketplace, and direct campaigns. How do I access the new...]]></description>
+   <pubDate>Wed, 02 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Google Advertising ID FAQs</title>
+   <link>https://dev.twitter.com/docs/google-advertising-id-faqs</link>
+   <description><![CDATA[​ Q: What is the Google Advertising ID and why do I have to use it? The advertising ID is a user-specific, unique, resettable ID for advertising, provided by Google Play Services. It gives users better controls and provides developers with a simple, standard system to continue to...]]></description>
+   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Location and Keyword Data Passing</title>
+   <link>https://dev.twitter.com/docs/location-and-keyword-data-passing</link>
+   <description><![CDATA[Location and Keyword Data Passing [Android] Data passing would allow for more relevant and targeted ad content to be displayed to the user. Currently MoPub is able to allow for location and keywords data to be passed. Location Passing Android will automatically pass...]]></description>
+   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Reporting Categories and Metrics Descriptions</title>
+   <link>https://dev.twitter.com/docs/reporting-categories-and-metrics-descriptions</link>
+   <description><![CDATA[When running a report ( How to Run Reports), you can report on six categories and include desired metrics. The following are categories on which you can report: App Ad Unit Priority Line Item Type Order Line Item Creative Month...]]></description>
+   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Checking the MoPub SDK Version</title>
+   <link>https://dev.twitter.com/docs/checking-mopub-sdk-version</link>
+   <description><![CDATA[Checking the MoPub SDK Version As a best practice, we recommend that you update to the most recent version of the MoPub SDK every time you push an update to the Apple App Store or Google Play Store. To check the version of the SDK that is currently integrated in your...]]></description>
+   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Ads Demo - JavaScript/MRAID Ad Tag Testing [Android]</title>
+   <link>https://dev.twitter.com/docs/ads-demo-javascriptmraid-ad-tag-testing-android</link>
+   <description><![CDATA[Ads Demo - JavaScript/MRAID Ad Tag Testing [Android] Testing JavaScript/MRAID Ad Tags create a new Order - ‘TestOrder1’ within TestOrder1 create a new line item - ‘TestLineItem1...]]></description>
+   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Ads Demo - JavaScript/MRAID Ad Tag Testing [iOS]</title>
+   <link>https://dev.twitter.com/docs/ads-demo-javascriptmraid-ad-tag-testing-ios</link>
+   <description><![CDATA[Ads Demo - JavaScript/MRAID Ad Tag Testing [iOS] Testing JavaScript/MRAID Ad Tags Create a new order - ‘TestOrder1’​ Within TestOrder1 create a new Line Item - ‘TestLineItem1...]]></description>
+   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Orders &amp; Line Items Setup</title>
+   <link>https://dev.twitter.com/docs/orders-line-items-setup</link>
+   <description><![CDATA[An Order is a set of Line Items, usually created for an ad campaign. The Order targets one or more Ad Units to display creatives After logging into app.mopub.com, go to your ‘Orders’ tab. Click on the ‘Add a New Order’ button at the top right. Name your Order, drop in the...]]></description>
+   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Order &amp; Line Item Types</title>
+   <link>https://dev.twitter.com/docs/order-line-item-types</link>
+   <description><![CDATA[Order Types There are four campaign types that MoPub supports to help with creating ad serving strategies. MoPub prioritizes Orders in the following sequence: guaranteed, promotional, networks, Marketplace, and then backfill promotional. Within each category of Orders, CPM is...]]></description>
+   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Ad Unit FAQ</title>
+   <link>https://dev.twitter.com/docs/ad-unit-faq</link>
+   <description><![CDATA[Ad creatives not always displaying within ad unit during testing on simulator/emulator When the ad unit begins receiving traffic again, a short delay will occur as information gets loaded onto the ad server machines. Click ‘Load Ad’ a few times to receive a proper response from the...]]></description>
+   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Custom Native Network Setup</title>
+   <link>https://dev.twitter.com/docs/custom-native-network-setup</link>
+   <description><![CDATA[Custom Native Network Setup MoPub supports 3rd party Ad Network SDKs through a Custom Native Network implementation. If an Ad Network not listed provides their solution through an SDK, the network may be integrated leveraging MoPub’s Custom Events. The integration of Custom...]]></description>
+   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Marketplace Setup</title>
+   <link>https://dev.twitter.com/docs/marketplace-setup</link>
+   <description><![CDATA[Marketplace Setup The MoPub Marketplace is a self-service, real-time bidding exchange for mobile apps and web sites. It enables publishers like you to plug in to more demand sources on the MoPub platform. It is essential for publishers to properly set up the Marketplace. For more...]]></description>
+   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Ad Network Setup</title>
+   <link>https://dev.twitter.com/docs/ad-network-setup</link>
+   <description><![CDATA[MoPub allows for the set-up and management of multiple Ad Networks through the MoPub Dashboard. Ad Networks will serve ads to the ad unit ID that is referenced. From within the dashboard, click the Networks tab. From your Network tab, click “Add a Network” MoPub...]]></description>
+   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
  </channel>
 </rss>
