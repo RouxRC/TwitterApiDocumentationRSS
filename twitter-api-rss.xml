@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 10 Jul 2014 18:00:03 +0200</pubDate>
+  <pubDate>Thu, 10 Jul 2014 21:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>LifeStreet Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/lifestreet-revenue-reporting</link>
+   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for LifeStreet, you will need to enter your LifeStreet username, password, and set your...]]></description>
+   <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Self-Testing Your Creatives with the MoPub SDK and SimpleAdsDemo Sample App</title>
    <link>https://dev.twitter.com/docs/self-testing-your-creatives-mopub-sdk-and-simpleadsdemo-sample-app</link>
@@ -118,12 +124,6 @@
    <title>Marketplace Setup</title>
    <link>https://dev.twitter.com/docs/marketplace-setup</link>
    <description><![CDATA[Marketplace Setup The MoPub Marketplace is a self-service, real-time bidding exchange for mobile apps and web sites. It enables publishers like you to plug in to more demand sources on the MoPub platform. It is essential for publishers to properly set up the Marketplace. For more...]]></description>
-   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Ad Network Setup</title>
-   <link>https://dev.twitter.com/docs/ad-network-setup</link>
-   <description><![CDATA[MoPub allows for the set-up and management of multiple Ad Networks through the MoPub Dashboard. Ad Networks will serve ads to the ad unit ID that is referenced. From within the dashboard, click the Networks tab. From your Network tab, click “Add a Network” MoPub...]]></description>
    <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
