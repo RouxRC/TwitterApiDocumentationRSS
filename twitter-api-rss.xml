@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 10 Jul 2014 21:30:03 +0200</pubDate>
+  <pubDate>Thu, 10 Jul 2014 21:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>JumpTap Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/jumptap-revenue-reporting</link>
+   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for Jumptap, you will need to enter your Jumptap username, password, and set your Jumptap Site...]]></description>
+   <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>LifeStreet Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/lifestreet-revenue-reporting</link>
@@ -118,12 +124,6 @@
    <title>Custom Native Network Setup</title>
    <link>https://dev.twitter.com/docs/custom-native-network-setup</link>
    <description><![CDATA[Custom Native Network Setup MoPub supports 3rd party Ad Network SDKs through a Custom Native Network implementation. If an Ad Network not listed provides their solution through an SDK, the network may be integrated leveraging MoPub’s Custom Events. The integration of Custom...]]></description>
-   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Marketplace Setup</title>
-   <link>https://dev.twitter.com/docs/marketplace-setup</link>
-   <description><![CDATA[Marketplace Setup The MoPub Marketplace is a self-service, real-time bidding exchange for mobile apps and web sites. It enables publishers like you to plug in to more demand sources on the MoPub platform. It is essential for publishers to properly set up the Marketplace. For more...]]></description>
    <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
