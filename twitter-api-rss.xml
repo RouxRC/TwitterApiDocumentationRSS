@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 10 Jul 2014 16:30:02 +0200</pubDate>
+  <pubDate>Thu, 10 Jul 2014 18:00:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Self-Testing Your Creatives with the MoPub SDK and SimpleAdsDemo Sample App</title>
+   <link>https://dev.twitter.com/docs/self-testing-your-creatives-mopub-sdk-and-simpleadsdemo-sample-app</link>
+   <description><![CDATA[This tutorial is a step-by-step guide that shows you how to self-test your creatives using the SimpleAds Demo app. Self Testing with the MoPub SDK and Simple Ads Demo App What: SimpleAds Demo is a mobile application for iOS and Android that demonstrates how live tags would render/behave on MoPub...]]></description>
+   <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>IAB Categorization with Examples</title>
    <link>https://dev.twitter.com/docs/iab-categorization-examples</link>
@@ -23,12 +29,6 @@
    <link>https://dev.twitter.com/docs/refresh-rates</link>
    <description><![CDATA[When you create an ad unit, you will need to set the refresh rate. The refresh rate is the number of seconds until the next ad unit displays. For example, if you set a refresh rate of 30 seconds, the second ad unit will display 30 seconds later...]]></description>
    <pubDate>Tue, 08 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Self-Testing Your Creatives with the MoPub SDK and SimpleAdsDemo Sample App</title>
-   <link>https://dev.twitter.com/docs/self-testing-your-creatives-mopub-sdk-and-simpleadsdemo-sample-app</link>
-   <description><![CDATA[This tutorial is a step-by-step guide that shows you how to self-test your creatives using the SimpleAds Demo app. Self Testing with the MoPub SDK and Simple Ads Demo App What: SimpleAds Demo is a mobile application for iOS and Android that demonstrates how live tags would render/behave on MoPub...]]></description>
-   <pubDate>Mon, 07 Jul 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>MRAID Vendor Tag Certification Process</title>
