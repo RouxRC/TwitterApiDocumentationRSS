@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 11 Jul 2014 00:15:03 +0200</pubDate>
+  <pubDate>Fri, 11 Jul 2014 00:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Orders &amp; Line Items FAQ</title>
+   <link>https://dev.twitter.com/docs/orders-line-items-faq</link>
+   <description><![CDATA[My line item is currently paused and I would like to set it live. When I do so, the line item remains in the paused state.What is going on? Please check the status of the order to which the line item belongs, and ensure that the order is set live. The order level supersedes the line...]]></description>
+   <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Chartboost Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/chartboost-revenue-reporting</link>
@@ -118,12 +124,6 @@
    <title>Ads Demo - JavaScript/MRAID Ad Tag Testing [Android]</title>
    <link>https://dev.twitter.com/docs/ads-demo-javascriptmraid-ad-tag-testing-android</link>
    <description><![CDATA[Ads Demo - JavaScript/MRAID Ad Tag Testing [Android] Testing JavaScript/MRAID Ad Tags create a new Order - ‘TestOrder1’ within TestOrder1 create a new line item - ‘TestLineItem1...]]></description>
-   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Ads Demo - JavaScript/MRAID Ad Tag Testing [iOS]</title>
-   <link>https://dev.twitter.com/docs/ads-demo-javascriptmraid-ad-tag-testing-ios</link>
-   <description><![CDATA[Ads Demo - JavaScript/MRAID Ad Tag Testing [iOS] Testing JavaScript/MRAID Ad Tags Create a new order - ‘TestOrder1’​ Within TestOrder1 create a new Line Item - ‘TestLineItem1...]]></description>
    <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
