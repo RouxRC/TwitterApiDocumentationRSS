@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 11 Jul 2014 02:30:03 +0200</pubDate>
+  <pubDate>Fri, 11 Jul 2014 02:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Huntmads Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/huntmads-revenue-reporting</link>
+   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for Huntmads, you will need to enter your Huntmads API Token&nbsp;&nbsp;on the network setup...]]></description>
+   <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Issues with AdMob &amp; Proguard</title>
    <link>https://dev.twitter.com/docs/issues-admob-proguard</link>
@@ -118,12 +124,6 @@
    <title>Reporting Categories and Metrics Descriptions</title>
    <link>https://dev.twitter.com/docs/reporting-categories-and-metrics-descriptions</link>
    <description><![CDATA[When running a report ( How to Run Reports), you can report on six categories and include desired metrics. The following are categories on which you can report: App Ad Unit Priority Line Item Type Order Line Item Creative Month...]]></description>
-   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Checking the MoPub SDK Version</title>
-   <link>https://dev.twitter.com/docs/checking-mopub-sdk-version</link>
-   <description><![CDATA[Checking the MoPub SDK Version As a best practice, we recommend that you update to the most recent version of the MoPub SDK every time you push an update to the Apple App Store or Google Play Store. To check the version of the SDK that is currently integrated in your...]]></description>
    <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
