@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 11 Jul 2014 00:30:03 +0200</pubDate>
+  <pubDate>Fri, 11 Jul 2014 02:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Issues with AdMob &amp; Proguard</title>
+   <link>https://dev.twitter.com/docs/issues-admob-proguard</link>
+   <description><![CDATA[&nbsp; If you are using Proguard and the Admob the adapter is included but the AdMob SDK is getting stripped out, then when a call is made to that ad network, an application error will occur. &nbsp; In your configuration file of proguard (proguard.cfg), simply add this line: &nbsp; # AdMob...]]></description>
+   <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Orders &amp; Line Items FAQ</title>
    <link>https://dev.twitter.com/docs/orders-line-items-faq</link>
@@ -118,12 +124,6 @@
    <title>Checking the MoPub SDK Version</title>
    <link>https://dev.twitter.com/docs/checking-mopub-sdk-version</link>
    <description><![CDATA[Checking the MoPub SDK Version As a best practice, we recommend that you update to the most recent version of the MoPub SDK every time you push an update to the Apple App Store or Google Play Store. To check the version of the SDK that is currently integrated in your...]]></description>
-   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Ads Demo - JavaScript/MRAID Ad Tag Testing [Android]</title>
-   <link>https://dev.twitter.com/docs/ads-demo-javascriptmraid-ad-tag-testing-android</link>
-   <description><![CDATA[Ads Demo - JavaScript/MRAID Ad Tag Testing [Android] Testing JavaScript/MRAID Ad Tags create a new Order - ‘TestOrder1’ within TestOrder1 create a new line item - ‘TestLineItem1...]]></description>
    <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
