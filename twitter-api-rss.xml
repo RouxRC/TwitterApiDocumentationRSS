@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 11 Jul 2014 02:45:03 +0200</pubDate>
+  <pubDate>Fri, 11 Jul 2014 22:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>GET statuses/lookup</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/statuses/lookup</link>
+   <description><![CDATA[Returns fully-hydrated tweet objects for up to 100 tweets per request, as specified by comma-separated values passed to the id parameter. This method is especially useful to get the details (hydrate) a collection of Tweet IDs. GET statuses/show/:id is used to retrieve a single tweet object.]]></description>
+   <pubDate>Fri, 11 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Huntmads Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/huntmads-revenue-reporting</link>
@@ -118,12 +124,6 @@
    <title>Location and Keyword Data Passing</title>
    <link>https://dev.twitter.com/docs/location-and-keyword-data-passing</link>
    <description><![CDATA[Location and Keyword Data Passing [Android] Data passing would allow for more relevant and targeted ad content to be displayed to the user. Currently MoPub is able to allow for location and keywords data to be passed. Location Passing Android will automatically pass...]]></description>
-   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Reporting Categories and Metrics Descriptions</title>
-   <link>https://dev.twitter.com/docs/reporting-categories-and-metrics-descriptions</link>
-   <description><![CDATA[When running a report ( How to Run Reports), you can report on six categories and include desired metrics. The following are categories on which you can report: App Ad Unit Priority Line Item Type Order Line Item Creative Month...]]></description>
    <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
