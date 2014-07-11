@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 11 Jul 2014 22:30:03 +0200</pubDate>
+  <pubDate>Sat, 12 Jul 2014 00:00:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>iAd Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/iad-revenue-reporting</link>
+   <description><![CDATA[MoPub offers ad network revenue reporting for ad networks that offer a third party API to provide you with more accurate ad performance data.&nbsp; In order to set up ad network revenue reporting for iAd, you will need to enter your iTunes Connect username and password onto your iAd Network...]]></description>
+   <pubDate>Fri, 11 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>GET statuses/lookup</title>
    <link>https://dev.twitter.com/docs/api/1.1/get/statuses/lookup</link>
@@ -118,12 +124,6 @@
    <title>Google Advertising ID FAQs</title>
    <link>https://dev.twitter.com/docs/google-advertising-id-faqs</link>
    <description><![CDATA[​ Q: What is the Google Advertising ID and why do I have to use it? The advertising ID is a user-specific, unique, resettable ID for advertising, provided by Google Play Services. It gives users better controls and provides developers with a simple, standard system to continue to...]]></description>
-   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Location and Keyword Data Passing</title>
-   <link>https://dev.twitter.com/docs/location-and-keyword-data-passing</link>
-   <description><![CDATA[Location and Keyword Data Passing [Android] Data passing would allow for more relevant and targeted ad content to be displayed to the user. Currently MoPub is able to allow for location and keywords data to be passed. Location Passing Android will automatically pass...]]></description>
    <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
