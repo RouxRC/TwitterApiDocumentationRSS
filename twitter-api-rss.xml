@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 15 Jul 2014 16:15:06 +0200</pubDate>
+  <pubDate>Tue, 15 Jul 2014 22:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Embedded Timelines</title>
+   <link>https://dev.twitter.com/docs/embedded-timelines</link>
+   <description><![CDATA[English | 日本語 Overview Embeddable timelines make it easy to syndicate any public Twitter timeline to your website with one line of code. Just like timelines on twitter.com, embeddable timelines are interactive and enable your visitors to reply, Retweet, and favorite Tweets directly from your...]]></description>
+   <pubDate>Tue, 15 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>iAd Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/iad-revenue-reporting</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/mopub-dashboard-faq</link>
    <description><![CDATA[What is the MoPub Dashboard? The MoPub Dashboard enables you to see your entire monetization strategy on a single screen. The Dashboard offers a single, comprehensive view of all your app revenue data &mdash; including ad networks, MoPub Marketplace, and direct campaigns. How do I access the new...]]></description>
    <pubDate>Wed, 02 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Google Advertising ID FAQs</title>
-   <link>https://dev.twitter.com/docs/google-advertising-id-faqs</link>
-   <description><![CDATA[​ Q: What is the Google Advertising ID and why do I have to use it? The advertising ID is a user-specific, unique, resettable ID for advertising, provided by Google Play Services. It gives users better controls and provides developers with a simple, standard system to continue to...]]></description>
-   <pubDate>Tue, 01 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
