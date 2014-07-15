@@ -4,12 +4,12 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 15 Jul 2014 22:30:03 +0200</pubDate>
+  <pubDate>Tue, 15 Jul 2014 23:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
   <item>
    <title>Embedded Timelines</title>
    <link>https://dev.twitter.com/docs/embedded-timelines</link>
-   <description><![CDATA[English | 日本語 Overview Embeddable timelines make it easy to syndicate any public Twitter timeline to your website with one line of code. Just like timelines on twitter.com, embeddable timelines are interactive and enable your visitors to reply, Retweet, and favorite Tweets directly from your...]]></description>
+   <description><![CDATA[English | 日本語 Overview Embeddable timelines make it easy to syndicate any public Twitter timeline to your website with one line of code. Create an embedded timeline from your widgets settings page on twitter.com, or choose “Embed this…” from the options menu on profile, search and collection...]]></description>
    <pubDate>Tue, 15 Jul 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
