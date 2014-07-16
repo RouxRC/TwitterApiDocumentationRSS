@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 17 Jul 2014 00:45:03 +0200</pubDate>
+  <pubDate>Thu, 17 Jul 2014 01:00:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>AdMob Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/admob-revenue-reporting</link>
+   <description><![CDATA[Note: If you are using the updated version of AdMob, please follow the instructions at this link instead: http://help.mopub.com/customer/portal/articles/1376821-updating-admob-revenue-reporting In order to set up AdMob for ad network revenue reporting:&nbsp;You will need to enter your AdMob...]]></description>
+   <pubDate>Wed, 16 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Millennial InMobi Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/millennial-inmobi-revenue-reporting</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/mraid-vendor-tag-certification-process</link>
    <description><![CDATA[MoPub MRAID Vendor Certification Process Guiding Principles: The MoPub SDK is built to be fully compliant with the IAB MRAID v1.0 specification Overview: Pre-Certification Questionnaire Setup Vendor Self Test Vendor impression test Reporting test Scale Test Best Practices...]]></description>
    <pubDate>Mon, 07 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>GET help/languages</title>
-   <link>https://dev.twitter.com/docs/api/1.1/get/help/languages</link>
-   <description><![CDATA[Returns the list of languages supported by Twitter along with the language code supported by Twitter. The language code may be formatted as ISO 639-1 alpha-2 (en), ISO 639-3 alpha-3 (msa), or ISO 639-1 alpha-2 combined with an ISO 3166-1 alpha-2 localization (zh-tw).]]></description>
-   <pubDate>Thu, 03 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
