@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 21 Jul 2014 22:00:03 +0200</pubDate>
+  <pubDate>Mon, 21 Jul 2014 22:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Server to Server Network Support</title>
+   <link>https://dev.twitter.com/docs/server-server-network-support</link>
+   <description><![CDATA[MoPub provides Server to Server integrations with the following networks: &nbsp; Jumptap &nbsp; InMobi &nbsp; MobFox &nbsp; Tapit &nbsp; Mojiva&nbsp; &nbsp; Huntmads &nbsp; This means that there is no additional development work required. Once you have created an account with a...]]></description>
+   <pubDate>Mon, 21 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Create and Manage a Segment (Ad Networks)</title>
    <link>https://dev.twitter.com/docs/create-and-manage-segment-ad-networks</link>
@@ -118,12 +124,6 @@
    <title>Mojiva Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/mojiva-revenue-reporting</link>
    <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting&nbsp;here. In order to set up ad network revenue reporting for Mojiva, you will need to enter your private key&nbsp;on the networks set up page....]]></description>
-   <pubDate>Tue, 08 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Refresh Rates</title>
-   <link>https://dev.twitter.com/docs/refresh-rates</link>
-   <description><![CDATA[When you create an ad unit, you will need to set the refresh rate. The refresh rate is the number of seconds until the next ad unit displays. For example, if you set a refresh rate of 30 seconds, the second ad unit will display 30 seconds later...]]></description>
    <pubDate>Tue, 08 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
