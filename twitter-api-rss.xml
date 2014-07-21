@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 21 Jul 2014 15:45:03 +0200</pubDate>
+  <pubDate>Mon, 21 Jul 2014 22:00:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Create and Manage a Segment (Ad Networks)</title>
+   <link>https://dev.twitter.com/docs/create-and-manage-segment-ad-networks</link>
+   <description><![CDATA[Segments Overview MoPub&rsquo;s network management interface allows you to group your inventory into &ldquo;segments&rdquo;. A &ldquo;segment&rdquo; is a slice of your inventory with specific apps or ad units that can be targeted to specific countries and networks. It is a combination of three...]]></description>
+   <pubDate>Mon, 21 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>AdMob Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/admob-revenue-reporting</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/refresh-rates</link>
    <description><![CDATA[When you create an ad unit, you will need to set the refresh rate. The refresh rate is the number of seconds until the next ad unit displays. For example, if you set a refresh rate of 30 seconds, the second ad unit will display 30 seconds later...]]></description>
    <pubDate>Tue, 08 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>MRAID Vendor Tag Certification Process</title>
-   <link>https://dev.twitter.com/docs/mraid-vendor-tag-certification-process</link>
-   <description><![CDATA[MoPub MRAID Vendor Certification Process Guiding Principles: The MoPub SDK is built to be fully compliant with the IAB MRAID v1.0 specification Overview: Pre-Certification Questionnaire Setup Vendor Self Test Vendor impression test Reporting test Scale Test Best Practices...]]></description>
-   <pubDate>Mon, 07 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
