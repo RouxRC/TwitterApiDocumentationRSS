@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 22 Jul 2014 15:45:03 +0200</pubDate>
+  <pubDate>Wed, 23 Jul 2014 16:30:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Cards Markup Tag Reference</title>
+   <link>https://dev.twitter.com/docs/cards/markup-reference</link>
+   <description><![CDATA[The table in this section explains the OpenGraph fallback behavior for each Twitter tag. Overview of all Twitter Card Tags Property Card Value OpenGraph Fallback twitter:card all summary,...]]></description>
+   <pubDate>Wed, 23 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Getting Started Guide</title>
+   <link>https://dev.twitter.com/docs/cards/getting-started</link>
+   <description><![CDATA[Getting Started with Cards Card and Content Attribution URL Crawling &amp; Caching Multiple URLs in a Tweet Twitter Cards and Open Graph Getting Started with Cards To get started with implementing the Cards markup, you'll want to specify the type of card for your content by adding...]]></description>
+   <pubDate>Wed, 23 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Server to Server Network Support</title>
    <link>https://dev.twitter.com/docs/server-server-network-support</link>
@@ -113,18 +125,6 @@
    <link>https://dev.twitter.com/docs/self-testing-your-creatives-mopub-sdk-and-simpleadsdemo-sample-app</link>
    <description><![CDATA[This tutorial is a step-by-step guide that shows you how to self-test your creatives using the SimpleAds Demo app. Self Testing with the MoPub SDK and Simple Ads Demo App What: SimpleAds Demo is a mobile application for iOS and Android that demonstrates how live tags would render/behave on MoPub...]]></description>
    <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>IAB Categorization with Examples</title>
-   <link>https://dev.twitter.com/docs/iab-categorization-examples</link>
-   <description><![CDATA[IAB Categorization with Examples IAB Category Name Examples IAB1 Arts & Entertainment IAB1-1 Books &amp; Literature...]]></description>
-   <pubDate>Wed, 09 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Mojiva Revenue Reporting</title>
-   <link>https://dev.twitter.com/docs/mojiva-revenue-reporting</link>
-   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting&nbsp;here. In order to set up ad network revenue reporting for Mojiva, you will need to enter your private key&nbsp;on the networks set up page....]]></description>
-   <pubDate>Tue, 08 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
