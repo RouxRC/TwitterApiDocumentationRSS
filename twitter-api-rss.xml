@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 23 Jul 2014 16:30:02 +0200</pubDate>
+  <pubDate>Wed, 23 Jul 2014 22:15:04 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Summary Card with Large Image</title>
+   <link>https://dev.twitter.com/docs/cards/large-image-summary-card</link>
+   <description><![CDATA[The Summary Card with Large Image features a large, full-width prominent image alongside a tweet. It is designed to give the reader a rich photo experience, and clicking on the image brings the user to your website. The Tweet below from @Yahoo shows a Summary Card with Large Image along with...]]></description>
+   <pubDate>Wed, 23 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Summary Card</title>
+   <link>https://dev.twitter.com/docs/cards/types/summary-card</link>
+   <description><![CDATA[The Summary Card can be used for many kinds of web content, from blog posts and news articles, to products and restaurants. It is designed to give the reader a preview of the content before clicking through to your website. The Tweet below from the United Nations (@UN) shows a Summary Card (...]]></description>
+   <pubDate>Wed, 23 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Cards Markup Tag Reference</title>
    <link>https://dev.twitter.com/docs/cards/markup-reference</link>
@@ -112,18 +124,6 @@
    <title>JumpTap Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/jumptap-revenue-reporting</link>
    <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for Jumptap, you will need to enter your Jumptap username, password, and set your Jumptap Site...]]></description>
-   <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>LifeStreet Revenue Reporting</title>
-   <link>https://dev.twitter.com/docs/lifestreet-revenue-reporting</link>
-   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for LifeStreet, you will need to enter your LifeStreet username, password, and set your...]]></description>
-   <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Self-Testing Your Creatives with the MoPub SDK and SimpleAdsDemo Sample App</title>
-   <link>https://dev.twitter.com/docs/self-testing-your-creatives-mopub-sdk-and-simpleadsdemo-sample-app</link>
-   <description><![CDATA[This tutorial is a step-by-step guide that shows you how to self-test your creatives using the SimpleAds Demo app. Self Testing with the MoPub SDK and Simple Ads Demo App What: SimpleAds Demo is a mobile application for iOS and Android that demonstrates how live tags would render/behave on MoPub...]]></description>
    <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
