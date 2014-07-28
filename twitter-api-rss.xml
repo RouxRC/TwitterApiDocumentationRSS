@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 28 Jul 2014 20:30:03 +0200</pubDate>
+  <pubDate>Mon, 28 Jul 2014 22:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>IAB Attributes with Examples</title>
+   <link>https://dev.twitter.com/docs/iab-attributes-examples</link>
+   <description><![CDATA[&nbsp; IAB Attributes with Examples &nbsp; Value Description Examples (where applicable) &nbsp; &nbsp; 1 Audio Ad (Auto Play) &nbsp; &nbsp; &nbsp; 2 Audio Ad (User Initiated) &nbsp; &nbsp; &nbsp; 3...]]></description>
+   <pubDate>Mon, 28 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Scripting: Factory Functions</title>
    <link>https://dev.twitter.com/docs/tfw/factories</link>
@@ -118,12 +124,6 @@
    <title>Issues with AdMob &amp; Proguard</title>
    <link>https://dev.twitter.com/docs/issues-admob-proguard</link>
    <description><![CDATA[&nbsp; If you are using Proguard and the Admob the adapter is included but the AdMob SDK is getting stripped out, then when a call is made to that ad network, an application error will occur. &nbsp; In your configuration file of proguard (proguard.cfg), simply add this line: &nbsp; # AdMob...]]></description>
-   <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Orders &amp; Line Items FAQ</title>
-   <link>https://dev.twitter.com/docs/orders-line-items-faq</link>
-   <description><![CDATA[My line item is currently paused and I would like to set it live. When I do so, the line item remains in the paused state.What is going on? Please check the status of the order to which the line item belongs, and ensure that the order is set live. The order level supersedes the line...]]></description>
    <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
