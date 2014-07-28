@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sat, 26 Jul 2014 06:00:03 +0200</pubDate>
+  <pubDate>Mon, 28 Jul 2014 19:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Single-user OAuth with Examples</title>
+   <link>https://dev.twitter.com/docs/auth/oauth/single-user-with-examples</link>
+   <description><![CDATA[Please note: Most developers will find working with Application-only authentication a superior approach than what is documented below. Twitter offers the ability for you to retrieve a single access token (complete with oauth_token_secret) from application detail pages found on dev.twitter.com....]]></description>
+   <pubDate>Mon, 28 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>MRAID Vendor Tag Certification Process</title>
    <link>https://dev.twitter.com/docs/mraid-vendor-tag-certification-process</link>
@@ -118,12 +124,6 @@
    <title>Chartboost Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/chartboost-revenue-reporting</link>
    <description><![CDATA[In order to set up revenue reporting for Chartboost, you need to first set up Chartboost as a network. Directions to set up Chartboost. In order to set up Chartboost for revenue reporting, you will need to enter in your Chartboost User ID and Chartboost User Signature into the MoPub UI. The User...]]></description>
-   <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Chartboost Network Setup</title>
-   <link>https://dev.twitter.com/docs/chartboost-network-setup</link>
-   <description><![CDATA[In order to set up Chartboost, you will need the most recent MoPub SDKs for iOS and Android. iOS: https://github.com/mopub/mopub-ios-sdk/ Android: https://github.com/mopub/mopub-android-sdk/ 1. You will first need to integrate the Chartboost SDK and Chartboost supporting files for ad serving to...]]></description>
    <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
