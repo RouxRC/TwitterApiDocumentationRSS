@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 28 Jul 2014 22:15:03 +0200</pubDate>
+  <pubDate>Mon, 28 Jul 2014 22:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Clone of IAB Attributes with Examples</title>
+   <link>https://dev.twitter.com/docs/clone-iab-attributes-examples</link>
+   <description><![CDATA[&nbsp; IAB Attributes with Examples &nbsp; Value Description Examples (where applicable) 1 Audio Ad (Auto Play) &nbsp; 2 Audio Ad (User Initiated) &nbsp; 3 Expandable (Automatic) &nbsp; 4 Expandable (User...]]></description>
+   <pubDate>Mon, 28 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>IAB Attributes with Examples</title>
    <link>https://dev.twitter.com/docs/iab-attributes-examples</link>
@@ -118,12 +124,6 @@
    <title>Huntmads Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/huntmads-revenue-reporting</link>
    <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for Huntmads, you will need to enter your Huntmads API Token&nbsp;&nbsp;on the network setup...]]></description>
-   <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Issues with AdMob &amp; Proguard</title>
-   <link>https://dev.twitter.com/docs/issues-admob-proguard</link>
-   <description><![CDATA[&nbsp; If you are using Proguard and the Admob the adapter is included but the AdMob SDK is getting stripped out, then when a call is made to that ad network, an application error will occur. &nbsp; In your configuration file of proguard (proguard.cfg), simply add this line: &nbsp; # AdMob...]]></description>
    <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
