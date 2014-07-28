@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 28 Jul 2014 19:45:03 +0200</pubDate>
+  <pubDate>Mon, 28 Jul 2014 20:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Scripting: Factory Functions</title>
+   <link>https://dev.twitter.com/docs/tfw/factories</link>
+   <description><![CDATA[By using Twitter Javascript, you agree to the Developer Rules of the Road. If you're integrating your site with Twitter using Twitter for Websites and Web Intents, you can dynamically generate widgets using JavaScript functions. Twitter for Websites products—Tweet buttons, Follow buttons,...]]></description>
+   <pubDate>Mon, 28 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Single-user OAuth with Examples</title>
    <link>https://dev.twitter.com/docs/auth/oauth/single-user-with-examples</link>
@@ -118,12 +124,6 @@
    <title>Orders &amp; Line Items FAQ</title>
    <link>https://dev.twitter.com/docs/orders-line-items-faq</link>
    <description><![CDATA[My line item is currently paused and I would like to set it live. When I do so, the line item remains in the paused state.What is going on? Please check the status of the order to which the line item belongs, and ensure that the order is set live. The order level supersedes the line...]]></description>
-   <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Chartboost Revenue Reporting</title>
-   <link>https://dev.twitter.com/docs/chartboost-revenue-reporting</link>
-   <description><![CDATA[In order to set up revenue reporting for Chartboost, you need to first set up Chartboost as a network. Directions to set up Chartboost. In order to set up Chartboost for revenue reporting, you will need to enter in your Chartboost User ID and Chartboost User Signature into the MoPub UI. The User...]]></description>
    <pubDate>Thu, 10 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
