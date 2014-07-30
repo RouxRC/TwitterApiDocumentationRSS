@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 30 Jul 2014 06:15:03 +0200</pubDate>
+  <pubDate>Wed, 30 Jul 2014 21:00:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Integrating with Twitter on iOS</title>
+   <link>https://dev.twitter.com/docs/ios</link>
+   <description><![CDATA[The official iOS SDK includes a framework that enables your iOS applications to leverage the power of Twitter. This framework removes many of the common obstacles encountered when accessing Twitter's API, including authentication and Tweet composition, and allows developers to focus on more...]]></description>
+   <pubDate>Wed, 30 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Connecting to Twitter API using SSL</title>
    <link>https://dev.twitter.com/docs/security/using-ssl</link>
@@ -118,12 +124,6 @@
    <title>iAd Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/iad-revenue-reporting</link>
    <description><![CDATA[MoPub offers ad network revenue reporting for ad networks that offer a third party API to provide you with more accurate ad performance data.&nbsp; In order to set up ad network revenue reporting for iAd, you will need to enter your iTunes Connect username and password onto your iAd Network...]]></description>
-   <pubDate>Fri, 11 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>GET statuses/lookup</title>
-   <link>https://dev.twitter.com/docs/api/1.1/get/statuses/lookup</link>
-   <description><![CDATA[Returns fully-hydrated tweet objects for up to 100 tweets per request, as specified by comma-separated values passed to the id parameter. This method is especially useful to get the details (hydrate) a collection of Tweet IDs. GET statuses/show/:id is used to retrieve a single tweet object.]]></description>
    <pubDate>Fri, 11 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
