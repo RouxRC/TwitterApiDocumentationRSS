@@ -4,19 +4,19 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 01 Aug 2014 01:15:03 +0200</pubDate>
+  <pubDate>Fri, 01 Aug 2014 01:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
   <item>
    <title>Mobile sign in flow</title>
    <link>https://dev.twitter.com/docs/mobile-sign-flow</link>
    <description><![CDATA[Mobile flow The UI flow for mobile web browsers works exactly like the Browser sign in flow, but is optimized for mobile browsers. Below are screenshots for the signed in, signed out, and redirect screens:]]></description>
-   <pubDate>Thu, 31 Jul 2014 00:00:00 +0200</pubDate>
+   <pubDate></pubDate>
   </item>
   <item>
    <title>GET geo/similar_places</title>
    <link>https://dev.twitter.com/docs/api/1.1/get/geo/similar_places</link>
    <description><![CDATA[Locates places near the given coordinates which are similar in name.]]></description>
-   <pubDate>Thu, 31 Jul 2014 00:00:00 +0200</pubDate>
+   <pubDate></pubDate>
   </item>
   <item>
    <title>Integrating with Twitter on iOS</title>
@@ -118,12 +118,6 @@
    <title>Millennial InMobi Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/millennial-inmobi-revenue-reporting</link>
    <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. Revenue reporting requires the Millennial Username, Password. Your app name must also exactly match the app name in your Millennial dashboard....]]></description>
-   <pubDate>Wed, 16 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>InMobi Revenue Reporting</title>
-   <link>https://dev.twitter.com/docs/inmobi-revenue-reporting</link>
-   <description><![CDATA[We&rsquo;ve recently updated revenue reporting for InMobi to reflect InMobi&rsquo;s latest API. &nbsp;If you previously set up MoPub revenue reporting for InMobi, you need to contact InMobi and update your InMobi information on MoPub to ensure your reports continue to work. Important Notes:...]]></description>
    <pubDate>Wed, 16 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
