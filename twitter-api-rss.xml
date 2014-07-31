@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 01 Aug 2014 00:30:03 +0200</pubDate>
+  <pubDate>Fri, 01 Aug 2014 01:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Mobile sign in flow</title>
+   <link>https://dev.twitter.com/docs/mobile-sign-flow</link>
+   <description><![CDATA[Mobile flow The UI flow for mobile web browsers works exactly like the Browser sign in flow, but is optimized for mobile browsers. Below are screenshots for the signed in, signed out, and redirect screens:]]></description>
+   <pubDate>Thu, 31 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>GET geo/similar_places</title>
    <link>https://dev.twitter.com/docs/api/1.1/get/geo/similar_places</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/inmobi-revenue-reporting</link>
    <description><![CDATA[We&rsquo;ve recently updated revenue reporting for InMobi to reflect InMobi&rsquo;s latest API. &nbsp;If you previously set up MoPub revenue reporting for InMobi, you need to contact InMobi and update your InMobi information on MoPub to ensure your reports continue to work. Important Notes:...]]></description>
    <pubDate>Wed, 16 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Embedded Timelines</title>
-   <link>https://dev.twitter.com/docs/embedded-timelines</link>
-   <description><![CDATA[English | 日本語 Overview Embeddable timelines make it easy to syndicate any public Twitter timeline to your website with one line of code. Create an embedded timeline from your widgets settings page on twitter.com, or choose “Embed this…” from the options menu on profile, search and collection...]]></description>
-   <pubDate>Tue, 15 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
