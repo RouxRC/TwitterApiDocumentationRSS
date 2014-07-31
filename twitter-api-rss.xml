@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 30 Jul 2014 21:00:03 +0200</pubDate>
+  <pubDate>Fri, 01 Aug 2014 00:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>GET geo/similar_places</title>
+   <link>https://dev.twitter.com/docs/api/1.1/get/geo/similar_places</link>
+   <description><![CDATA[Locates places near the given coordinates which are similar in name.]]></description>
+   <pubDate>Thu, 31 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Integrating with Twitter on iOS</title>
    <link>https://dev.twitter.com/docs/ios</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/embedded-timelines</link>
    <description><![CDATA[English | 日本語 Overview Embeddable timelines make it easy to syndicate any public Twitter timeline to your website with one line of code. Create an embedded timeline from your widgets settings page on twitter.com, or choose “Embed this…” from the options menu on profile, search and collection...]]></description>
    <pubDate>Tue, 15 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>iAd Revenue Reporting</title>
-   <link>https://dev.twitter.com/docs/iad-revenue-reporting</link>
-   <description><![CDATA[MoPub offers ad network revenue reporting for ad networks that offer a third party API to provide you with more accurate ad performance data.&nbsp; In order to set up ad network revenue reporting for iAd, you will need to enter your iTunes Connect username and password onto your iAd Network...]]></description>
-   <pubDate>Fri, 11 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
