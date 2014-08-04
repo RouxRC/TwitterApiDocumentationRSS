@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 04 Aug 2014 18:15:04 +0200</pubDate>
+  <pubDate>Mon, 04 Aug 2014 22:00:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>MoPub OpenRTB 2.1 Specification</title>
+   <link>https://dev.twitter.com/mopub/openrtb-21-specification</link>
+   <description><![CDATA[Updated August 4,2014 1. Overview MoPub RTB is a way for DSPs and advertisers to bid on each ad impression where the winning bid will pay the second-highest price in the auction.  This protocol is largely based on the OpenRTB 2.1 specification.   Note that our adaptation may require certain...]]></description>
+   <pubDate>Mon, 04 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Cards Markup Tag Reference</title>
    <link>https://dev.twitter.com/docs/cards/markup-reference</link>
@@ -113,12 +119,6 @@
    <link>https://dev.twitter.com/docs/admob-revenue-reporting</link>
    <description><![CDATA[Note: If you are using the updated version of AdMob, please follow the instructions at this link instead: http://help.mopub.com/customer/portal/articles/1376821-updating-admob-revenue-reporting In order to set up AdMob for ad network revenue reporting:&nbsp;You will need to enter your AdMob...]]></description>
    <pubDate>Thu, 17 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Millennial InMobi Revenue Reporting</title>
-   <link>https://dev.twitter.com/docs/millennial-inmobi-revenue-reporting</link>
-   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. Revenue reporting requires the Millennial Username, Password. Your app name must also exactly match the app name in your Millennial dashboard....]]></description>
-   <pubDate>Wed, 16 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
