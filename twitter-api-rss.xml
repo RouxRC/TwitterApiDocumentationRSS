@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 05 Aug 2014 06:30:04 +0200</pubDate>
+  <pubDate>Wed, 06 Aug 2014 00:30:05 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>IAB Attributes with Examples</title>
+   <link>https://dev.twitter.com/docs/iab-attributes-examples</link>
+   <description><![CDATA[&nbsp; IAB Attributes with Examples &nbsp; Value Description Examples (where applicable) 1 Audio Ad (Auto Play) &nbsp; 2 Audio Ad (User Initiated) &nbsp; 3 Expandable (Automatic) &nbsp; 4 Expandable (User...]]></description>
+   <pubDate>Tue, 05 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>MoPub OpenRTB 2.1 Specification</title>
    <link>https://dev.twitter.com/mopub/openrtb-21-specification</link>
@@ -46,12 +52,6 @@
    <title>Clone of IAB Attributes with Examples</title>
    <link>https://dev.twitter.com/docs/clone-iab-attributes-examples</link>
    <description><![CDATA[&nbsp; IAB Attributes with Examples &nbsp; Value Description Examples (where applicable) 1 Audio Ad (Auto Play) &nbsp; 2 Audio Ad (User Initiated) &nbsp; 3 Expandable (Automatic) &nbsp; 4 Expandable (User...]]></description>
-   <pubDate>Mon, 28 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>IAB Attributes with Examples</title>
-   <link>https://dev.twitter.com/docs/iab-attributes-examples</link>
-   <description><![CDATA[&nbsp; IAB Attributes with Examples &nbsp; Value Description Examples (where applicable) &nbsp; &nbsp; 1 Audio Ad (Auto Play) &nbsp; &nbsp; &nbsp; 2 Audio Ad (User Initiated) &nbsp; &nbsp; &nbsp; 3...]]></description>
    <pubDate>Mon, 28 Jul 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
