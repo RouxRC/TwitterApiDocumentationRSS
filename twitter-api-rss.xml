@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 06 Aug 2014 06:30:05 +0200</pubDate>
+  <pubDate>Wed, 06 Aug 2014 22:45:15 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Clone of IAB Attributes with Examples</title>
+   <link>https://dev.twitter.com/docs/clone-iab-attributes-examples</link>
+   <description><![CDATA[&nbsp; IAB Attributes with Examples &nbsp; Value Description Examples (where applicable) 1 Audio Ad (Auto Play) &nbsp; 2 Audio Ad (User Initiated) &nbsp; 3 Expandable (Automatic) &nbsp; 4 Expandable (User...]]></description>
+   <pubDate>Wed, 06 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>IAB Attributes with Examples</title>
    <link>https://dev.twitter.com/docs/iab-attributes-examples</link>
@@ -47,12 +53,6 @@
    <link>https://dev.twitter.com/docs/security/using-ssl</link>
    <description><![CDATA[Currently, only SSL connections are allowed in Twitter API endpoints. Communicating over SSL preserves user privacy by protecting information between the user and the Twitter API as it travels across the public Internet. Using OAuth isn't enough While OAuth is mandated and protects the user...]]></description>
    <pubDate>Tue, 29 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Clone of IAB Attributes with Examples</title>
-   <link>https://dev.twitter.com/docs/clone-iab-attributes-examples</link>
-   <description><![CDATA[&nbsp; IAB Attributes with Examples &nbsp; Value Description Examples (where applicable) 1 Audio Ad (Auto Play) &nbsp; 2 Audio Ad (User Initiated) &nbsp; 3 Expandable (Automatic) &nbsp; 4 Expandable (User...]]></description>
-   <pubDate>Mon, 28 Jul 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>Scripting: Factory Functions</title>
