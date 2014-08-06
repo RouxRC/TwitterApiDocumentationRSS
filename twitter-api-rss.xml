@@ -4,17 +4,11 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 06 Aug 2014 23:00:03 +0200</pubDate>
+  <pubDate>Wed, 06 Aug 2014 23:15:04 +0200</pubDate>
   <generator>RouxRC</generator>
   <item>
    <title>IAB Attributes with Examples</title>
    <link>https://dev.twitter.com/docs/iab-attributes-examples</link>
-   <description><![CDATA[&nbsp; IAB Attributes with Examples &nbsp; Value Description Examples (where applicable) 1 Audio Ad (Auto Play) &nbsp; 2 Audio Ad (User Initiated) &nbsp; 3 Expandable (Automatic) &nbsp; 4 Expandable (User...]]></description>
-   <pubDate>Wed, 06 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Clone of IAB Attributes with Examples v2</title>
-   <link>https://dev.twitter.com/docs/clone-iab-attributes-examples-v2</link>
    <description><![CDATA[&nbsp; IAB Attributes with Examples &nbsp; Value Description Examples (where applicable) 1 Audio Ad (Auto Play) &nbsp; 2 Audio Ad (User Initiated) &nbsp; 3 Expandable (Automatic) &nbsp; 4 Expandable (User...]]></description>
    <pubDate>Wed, 06 Aug 2014 00:00:00 +0200</pubDate>
   </item>
@@ -119,6 +113,12 @@
    <link>https://dev.twitter.com/docs/create-and-manage-segment-ad-networks</link>
    <description><![CDATA[Segments Overview MoPub&rsquo;s network management interface allows you to group your inventory into &ldquo;segments&rdquo;. A &ldquo;segment&rdquo; is a slice of your inventory with specific apps or ad units that can be targeted to specific countries and networks. It is a combination of three...]]></description>
    <pubDate>Mon, 21 Jul 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>AdMob Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/admob-revenue-reporting</link>
+   <description><![CDATA[Note: If you are using the updated version of AdMob, please follow the instructions at this link instead: http://help.mopub.com/customer/portal/articles/1376821-updating-admob-revenue-reporting In order to set up AdMob for ad network revenue reporting:&nbsp;You will need to enter your AdMob...]]></description>
+   <pubDate>Thu, 17 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
