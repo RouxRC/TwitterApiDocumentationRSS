@@ -4,12 +4,18 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 06 Aug 2014 23:30:05 +0200</pubDate>
+  <pubDate>Thu, 07 Aug 2014 03:00:03 +0200</pubDate>
   <generator>RouxRC</generator>
   <item>
    <title>IAB Attributes with Examples</title>
    <link>https://dev.twitter.com/docs/iab-attributes-examples</link>
-   <description><![CDATA[&nbsp; IAB Attributes with Examples &nbsp; Value Description Examples (where applicable) 1 Audio Ad (Auto Play) &nbsp; 2 Audio Ad (User Initiated) &nbsp; 3 Expandable (Automatic) &nbsp; 4 Expandable (User...]]></description>
+   <description><![CDATA[&nbsp; IAB Attributes with Examples The following list is derived from OpenRTB 2.1. The IAB taxonomy and standard are used for categorizing creatives. To assist you in better use of this taxonomy, MoPub has provided examples where applicable. For IAB Categories with Examples, see this article...]]></description>
+   <pubDate>Wed, 06 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>IAB Categorization with Examples</title>
+   <link>https://dev.twitter.com/docs/iab-categorization-examples</link>
+   <description><![CDATA[IAB Categorization with Examples The following list is derived from OpenRTB 2.1. The IAB taxonomy and standard is used for categorizing creatives. To assist you in better use of this taxonomy, MoPub has provided examples where applicable. For IAB Attributes with Examples, see this article...]]></description>
    <pubDate>Wed, 06 Aug 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
@@ -113,12 +119,6 @@
    <link>https://dev.twitter.com/docs/admob-revenue-reporting</link>
    <description><![CDATA[Note: If you are using the updated version of AdMob, please follow the instructions at this link instead: http://help.mopub.com/customer/portal/articles/1376821-updating-admob-revenue-reporting In order to set up AdMob for ad network revenue reporting:&nbsp;You will need to enter your AdMob...]]></description>
    <pubDate>Thu, 17 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Millennial InMobi Revenue Reporting</title>
-   <link>https://dev.twitter.com/docs/millennial-inmobi-revenue-reporting</link>
-   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. Revenue reporting requires the Millennial Username, Password. Your app name must also exactly match the app name in your Millennial dashboard....]]></description>
-   <pubDate>Wed, 16 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
