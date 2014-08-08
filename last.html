@@ -50,7 +50,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
          name="op"
          type="submit"
          value="Search"  />
-<input type="hidden" name="form_build_id" id="form-2ab537668fa5ea5f8f18599b6084f318" value="form-2ab537668fa5ea5f8f18599b6084f318"  />
+<input type="hidden" name="form_build_id" id="form-bb65d2a03ec1cb334d5021e50699277f" value="form-bb65d2a03ec1cb334d5021e50699277f"  />
 <input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form"  />
 
 </form>
@@ -77,6 +77,58 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutgoin
   </thead>
   <tbody>
           <tr class="odd views-row-first">
+                  <td class="views-field views-field-title">
+            <a href="/docs/creating-orders-line-items">Creating Orders &amp; Line Items</a>          </td>
+                  <td class="views-field views-field-body">
+            &nbsp;
+
+Clicking on &#39;Add a new Order&#39; will direct you to the Order &amp; Line Item page. Follow the steps below to create a new Order &amp; Line Item.
+
+&nbsp;
+
+
+	Name your Order, drop in the Advertiser, and a short description
+
+
+&nbsp;
+
+
+	You will then create your first Line Item for this...          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
+            <a href="/docs/what-order-line-item">What is an Order &amp; Line Item?</a>          </td>
+                  <td class="views-field views-field-body">
+            An Order is a a group of related Line Items, which are also known as campaigns. &nbsp;Line items are campaigns that have different targeting. &nbsp;For example, you receive a Coca-Cola Order for a 728x90 United States Campaign, a 320x50 UK campaign, and a 300x250 United States and UK campaign....          </td>
+              </tr>
+          <tr class="odd">
+                  <td class="views-field views-field-title">
+            <a href="/docs/dfp-integration-passing-key-values">DFP Integration: Passing Key Values</a>          </td>
+                  <td class="views-field views-field-body">
+            Passing Custom Key Values
+
+
+	Add request parameters in the form $dfp_request_parameter
+	DFP Support Links
+	
+		DFP API Integration Support Link
+		AdMob SDK Support Link
+		
+			Macros are strings of text that the DoubleClick ad server replaces with other strings of text according to a set of rules...          </td>
+              </tr>
+          <tr class="even">
+                  <td class="views-field views-field-title">
+            <a href="/docs/dfp-integration">DFP Integration</a>          </td>
+                  <td class="views-field views-field-body">
+            &nbsp;
+App Request url
+http://ads.mopub.com/m/ad?v=1&amp;tp=dfpm&amp;mr=1&amp;id=&lt;&lt;INSERT AD UNIT ID&gt;&gt;
+&nbsp;
+Mobile Web Request url
+http://ads.mopub.com/m/ad?v=1&amp;tp=dfpm&amp;mobile_web=1&amp;id=&lt;&lt;INSERT AD UNIT ID&gt;&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...          </td>
+              </tr>
+          <tr class="odd">
                   <td class="views-field views-field-title">
             <a href="/docs/mraid-20-support">MRAID 2.0 Support</a>          </td>
                   <td class="views-field views-field-body">
@@ -157,7 +209,7 @@ Check the specific creative you want to block and click the &lsquo;Block/Unblock
                   <td class="views-field views-field-body">
             The MoPub Marketplace is designed never to lose money for the publisher. The bid received through the marketplace is compared with the eCPM you receive from the ad networks that you have manually set in MoPub. If the Marketplace bid eCPM is higher than the network, the Marketplace ad is delivered....          </td>
               </tr>
-          <tr class="odd">
+          <tr class="odd views-row-last">
                   <td class="views-field views-field-title">
             <a href="/docs/marketplace-price-floors">Marketplace Price Floors</a>          </td>
                   <td class="views-field views-field-body">
@@ -228,36 +280,6 @@ Custom Native Networks: These are networks that you are integrating the...      
             The MoPub SDK can mediate any ad network through our server-to-server partners, adapters, and custom events capabilities. A full list of supported networks can be found here.
 
 We offer &#39;plug-and-play&#39; solutions for AdMob, iAd, Chartboost, and Millennial Media. To set these integrations up,...          </td>
-              </tr>
-          <tr class="odd views-row-last">
-                  <td class="views-field views-field-title">
-            <a href="/docs/resizing-iad-creative">Resizing iAd Creative</a>          </td>
-                  <td class="views-field views-field-body">
-            If the application is a universal application, there are some standard integration steps to help with resizing of the ad units, particularly when trying to lock down iAd ad sizes.&nbsp;
-
-&nbsp;
-
-By following the steps and using the code snippet below, you have the ability to lock down the native...          </td>
-              </tr>
-          <tr class="even">
-                  <td class="views-field views-field-title">
-            <a href="/docs/ios-ad-network-support">iOS Ad Network Support</a>          </td>
-                  <td class="views-field views-field-body">
-            The MoPub SDK can mediate any ad network through our server-to-server partners, adapters, and custom events capabilities. A full list of supported networks can be found here.
-
-We offer &#39;plug-and-play&#39; solutions for AdMob, iAd, Chartboost, and Millennial Media. To set these integrations up,...          </td>
-              </tr>
-          <tr class="odd">
-                  <td class="views-field views-field-title">
-            <a href="/docs/attempts-vs-requests">Attempts vs. Requests</a>          </td>
-                  <td class="views-field views-field-body">
-            When an ad is called, a request is logged within MoPub. An attempt is logged every time MoPub attempts an ad network. There can be several attempts made per request. For example, a request is made to MoPub. There are 3 ad networks that can fill this request. An attempt is made to each ad network...          </td>
-              </tr>
-          <tr class="even">
-                  <td class="views-field views-field-title">
-            <a href="/docs/prioritizing-networks">Prioritizing Networks</a>          </td>
-                  <td class="views-field views-field-body">
-            MoPub&rsquo;s ad server prioritizes campaigns by eCPM, allowing us to give more space to the networks that are performing well at this very moment. The system works like a waterfall &ndash; it will attempt to show ads to the highest eCPM ad network first, and if it cannot fill, will trickle down to...          </td>
               </tr>
       </tbody>
 </table>

@@ -4,8 +4,32 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 08 Aug 2014 09:15:03 +0200</pubDate>
+  <pubDate>Fri, 08 Aug 2014 09:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Creating Orders &amp; Line Items</title>
+   <link>https://dev.twitter.com/docs/creating-orders-line-items</link>
+   <description><![CDATA[&nbsp; Clicking on &#39;Add a new Order&#39; will direct you to the Order &amp; Line Item page. Follow the steps below to create a new Order &amp; Line Item. &nbsp; Name your Order, drop in the Advertiser, and a short description &nbsp; You will then create your first Line Item for this...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>What is an Order &amp; Line Item?</title>
+   <link>https://dev.twitter.com/docs/what-order-line-item</link>
+   <description><![CDATA[An Order is a a group of related Line Items, which are also known as campaigns. &nbsp;Line items are campaigns that have different targeting. &nbsp;For example, you receive a Coca-Cola Order for a 728x90 United States Campaign, a 320x50 UK campaign, and a 300x250 United States and UK campaign....]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>DFP Integration: Passing Key Values</title>
+   <link>https://dev.twitter.com/docs/dfp-integration-passing-key-values</link>
+   <description><![CDATA[Passing Custom Key Values Add request parameters in the form $dfp_request_parameter DFP Support Links DFP API Integration Support Link AdMob SDK Support Link Macros are strings of text that the DoubleClick ad server replaces with other strings of text according to a set of rules...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>DFP Integration</title>
+   <link>https://dev.twitter.com/docs/dfp-integration</link>
+   <description><![CDATA[&nbsp; App Request url http://ads.mopub.com/m/ad?v=1&amp;tp=dfpm&amp;mr=1&amp;id=&lt;&lt;INSERT AD UNIT ID&gt;&gt; &nbsp; Mobile Web Request url http://ads.mopub.com/m/ad?v=1&amp;tp=dfpm&amp;mobile_web=1&amp;id=&lt;&lt;INSERT AD UNIT ID&gt;&gt; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>MRAID 2.0 Support</title>
    <link>https://dev.twitter.com/docs/mraid-20-support</link>
@@ -100,30 +124,6 @@
    <title>Android Ad Network Support</title>
    <link>https://dev.twitter.com/docs/android-ad-network-support</link>
    <description><![CDATA[The MoPub SDK can mediate any ad network through our server-to-server partners, adapters, and custom events capabilities. A full list of supported networks can be found here. We offer &#39;plug-and-play&#39; solutions for AdMob, iAd, Chartboost, and Millennial Media. To set these integrations up,...]]></description>
-   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Resizing iAd Creative</title>
-   <link>https://dev.twitter.com/docs/resizing-iad-creative</link>
-   <description><![CDATA[If the application is a universal application, there are some standard integration steps to help with resizing of the ad units, particularly when trying to lock down iAd ad sizes.&nbsp; &nbsp; By following the steps and using the code snippet below, you have the ability to lock down the native...]]></description>
-   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>iOS Ad Network Support</title>
-   <link>https://dev.twitter.com/docs/ios-ad-network-support</link>
-   <description><![CDATA[The MoPub SDK can mediate any ad network through our server-to-server partners, adapters, and custom events capabilities. A full list of supported networks can be found here. We offer &#39;plug-and-play&#39; solutions for AdMob, iAd, Chartboost, and Millennial Media. To set these integrations up,...]]></description>
-   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Attempts vs. Requests</title>
-   <link>https://dev.twitter.com/docs/attempts-vs-requests</link>
-   <description><![CDATA[When an ad is called, a request is logged within MoPub. An attempt is logged every time MoPub attempts an ad network. There can be several attempts made per request. For example, a request is made to MoPub. There are 3 ad networks that can fill this request. An attempt is made to each ad network...]]></description>
-   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Prioritizing Networks</title>
-   <link>https://dev.twitter.com/docs/prioritizing-networks</link>
-   <description><![CDATA[MoPub&rsquo;s ad server prioritizes campaigns by eCPM, allowing us to give more space to the networks that are performing well at this very moment. The system works like a waterfall &ndash; it will attempt to show ads to the highest eCPM ad network first, and if it cannot fill, will trickle down to...]]></description>
    <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
