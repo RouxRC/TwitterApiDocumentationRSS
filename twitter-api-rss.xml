@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 08 Aug 2014 19:45:02 +0200</pubDate>
+  <pubDate>Fri, 08 Aug 2014 20:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>MoPub OpenRTB 2.1 Specification</title>
+   <link>https://dev.twitter.com/mopub/openrtb-21-specification</link>
+   <description><![CDATA[Updated August 4,2014 1. Overview MoPub RTB is a way for DSPs and advertisers to bid on each ad impression where the winning bid will pay the second-highest price in the auction.  This protocol is largely based on the OpenRTB 2.1 specification.   Note that our adaptation may require certain...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Marketplace Payments</title>
    <link>https://dev.twitter.com/docs/marketplace-payments</link>
@@ -118,12 +124,6 @@
    <title>Progress &amp; Pacing Indicator</title>
    <link>https://dev.twitter.com/docs/progress-pacing-indicator</link>
    <description><![CDATA[The progress indicator is located inside the pillbox and displays delivery of the entire campaign impression goal &nbsp; The pacing indicator displays the current pace of the campaign and the expected final delivery for the campaign &nbsp; &nbsp;]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Budgeting &amp; Creating Roadblocks</title>
-   <link>https://dev.twitter.com/docs/budgeting-creating-roadblocks</link>
-   <description><![CDATA[In order to prevent any issues with the budgeting system, we recommend that publishers do not change the impression budgeting amount once a campaign has been set live. &nbsp;If a publisher changes the &lsquo;impressions/day&rsquo; or &lsquo;total impression&rsquo; during a live campaign, this could...]]></description>
    <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
