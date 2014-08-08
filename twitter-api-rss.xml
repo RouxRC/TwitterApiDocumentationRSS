@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 08 Aug 2014 08:00:03 +0200</pubDate>
+  <pubDate>Fri, 08 Aug 2014 08:15:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Prioritizing Networks</title>
+   <link>https://dev.twitter.com/docs/prioritizing-networks</link>
+   <description><![CDATA[MoPub&rsquo;s ad server prioritizes campaigns by eCPM, allowing us to give more space to the networks that are performing well at this very moment. The system works like a waterfall &ndash; it will attempt to show ads to the highest eCPM ad network first, and if it cannot fill, will trickle down to...]]></description>
+   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Setting Up Ad Network IDs</title>
+   <link>https://dev.twitter.com/docs/setting-ad-network-ids</link>
+   <description><![CDATA[Each of the ad networks will provide you a unique ID that you will enter next to your applications when creating a new network order. Below you will find where you can find each of those IDs for AdMob, AdSense, TapIt, InMobi, Jumptap, Millennial Media, Mojiva S2S &amp; MobFox.]]></description>
+   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Ad Networks FAQ</title>
    <link>https://dev.twitter.com/docs/ad-networks-faq</link>
@@ -107,18 +119,6 @@
    <link>https://dev.twitter.com/docs/cards/getting-started</link>
    <description><![CDATA[Getting Started with Cards Card and Content Attribution URL Crawling &amp; Caching Multiple URLs in a Tweet Twitter Cards and Open Graph Getting Started with Cards To get started with implementing the Cards markup, you'll want to specify the type of card for your content by adding...]]></description>
    <pubDate>Wed, 23 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Server to Server Network Support</title>
-   <link>https://dev.twitter.com/docs/server-server-network-support</link>
-   <description><![CDATA[MoPub provides Server to Server integrations with the following networks: &nbsp; Jumptap &nbsp; InMobi &nbsp; MobFox &nbsp; Tapit &nbsp; Mojiva&nbsp; &nbsp; Huntmads &nbsp; This means that there is no additional development work required. Once you have created an account with a...]]></description>
-   <pubDate>Mon, 21 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Create and Manage a Segment (Ad Networks)</title>
-   <link>https://dev.twitter.com/docs/create-and-manage-segment-ad-networks</link>
-   <description><![CDATA[Segments Overview MoPub&rsquo;s network management interface allows you to group your inventory into &ldquo;segments&rdquo;. A &ldquo;segment&rdquo; is a slice of your inventory with specific apps or ad units that can be targeted to specific countries and networks. It is a combination of three...]]></description>
-   <pubDate>Mon, 21 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
