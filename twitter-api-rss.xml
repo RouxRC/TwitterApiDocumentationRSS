@@ -4,8 +4,44 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 08 Aug 2014 10:45:03 +0200</pubDate>
+  <pubDate>Fri, 08 Aug 2014 11:00:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Simple Ads Demo - Android (3/3): Testing JavaScript/MRAID Ad Tags</title>
+   <link>https://dev.twitter.com/docs/simple-ads-demo-android-33-testing-javascriptmraid-ad-tags</link>
+   <description><![CDATA[Testing JavaScript/MRAID Ad Tags create a new Order - &lsquo;TestOrder1&rsquo; within TestOrder1 create a new line item - &lsquo;TestLineItem1&rsquo; when creating TestLineItem1, be sure to target your desired test AdUnit (recommended to create a new AdUnit - &lsquo;...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Simple Ads Demo - Android (2/3): Testing a Specific Ad Unit</title>
+   <link>https://dev.twitter.com/docs/simple-ads-demo-android-23-testing-specific-ad-unit</link>
+   <description><![CDATA[Testing a specific Ad Unit&nbsp; Pull the Ad Unit ID that you want to test Click on &lsquo;Code Integration&rsquo; button&nbsp;and the ad unit ID will be shown in the new window Copy the ad unit displayed &nbsp; Open SimpleAdsDemo in Eclipse navigate to...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Simple Ads Demo - Android (1/3): Opening in Eclipse</title>
+   <link>https://dev.twitter.com/docs/simple-ads-demo-android-13-opening-eclipse</link>
+   <description><![CDATA[​This is the first help article in the &#39;Simple Ads Demo - Android&#39; series. This series will walk you through the process of setting up MoPub&#39;s Simple Ads Demo application on your computer/device as well as guide you through 3rd party (AdMob/Millennial) SDK integration. This will enable...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Simple Ads Demo - iOS (3/3): Testing JavaScript/MRAID Ad Tags</title>
+   <link>https://dev.twitter.com/docs/simple-ads-demo-ios-33-testing-javascriptmraid-ad-tags</link>
+   <description><![CDATA[Testing JavaScript/MRAID Ad Tags Create a new order - &lsquo;TestOrder1&rsquo;​ Within TestOrder1 create a new Line Item - &lsquo;TestLineItem1&rsquo; When configuring this new Line ItemTestLineItem1, ensure that the AdUnit you intend on testing is properly targeted&nbsp;(It is highly...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Simple Ads Demo - iOS (2/3): Testing a Specific Ad Unit</title>
+   <link>https://dev.twitter.com/docs/simple-ads-demo-ios-23-testing-specific-ad-unit</link>
+   <description><![CDATA[Testing a specific Ad Unit - iOS: &nbsp; &nbsp; &nbsp;1)&nbsp;Retrieve&nbsp;the ad unit ID that you want to test.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a)&nbsp;Click on &lsquo;Code Integration&rsquo; button to display your ad unit id &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; b...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Simple Ads Demo - iOS (1/3): Opening in Xcode</title>
+   <link>https://dev.twitter.com/docs/simple-ads-demo-ios-13-opening-xcode</link>
+   <description><![CDATA[This is the first help article in the &#39;Simple Ads Demo - iOS&#39; series. This series will walk you through the process of setting up MoPub&#39;s Simple Ads Demo application on your computer/device. This will enable you to quickly test various creatives, ad units and network settings in a live...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>How to Create a Direct Native Ads Campaign</title>
    <link>https://dev.twitter.com/docs/how-create-direct-native-ads-campaign</link>
@@ -88,42 +124,6 @@
    <title>Editing an Order</title>
    <link>https://dev.twitter.com/docs/editing-order</link>
    <description><![CDATA[This page allows you to edit the Order description, export Order details, and monitor overall performance. &nbsp; This page allows you to pause, resume, archive, or create a Line Item. &nbsp; The &lsquo;Show&rdquo; button allows you to segment the type of Line Items you are view on the...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Using Rich Media Creative</title>
-   <link>https://dev.twitter.com/docs/using-rich-media-creative</link>
-   <description><![CDATA[&nbsp; To implement a rich media creative, select HTML at the Creative File Type, drop in the HTML rich media tag in the HTML body, and select MRAID ad when applicable. &nbsp; MoPub supports the following rich media vendors:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Celtra...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Setting Up Conversion Tracking</title>
-   <link>https://dev.twitter.com/docs/setting-conversion-tracking</link>
-   <description><![CDATA[Conversion tracking is used to properly measure the effectiveness of cross-promotions and direct sold advertisements. &nbsp;Therefore, we recommend that publishers always implement conversion tracking. The conversion tracking network event only happens once-- a file is stored on device so that the...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Centering Tags</title>
-   <link>https://dev.twitter.com/docs/centering-tags</link>
-   <description><![CDATA[If you implement a tag, and the ad is not centering, you have the ability to center the tag. &nbsp;For example, if you created a Guaranteed campaign and implemented a 300x250 Javascript tag, but the ad is justified to the left, you should wrap the tag in center tags. &nbsp;This is done by including...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Adding Creative to Line Items</title>
-   <link>https://dev.twitter.com/docs/adding-creative-line-items</link>
-   <description><![CDATA[&nbsp; After you have created your guaranteed, promotional or backfill promotional Line Items, MoPub will ask you to add creative. &nbsp;If at any time you would like to add an additional creative, simply click on &lsquo;Add a Creative&rsquo; icon on the right hand side.&nbsp; &nbsp; To add a...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Advanced Targeting</title>
-   <link>https://dev.twitter.com/docs/advanced-targeting</link>
-   <description><![CDATA[When you create a new line item (and when editing line items) you have the ability to use &lsquo;Advanced Targeting&rsquo;. &nbsp; Allocation Percentage: Under &lsquo;Advanced Targeting&rsquo; you can allocate the percentage of requests you are sending to the Line Item, frequency cap, user target...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Geo, Connectivity, and Device Targeting</title>
-   <link>https://dev.twitter.com/docs/geo-connectivity-and-device-targeting</link>
-   <description><![CDATA[When you create a new line item (and when editing line items) there are several targeting options available. Please note that you must always target an ad unit when creating a Line Item. &nbsp; County Targeting: &nbsp; Target your line item to a specific set of countries. By default, when the...]]></description>
    <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
