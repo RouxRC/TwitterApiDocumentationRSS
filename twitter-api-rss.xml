@@ -4,8 +4,50 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 08 Aug 2014 10:00:02 +0200</pubDate>
+  <pubDate>Fri, 08 Aug 2014 10:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Integer Priority Levels</title>
+   <link>https://dev.twitter.com/docs/integer-priority-levels</link>
+   <description><![CDATA[Integer Priority Levels enables publishers to assign priority levels to line items in their waterfall independent of the Line Item Type.&nbsp;Line Item Type and Priority are now independent from each other. How are Line Items Prioritized Using Integer Priority Levels? You can now edit the...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Linking Line Items Directly to In-App Purchases</title>
+   <link>https://dev.twitter.com/docs/linking-line-items-directly-app-purchases</link>
+   <description><![CDATA[To have the click through of ads go to an in-app purchase, you&#39;ll need to set up a custom URI scheme. Once you do that, all you have to do is drop the custom URI into the click through URL field of the creative. Additional documentation on how to create a custom URI can be found here.]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>MoPub Macros</title>
+   <link>https://dev.twitter.com/docs/mopub-macros</link>
+   <description><![CDATA[MoPub supports the following macros for a publisher&rsquo;s 3rd party ad tags and trackers: &nbsp; Click URL (Unescaped): &nbsp;%%CLICK_URL_UNESC%%&nbsp; &nbsp; Click URL (Escaped): &nbsp;%%CLICK_URL_ESC%% &nbsp; Cache Buster (Generates a random number): %%CACHEBUSTER%% &nbsp; Ad...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Progress &amp; Pacing Indicator</title>
+   <link>https://dev.twitter.com/docs/progress-pacing-indicator</link>
+   <description><![CDATA[The progress indicator is located inside the pillbox and displays delivery of the entire campaign impression goal &nbsp; The pacing indicator displays the current pace of the campaign and the expected final delivery for the campaign &nbsp; &nbsp;]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Budgeting &amp; Creating Roadblocks</title>
+   <link>https://dev.twitter.com/docs/budgeting-creating-roadblocks</link>
+   <description><![CDATA[In order to prevent any issues with the budgeting system, we recommend that publishers do not change the impression budgeting amount once a campaign has been set live. &nbsp;If a publisher changes the &lsquo;impressions/day&rsquo; or &lsquo;total impression&rsquo; during a live campaign, this could...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Editing a Line Item</title>
+   <link>https://dev.twitter.com/docs/editing-line-item</link>
+   <description><![CDATA[This page allows you to take a detailed look at a specific Line Item.&nbsp; &nbsp; The overall Line Item can be edited by clicking &lsquo;Edit Line Item&rsquo;. &nbsp; Line Items can be paused, resumed, archived, or deleted. &nbsp; On this page, you can add creative by clicking on...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Editing an Order</title>
+   <link>https://dev.twitter.com/docs/editing-order</link>
+   <description><![CDATA[This page allows you to edit the Order description, export Order details, and monitor overall performance. &nbsp; This page allows you to pause, resume, archive, or create a Line Item. &nbsp; The &lsquo;Show&rdquo; button allows you to segment the type of Line Items you are view on the...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Using Rich Media Creative</title>
    <link>https://dev.twitter.com/docs/using-rich-media-creative</link>
@@ -83,48 +125,6 @@
    <link>https://dev.twitter.com/docs/setting-mopub-mobile-web-tags</link>
    <description><![CDATA[See here for detailed instructions for implementing MoPub in Mobile Web: &nbsp; https://github.com/mopub/mopub-client/wiki/IntegrationHowToMobileWeb]]></description>
    <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Android Integration</title>
-   <link>https://dev.twitter.com/docs/android-integration</link>
-   <description><![CDATA[See here for detailed instructions for integrating into Android applications: https://github.com/mopub/mopub-android-sdk/wiki/Getting-Started ​This includes documentation on conversion tracking, native SDK integration, custom events, keyword targeting, and passing location.]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>iOS Integration</title>
-   <link>https://dev.twitter.com/docs/ios-integration</link>
-   <description><![CDATA[See here for detailed instructions for integrating into iOS applications: https://github.com/mopub/mopub-ios-sdk/wiki This includes documentation on conversion tracking, native SDK integration,&nbsp;custom events, keyword targeting, and passing location. &nbsp;]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Blocking Specific Creatives</title>
-   <link>https://dev.twitter.com/docs/blocking-specific-creatives</link>
-   <description><![CDATA[Individual creatives can be blocked on the &lsquo;Creative Review&rsquo; Tab under the &lsquo;Marketplace&rsquo; Tab. Check the specific creative you want to block and click the &lsquo;Block/Unblock&rsquo; button. A drop down will show with the options Block Creative ID, Block Advertiser URL,...]]></description>
-   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Marketplace Revenue Displayed in the Dashboard Different from Payment</title>
-   <link>https://dev.twitter.com/docs/marketplace-revenue-displayed-dashboard-different-payment</link>
-   <description><![CDATA[The revenues and other data displayed in the Marketplace dashboard may be different than the final payment. &nbsp;There are several reasons for this. &nbsp;The values shown in the dashboard are based on real-time data feed. &nbsp;At the end of the processing period, MoPub will look at the actual...]]></description>
-   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Marketplace Payments</title>
-   <link>https://dev.twitter.com/docs/marketplace-payments</link>
-   <description><![CDATA[The MoPub Marketplace is designed never to lose money for the publisher. The bid received through the marketplace is compared with the eCPM you receive from the ad networks that you have manually set in MoPub. If the Marketplace bid eCPM is higher than the network, the Marketplace ad is delivered....]]></description>
-   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>How the Marketplace Competes with Ad Networks</title>
-   <link>https://dev.twitter.com/docs/how-marketplace-competes-ad-networks</link>
-   <description><![CDATA[The MoPub Marketplace is designed never to lose money for the publisher. The bid received through the marketplace is compared with the eCPM you receive from the ad networks that you have manually set in MoPub. If the Marketplace bid eCPM is higher than the network, the Marketplace ad is delivered....]]></description>
-   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Marketplace Price Floors</title>
-   <link>https://dev.twitter.com/docs/marketplace-price-floors</link>
-   <description><![CDATA[A price floor is the minimum price that you&rsquo;re willing to be paid for an impression from the Marketplace. For example, if you receive offers for ads that have a $0.50 CPM, but your price floor is $0.60 then those ads will not show. To have different price floors for different inventory, you...]]></description>
-   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
