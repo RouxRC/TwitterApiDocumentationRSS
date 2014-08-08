@@ -4,8 +4,32 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 08 Aug 2014 09:30:03 +0200</pubDate>
+  <pubDate>Fri, 08 Aug 2014 09:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Adding Creative to Line Items</title>
+   <link>https://dev.twitter.com/docs/adding-creative-line-items</link>
+   <description><![CDATA[&nbsp; After you have created your guaranteed, promotional or backfill promotional Line Items, MoPub will ask you to add creative. &nbsp;If at any time you would like to add an additional creative, simply click on &lsquo;Add a Creative&rsquo; icon on the right hand side.&nbsp; &nbsp; To add a...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Advanced Targeting</title>
+   <link>https://dev.twitter.com/docs/advanced-targeting</link>
+   <description><![CDATA[When you create a new line item (and when editing line items) you have the ability to use &lsquo;Advanced Targeting&rsquo;. &nbsp; Allocation Percentage: Under &lsquo;Advanced Targeting&rsquo; you can allocate the percentage of requests you are sending to the Line Item, frequency cap, user target...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Geo, Connectivity, and Device Targeting</title>
+   <link>https://dev.twitter.com/docs/geo-connectivity-and-device-targeting</link>
+   <description><![CDATA[When you create a new line item (and when editing line items) there are several targeting options available. Please note that you must always target an ad unit when creating a Line Item. &nbsp; County Targeting: &nbsp; Target your line item to a specific set of countries. By default, when the...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Managing Orders &amp; Line Items</title>
+   <link>https://dev.twitter.com/docs/managing-orders-line-items</link>
+   <description><![CDATA[&nbsp; You can manage your Orders &amp; Line Items directly from the Orders page. &nbsp; Checking the box next to each of the Orders allows you to pause, resume, and archive. &nbsp; The Quick Jump button allows you to quickly jump between different Orders and Line Items &nbsp;...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Creating Orders &amp; Line Items</title>
    <link>https://dev.twitter.com/docs/creating-orders-line-items</link>
@@ -100,30 +124,6 @@
    <title>Turning the Marketplace On</title>
    <link>https://dev.twitter.com/docs/turning-marketplace</link>
    <description><![CDATA[Go to the Marketplace tab &nbsp; Click the &ldquo;On&rdquo; switch &nbsp; Turn on all applications and ad units you want to participate in the Marketplace &mdash; There is no reason to have these deactivated &nbsp; Set your price floors&mdash;the minimum price that you&rsquo;re...]]></description>
-   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>MoPub Marketplace FAQ</title>
-   <link>https://dev.twitter.com/docs/mopub-marketplace-faq</link>
-   <description><![CDATA[What is the MoPub Marketplace? The MoPub Marketplace is a self-service, real-time bidding exchange for mobile apps and web sites. It enables publishers like you to plug in to more demand sources on the MoPub platform. You can think of a real-time bidding exchange like a real time auction where...]]></description>
-   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Ad Network Discrepancies</title>
-   <link>https://dev.twitter.com/docs/ad-network-discrepancies</link>
-   <description><![CDATA[The normal range for discrepancies are 5-10%. You should be concerned if discrepancies are 15%+. Below are the different circumstances as to why you may be experiencing discpreancies and the parties responsible for resolving. Custom Native Networks: These are networks that you are integrating the...]]></description>
-   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Mobile Web Ad Network Support</title>
-   <link>https://dev.twitter.com/docs/mobile-web-ad-network-support</link>
-   <description><![CDATA[Please note that Mobile Web does not support any Native Networks]]></description>
-   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Android Ad Network Support</title>
-   <link>https://dev.twitter.com/docs/android-ad-network-support</link>
-   <description><![CDATA[The MoPub SDK can mediate any ad network through our server-to-server partners, adapters, and custom events capabilities. A full list of supported networks can be found here. We offer &#39;plug-and-play&#39; solutions for AdMob, iAd, Chartboost, and Millennial Media. To set these integrations up,...]]></description>
    <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
