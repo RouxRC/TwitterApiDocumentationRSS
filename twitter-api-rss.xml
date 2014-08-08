@@ -4,8 +4,32 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 08 Aug 2014 09:00:03 +0200</pubDate>
+  <pubDate>Fri, 08 Aug 2014 09:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>MRAID 2.0 Support</title>
+   <link>https://dev.twitter.com/docs/mraid-20-support</link>
+   <description><![CDATA[What is MRAID 2.0? MRAID (Mobile Rich-Media Ad Interface Definitions), is a framework for mobile advertisers and publishers that allows rich media ad creatives to run across all compliant devices and applications. It is a standard developed by the Internet Advertising Bureau (IAB) in late 2011....]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Setting Up MoPub Mobile Web Tags</title>
+   <link>https://dev.twitter.com/docs/setting-mopub-mobile-web-tags</link>
+   <description><![CDATA[See here for detailed instructions for implementing MoPub in Mobile Web: &nbsp; https://github.com/mopub/mopub-client/wiki/IntegrationHowToMobileWeb]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Android Integration</title>
+   <link>https://dev.twitter.com/docs/android-integration</link>
+   <description><![CDATA[See here for detailed instructions for integrating into Android applications: https://github.com/mopub/mopub-android-sdk/wiki/Getting-Started ​This includes documentation on conversion tracking, native SDK integration, custom events, keyword targeting, and passing location.]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>iOS Integration</title>
+   <link>https://dev.twitter.com/docs/ios-integration</link>
+   <description><![CDATA[See here for detailed instructions for integrating into iOS applications: https://github.com/mopub/mopub-ios-sdk/wiki This includes documentation on conversion tracking, native SDK integration,&nbsp;custom events, keyword targeting, and passing location. &nbsp;]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Blocking Specific Creatives</title>
    <link>https://dev.twitter.com/docs/blocking-specific-creatives</link>
@@ -101,30 +125,6 @@
    <link>https://dev.twitter.com/docs/prioritizing-networks</link>
    <description><![CDATA[MoPub&rsquo;s ad server prioritizes campaigns by eCPM, allowing us to give more space to the networks that are performing well at this very moment. The system works like a waterfall &ndash; it will attempt to show ads to the highest eCPM ad network first, and if it cannot fill, will trickle down to...]]></description>
    <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Setting Up Ad Network IDs</title>
-   <link>https://dev.twitter.com/docs/setting-ad-network-ids</link>
-   <description><![CDATA[Each of the ad networks will provide you a unique ID that you will enter next to your applications when creating a new network order. Below you will find where you can find each of those IDs for AdMob, AdSense, TapIt, InMobi, Jumptap, Millennial Media, Mojiva S2S &amp; MobFox.]]></description>
-   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Ad Networks FAQ</title>
-   <link>https://dev.twitter.com/docs/ad-networks-faq</link>
-   <description><![CDATA[What networks does MoPub support? MoPub supports dozens of the most popular ad networks via server-to-server connections. For a list of standard supported networks, visit here.&nbsp;In addition to these networks, you can set up any network on MoPub via a &quot;Custom Event&quot;.&nbsp;These...]]></description>
-   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>IAB Attributes with Examples</title>
-   <link>https://dev.twitter.com/docs/iab-attributes-examples</link>
-   <description><![CDATA[&nbsp; IAB Attributes with Examples The following list is derived from OpenRTB 2.1. The IAB taxonomy and standard are used for categorizing creatives. To assist you in better use of this taxonomy, MoPub has provided examples where applicable. For IAB Categories with Examples, see this article...]]></description>
-   <pubDate>Wed, 06 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>IAB Categorization with Examples</title>
-   <link>https://dev.twitter.com/docs/iab-categorization-examples</link>
-   <description><![CDATA[IAB Categorization with Examples The following list is derived from OpenRTB 2.1. The IAB taxonomy and standard is used for categorizing creatives. To assist you in better use of this taxonomy, MoPub has provided examples where applicable. For IAB Attributes with Examples, see this article...]]></description>
-   <pubDate>Wed, 06 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
