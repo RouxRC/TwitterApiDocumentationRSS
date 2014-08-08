@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 08 Aug 2014 19:30:03 +0200</pubDate>
+  <pubDate>Fri, 08 Aug 2014 19:45:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Marketplace Payments</title>
+   <link>https://dev.twitter.com/docs/marketplace-payments</link>
+   <description><![CDATA[The revenues and other data displayed in the Marketplace dashboard may be different than the final payment. &nbsp;There are several reasons for this. &nbsp;The values shown in the dashboard are based on real-time data feed. &nbsp;At the end of the processing period, MoPub will look at the actual...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Marketplace Video</title>
    <link>https://dev.twitter.com/docs/marketplace-video</link>
@@ -118,12 +124,6 @@
    <title>Budgeting &amp; Creating Roadblocks</title>
    <link>https://dev.twitter.com/docs/budgeting-creating-roadblocks</link>
    <description><![CDATA[In order to prevent any issues with the budgeting system, we recommend that publishers do not change the impression budgeting amount once a campaign has been set live. &nbsp;If a publisher changes the &lsquo;impressions/day&rsquo; or &lsquo;total impression&rsquo; during a live campaign, this could...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Editing a Line Item</title>
-   <link>https://dev.twitter.com/docs/editing-line-item</link>
-   <description><![CDATA[This page allows you to take a detailed look at a specific Line Item.&nbsp; &nbsp; The overall Line Item can be edited by clicking &lsquo;Edit Line Item&rsquo;. &nbsp; Line Items can be paused, resumed, archived, or deleted. &nbsp; On this page, you can add creative by clicking on...]]></description>
    <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
