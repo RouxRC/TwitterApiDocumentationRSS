@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 08 Aug 2014 23:00:03 +0200</pubDate>
+  <pubDate>Fri, 08 Aug 2014 23:15:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Self-Testing Your Creatives with the MoPub SDK and SimpleAdsDemo Sample App</title>
+   <link>https://dev.twitter.com/docs/self-testing-your-creatives-mopub-sdk-and-simpleadsdemo-sample-app</link>
+   <description><![CDATA[This tutorial is a step-by-step guide that shows you how to self-test your creatives using the SimpleAds Demo app. Self Testing with the MoPub SDK and Simple Ads Demo App What: SimpleAds Demo is a mobile application for iOS and Android that demonstrates how live tags would render/behave on MoPub...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Setting Up Custom URIs</title>
    <link>https://dev.twitter.com/docs/setting-custom-uris</link>
@@ -118,12 +124,6 @@
    <title>Linking Line Items Directly to In-App Purchases</title>
    <link>https://dev.twitter.com/docs/linking-line-items-directly-app-purchases</link>
    <description><![CDATA[To have the click through of ads go to an in-app purchase, you&#39;ll need to set up a custom URI scheme. Once you do that, all you have to do is drop the custom URI into the click through URL field of the creative. Additional documentation on how to create a custom URI can be found here.]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>MoPub Macros</title>
-   <link>https://dev.twitter.com/docs/mopub-macros</link>
-   <description><![CDATA[MoPub supports the following macros for a publisher&rsquo;s 3rd party ad tags and trackers: &nbsp; Click URL (Unescaped): &nbsp;%%CLICK_URL_UNESC%%&nbsp; &nbsp; Click URL (Escaped): &nbsp;%%CLICK_URL_ESC%% &nbsp; Cache Buster (Generates a random number): %%CACHEBUSTER%% &nbsp; Ad...]]></description>
    <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
