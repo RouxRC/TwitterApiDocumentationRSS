@@ -4,8 +4,32 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 08 Aug 2014 08:30:03 +0200</pubDate>
+  <pubDate>Fri, 08 Aug 2014 08:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Marketplace Content Filtering</title>
+   <link>https://dev.twitter.com/docs/marketplace-content-filtering</link>
+   <description><![CDATA[Publishers can customize the type of ads that are served in their apps and sites by using the Content Filtering controls. &nbsp;Publishers can set the filtering level from Strict, Moderate, Low and No Filtering. &nbsp;Lowering the content filtering usually results in stronger fill and higher CPMs....]]></description>
+   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Blocking Advertisers on the Marketplace</title>
+   <link>https://dev.twitter.com/docs/blocking-advertisers-marketplace</link>
+   <description><![CDATA[A blocklist allows you to block specific creative and advertisers from displaying ads on your apps. The blocklist can be found on the &ldquo;Settings&rdquo; tab within the Marketplace page. Particular advertisers can be blocked by adding the domain name (advertiser URL) of the advertiser to the...]]></description>
+   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Turning the Marketplace On</title>
+   <link>https://dev.twitter.com/docs/turning-marketplace</link>
+   <description><![CDATA[Go to the Marketplace tab &nbsp; Click the &ldquo;On&rdquo; switch &nbsp; Turn on all applications and ad units you want to participate in the Marketplace &mdash; There is no reason to have these deactivated &nbsp; Set your price floors&mdash;the minimum price that you&rsquo;re...]]></description>
+   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>MoPub Marketplace FAQ</title>
+   <link>https://dev.twitter.com/docs/mopub-marketplace-faq</link>
+   <description><![CDATA[What is the MoPub Marketplace? The MoPub Marketplace is a self-service, real-time bidding exchange for mobile apps and web sites. It enables publishers like you to plug in to more demand sources on the MoPub platform. You can think of a real-time bidding exchange like a real time auction where...]]></description>
+   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Ad Network Discrepancies</title>
    <link>https://dev.twitter.com/docs/ad-network-discrepancies</link>
@@ -95,30 +119,6 @@
    <link>https://dev.twitter.com/docs/api/1.1/get/geo/similar_places</link>
    <description><![CDATA[Locates places near the given coordinates which are similar in name.]]></description>
    <pubDate></pubDate>
-  </item>
-  <item>
-   <title>Integrating with Twitter on iOS</title>
-   <link>https://dev.twitter.com/docs/ios</link>
-   <description><![CDATA[The official iOS SDK includes a framework that enables your iOS applications to leverage the power of Twitter. This framework removes many of the common obstacles encountered when accessing Twitter's API, including authentication and Tweet composition, and allows developers to focus on more...]]></description>
-   <pubDate>Wed, 30 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Connecting to Twitter API using SSL</title>
-   <link>https://dev.twitter.com/docs/security/using-ssl</link>
-   <description><![CDATA[Currently, only SSL connections are allowed in Twitter API endpoints. Communicating over SSL preserves user privacy by protecting information between the user and the Twitter API as it travels across the public Internet. Using OAuth isn't enough While OAuth is mandated and protects the user...]]></description>
-   <pubDate>Tue, 29 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Scripting: Factory Functions</title>
-   <link>https://dev.twitter.com/docs/tfw/factories</link>
-   <description><![CDATA[By using Twitter Javascript, you agree to the Developer Rules of the Road. If you're integrating your site with Twitter using Twitter for Websites and Web Intents, you can dynamically generate widgets using JavaScript functions. Twitter for Websites products—Tweet buttons, Follow buttons,...]]></description>
-   <pubDate>Mon, 28 Jul 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Single-user OAuth with Examples</title>
-   <link>https://dev.twitter.com/docs/auth/oauth/single-user-with-examples</link>
-   <description><![CDATA[Please note: Most developers will find working with Application-only authentication a superior approach than what is documented below. Twitter offers the ability for you to retrieve a single access token (complete with oauth_token_secret) from application detail pages found on dev.twitter.com....]]></description>
-   <pubDate>Mon, 28 Jul 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
