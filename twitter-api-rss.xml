@@ -4,8 +4,26 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 08 Aug 2014 09:45:03 +0200</pubDate>
+  <pubDate>Fri, 08 Aug 2014 10:00:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Using Rich Media Creative</title>
+   <link>https://dev.twitter.com/docs/using-rich-media-creative</link>
+   <description><![CDATA[&nbsp; To implement a rich media creative, select HTML at the Creative File Type, drop in the HTML rich media tag in the HTML body, and select MRAID ad when applicable. &nbsp; MoPub supports the following rich media vendors:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Celtra...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Setting Up Conversion Tracking</title>
+   <link>https://dev.twitter.com/docs/setting-conversion-tracking</link>
+   <description><![CDATA[Conversion tracking is used to properly measure the effectiveness of cross-promotions and direct sold advertisements. &nbsp;Therefore, we recommend that publishers always implement conversion tracking. The conversion tracking network event only happens once-- a file is stored on device so that the...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Centering Tags</title>
+   <link>https://dev.twitter.com/docs/centering-tags</link>
+   <description><![CDATA[If you implement a tag, and the ad is not centering, you have the ability to center the tag. &nbsp;For example, if you created a Guaranteed campaign and implemented a 300x250 Javascript tag, but the ad is justified to the left, you should wrap the tag in center tags. &nbsp;This is done by including...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Adding Creative to Line Items</title>
    <link>https://dev.twitter.com/docs/adding-creative-line-items</link>
@@ -106,24 +124,6 @@
    <title>Marketplace Price Floors</title>
    <link>https://dev.twitter.com/docs/marketplace-price-floors</link>
    <description><![CDATA[A price floor is the minimum price that you&rsquo;re willing to be paid for an impression from the Marketplace. For example, if you receive offers for ads that have a $0.50 CPM, but your price floor is $0.60 then those ads will not show. To have different price floors for different inventory, you...]]></description>
-   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Marketplace Content Filtering</title>
-   <link>https://dev.twitter.com/docs/marketplace-content-filtering</link>
-   <description><![CDATA[Publishers can customize the type of ads that are served in their apps and sites by using the Content Filtering controls. &nbsp;Publishers can set the filtering level from Strict, Moderate, Low and No Filtering. &nbsp;Lowering the content filtering usually results in stronger fill and higher CPMs....]]></description>
-   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Blocking Advertisers on the Marketplace</title>
-   <link>https://dev.twitter.com/docs/blocking-advertisers-marketplace</link>
-   <description><![CDATA[A blocklist allows you to block specific creative and advertisers from displaying ads on your apps. The blocklist can be found on the &ldquo;Settings&rdquo; tab within the Marketplace page. Particular advertisers can be blocked by adding the domain name (advertiser URL) of the advertiser to the...]]></description>
-   <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Turning the Marketplace On</title>
-   <link>https://dev.twitter.com/docs/turning-marketplace</link>
-   <description><![CDATA[Go to the Marketplace tab &nbsp; Click the &ldquo;On&rdquo; switch &nbsp; Turn on all applications and ad units you want to participate in the Marketplace &mdash; There is no reason to have these deactivated &nbsp; Set your price floors&mdash;the minimum price that you&rsquo;re...]]></description>
    <pubDate>Thu, 07 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
