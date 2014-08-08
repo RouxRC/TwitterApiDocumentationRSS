@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 08 Aug 2014 10:30:02 +0200</pubDate>
+  <pubDate>Fri, 08 Aug 2014 10:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>How to Create a Direct Native Ads Campaign</title>
+   <link>https://dev.twitter.com/docs/how-create-direct-native-ads-campaign</link>
+   <description><![CDATA[Create an Ad Unit for your native ad &nbsp; Typically, you will create one Ad Unit per type of ad you&rsquo;d like to display in an app. For example, if you want to have a banner ad on one screen and a native ad in another, you&rsquo;d create an Ad Unit for each type. You can create a new &ldquo;...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Generating Ad Unit Code for Integration</title>
    <link>https://dev.twitter.com/docs/generating-ad-unit-code-integration</link>
@@ -118,12 +124,6 @@
    <title>Geo, Connectivity, and Device Targeting</title>
    <link>https://dev.twitter.com/docs/geo-connectivity-and-device-targeting</link>
    <description><![CDATA[When you create a new line item (and when editing line items) there are several targeting options available. Please note that you must always target an ad unit when creating a Line Item. &nbsp; County Targeting: &nbsp; Target your line item to a specific set of countries. By default, when the...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Managing Orders &amp; Line Items</title>
-   <link>https://dev.twitter.com/docs/managing-orders-line-items</link>
-   <description><![CDATA[&nbsp; You can manage your Orders &amp; Line Items directly from the Orders page. &nbsp; Checking the box next to each of the Orders allows you to pause, resume, and archive. &nbsp; The Quick Jump button allows you to quickly jump between different Orders and Line Items &nbsp;...]]></description>
    <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
