@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 08 Aug 2014 11:00:03 +0200</pubDate>
+  <pubDate>Fri, 08 Aug 2014 19:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Marketplace Video</title>
+   <link>https://dev.twitter.com/docs/marketplace-video</link>
+   <description><![CDATA[Video ads offer a valuable opportunity to drive more revenue for your interstitial inventory. &nbsp;MoPub enables you to automatically introduce video ads from MoPub Marketplace demand partners without burdening your app with additional SDKs. Our video ad support is built to give you the...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Simple Ads Demo - Android (3/3): Testing JavaScript/MRAID Ad Tags</title>
    <link>https://dev.twitter.com/docs/simple-ads-demo-android-33-testing-javascriptmraid-ad-tags</link>
@@ -118,12 +124,6 @@
    <title>Editing a Line Item</title>
    <link>https://dev.twitter.com/docs/editing-line-item</link>
    <description><![CDATA[This page allows you to take a detailed look at a specific Line Item.&nbsp; &nbsp; The overall Line Item can be edited by clicking &lsquo;Edit Line Item&rsquo;. &nbsp; Line Items can be paused, resumed, archived, or deleted. &nbsp; On this page, you can add creative by clicking on...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Editing an Order</title>
-   <link>https://dev.twitter.com/docs/editing-order</link>
-   <description><![CDATA[This page allows you to edit the Order description, export Order details, and monitor overall performance. &nbsp; This page allows you to pause, resume, archive, or create a Line Item. &nbsp; The &lsquo;Show&rdquo; button allows you to segment the type of Line Items you are view on the...]]></description>
    <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
