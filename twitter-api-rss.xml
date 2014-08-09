@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 08 Aug 2014 23:30:02 +0200</pubDate>
+  <pubDate>Sat, 09 Aug 2014 02:00:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Native Direct Ad Serving</title>
+   <link>https://dev.twitter.com/docs/native-direct-ad-serving</link>
+   <description><![CDATA[Native Direct Ad Serving The MoPub platform allows you to integrate ads from many different advertising sources, including MoPub Marketplace and direct ads. Below is a short guide for setting up your first direct sold native ad. Set Up Your Direct Campaign...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>How to Use the MoPub Dashboard</title>
    <link>https://dev.twitter.com/docs/how-use-mopub-dashboard</link>
@@ -118,12 +124,6 @@
    <title>How to Integrate the MoPub Native Ads SDK</title>
    <link>https://dev.twitter.com/docs/how-integrate-mopub-native-ads-sdk</link>
    <description><![CDATA[Marketplace Access Publishers who are not approved will not be able to target their ad units at Marketplace and will see the UI below: &nbsp; To get access to Marketplace, please email nativeads@twitter.com to get your publisher approved. ​Downloading the SDK Publishers can download the SDK...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Click to Call Line Item</title>
-   <link>https://dev.twitter.com/docs/click-call-line-item</link>
-   <description><![CDATA[If you you want an ad to dial a phone number then you will need to format that the click URL as such tel://55555555555. This will call the number when you click on the ad.]]></description>
    <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
