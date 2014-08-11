@@ -4,8 +4,26 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 11 Aug 2014 21:45:02 +0200</pubDate>
+  <pubDate>Mon, 11 Aug 2014 22:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>How do I obtain an API key?</title>
+   <link>https://dev.twitter.com/docs/faq/#7447</link>
+   <description><![CDATA[You can create an application record (which includes an API key) by navigating to Application Management. Most integrations with the API will require you to identify your application to Twitter by way of an API key. On the Twitter platform, the term "API key" usually refers to what's called an...]]></description>
+   <pubDate>Mon, 11 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Twitter for Websites FAQ</title>
+   <link>https://dev.twitter.com/docs/tfw/faq</link>
+   <description><![CDATA[Which browsers does the Tweet Button support? Does the Tweet Button support other languages? What are the dimensions of the Tweet Button? What happens if twitter.com has an error or is over capacity? I want to use multiple Tweet Buttons on my page. Is there anything I should know? Can I...]]></description>
+   <pubDate>Mon, 11 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>AdMob Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/admob-revenue-reporting</link>
+   <description><![CDATA[If you've updated to the most recent version of AdMob in their UI, you'll notice that AdMob revenue reporting no longer works for you on the MoPub networks page. This can be fixed by going to your AdMob network settings page and switching your revenue reporting Authentication Type...]]></description>
+   <pubDate>Mon, 11 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Mobile Web Integration</title>
    <link>https://dev.twitter.com/docs/mobile-web-integration</link>
@@ -106,24 +124,6 @@
    <title>How to Create a Direct Native Ads Campaign</title>
    <link>https://dev.twitter.com/docs/how-create-direct-native-ads-campaign</link>
    <description><![CDATA[Create an Ad Unit for your native ad &nbsp; Typically, you will create one Ad Unit per type of ad you&rsquo;d like to display in an app. For example, if you want to have a banner ad on one screen and a native ad in another, you&rsquo;d create an Ad Unit for each type. You can create a new &ldquo;...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Generating Ad Unit Code for Integration</title>
-   <link>https://dev.twitter.com/docs/generating-ad-unit-code-integration</link>
-   <description><![CDATA[From the Ad Unit page, you can pull the ad unit code by clicking &ldquo;Code Integration&rdquo;. Once all your ad units have been created, you can follow our technical guide to begin integration of the SDK. Documentation can be found here.&nbsp; &nbsp;]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Reporting</title>
-   <link>https://dev.twitter.com/docs/reporting</link>
-   <description><![CDATA[The MoPub reporting tool can be found here or by clicking &lsquo;Reports&rsquo; under Your Account. &nbsp; Reports can be broken down using up to three different type of paramaters &nbsp; Please note that data for yesterday becomes available at 12:00PM Pacific Time &nbsp; You can...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Integrating 3rd Party Networks</title>
-   <link>https://dev.twitter.com/docs/integrating-3rd-party-networks</link>
-   <description><![CDATA[Please follow links to our GitHub wiki for instructions on integrating third party networks such as AdMob, iAd and Millennial. iOS:&nbsp;https://github.com/mopub/mopub-ios-sdk/wiki#integrating-with-third-party-networks Android: https://github.com/mopub/mopub-android-sdk/wiki#integrating-with-...]]></description>
    <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
