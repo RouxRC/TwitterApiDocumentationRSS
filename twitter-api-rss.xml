@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 11 Aug 2014 18:00:03 +0200</pubDate>
+  <pubDate>Mon, 11 Aug 2014 21:45:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Mobile Web Integration</title>
+   <link>https://dev.twitter.com/docs/mobile-web-integration</link>
+   <description><![CDATA[MoPub supports a simple Javascript tag to integrate our ad serving technology into your mobile websites. Simply include the following tags, customized with your ad unit ID and creative size. Details Paste the following code snippet into your mobile webpage where you'd like to see ads appear:...]]></description>
+   <pubDate>Mon, 11 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Summary Card</title>
    <link>https://dev.twitter.com/docs/cards/types/summary-card</link>
@@ -118,12 +124,6 @@
    <title>Integrating 3rd Party Networks</title>
    <link>https://dev.twitter.com/docs/integrating-3rd-party-networks</link>
    <description><![CDATA[Please follow links to our GitHub wiki for instructions on integrating third party networks such as AdMob, iAd and Millennial. iOS:&nbsp;https://github.com/mopub/mopub-ios-sdk/wiki#integrating-with-third-party-networks Android: https://github.com/mopub/mopub-android-sdk/wiki#integrating-with-...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Forecasting for Direct Ads</title>
-   <link>https://dev.twitter.com/docs/forecasting-direct-ads</link>
-   <description><![CDATA[Overview of Forecasting MoPub&rsquo;s Forecasting feature allows you to quickly evaluate available impressions based on the inventory that&rsquo;s already been booked and sold. &nbsp;As shown below, Forecasting allows you to visualize available inventory, and see the value of each Guaranteed Line...]]></description>
    <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
