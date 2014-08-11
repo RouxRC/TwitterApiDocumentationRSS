@@ -4,12 +4,12 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 11 Aug 2014 22:30:03 +0200</pubDate>
+  <pubDate>Mon, 11 Aug 2014 22:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
   <item>
    <title>How do I obtain an API key?</title>
    <link>https://dev.twitter.com/docs/faq/#7447</link>
-   <description><![CDATA[You can create an application record (which includes an API key) by navigating to Application Management. Most integrations with the API will require you to identify your application to Twitter by way of an API key. On the Twitter platform, the term "API key" usually refers to what's called an...]]></description>
+   <description><![CDATA[You can create an application record (which includes an API key) by navigating to https://apps.twitter.com/ Most integrations with the API will require you to identify your application to Twitter by way of an API key. On the Twitter platform, the term "API key" usually refers to what's called an...]]></description>
    <pubDate>Mon, 11 Aug 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
