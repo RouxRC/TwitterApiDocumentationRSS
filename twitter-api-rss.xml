@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 11 Aug 2014 22:45:03 +0200</pubDate>
+  <pubDate>Tue, 12 Aug 2014 01:15:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>AdMob Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/admob-revenue-reporting</link>
+   <description><![CDATA[In order to set up AdMob for ad network revenue reporting: You will need to enter your AdMob Username, the AdMob API password and the AdMob API key. 1. Username This is the username that you use to log in to AdMob 2. API Password AdMob requires an API password to...]]></description>
+   <pubDate>Mon, 11 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>How do I obtain an API key?</title>
    <link>https://dev.twitter.com/docs/faq/#7447</link>
@@ -16,12 +22,6 @@
    <title>Twitter for Websites FAQ</title>
    <link>https://dev.twitter.com/docs/tfw/faq</link>
    <description><![CDATA[Which browsers does the Tweet Button support? Does the Tweet Button support other languages? What are the dimensions of the Tweet Button? What happens if twitter.com has an error or is over capacity? I want to use multiple Tweet Buttons on my page. Is there anything I should know? Can I...]]></description>
-   <pubDate>Mon, 11 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>AdMob Revenue Reporting</title>
-   <link>https://dev.twitter.com/docs/admob-revenue-reporting</link>
-   <description><![CDATA[If you've updated to the most recent version of AdMob in their UI, you'll notice that AdMob revenue reporting no longer works for you on the MoPub networks page. This can be fixed by going to your AdMob network settings page and switching your revenue reporting Authentication Type...]]></description>
    <pubDate>Mon, 11 Aug 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
