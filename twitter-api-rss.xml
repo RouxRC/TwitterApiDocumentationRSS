@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 12 Aug 2014 01:15:02 +0200</pubDate>
+  <pubDate>Tue, 12 Aug 2014 02:00:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Twitter for Websites</title>
+   <link>https://dev.twitter.com/docs/tfw</link>
+   <description><![CDATA[Twitter for Websites is a suite of embeddable widgets and client-side scripting tools to integrate Twitter and display Tweets in your site or web app. You can find documentation for publishers and developers here, refer to the Twitter for Websites FAQ, or ask questions or share what you...]]></description>
+   <pubDate>Mon, 11 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Website implementation checklist</title>
+   <link>https://dev.twitter.com/docs/web/best-practices</link>
+   <description><![CDATA[Overview Websites can improve content distribution, build an audience, and help viewers navigate to their best content views by including Twitter-specific markup and buttons in their pages. Connect your content with the Twitter audience. Set context with link previews Attribute content to...]]></description>
+   <pubDate>Mon, 11 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>AdMob Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/admob-revenue-reporting</link>
@@ -112,18 +124,6 @@
    <title>Simple Ads Demo - iOS (2/3): Testing a Specific Ad Unit</title>
    <link>https://dev.twitter.com/docs/simple-ads-demo-ios-23-testing-specific-ad-unit</link>
    <description><![CDATA[Testing a specific Ad Unit - iOS: &nbsp; &nbsp; &nbsp;1)&nbsp;Retrieve&nbsp;the ad unit ID that you want to test.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;a)&nbsp;Click on &lsquo;Code Integration&rsquo; button to display your ad unit id &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; b...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Simple Ads Demo - iOS (1/3): Opening in Xcode</title>
-   <link>https://dev.twitter.com/docs/simple-ads-demo-ios-13-opening-xcode</link>
-   <description><![CDATA[This is the first help article in the &#39;Simple Ads Demo - iOS&#39; series. This series will walk you through the process of setting up MoPub&#39;s Simple Ads Demo application on your computer/device. This will enable you to quickly test various creatives, ad units and network settings in a live...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>How to Create a Direct Native Ads Campaign</title>
-   <link>https://dev.twitter.com/docs/how-create-direct-native-ads-campaign</link>
-   <description><![CDATA[Create an Ad Unit for your native ad &nbsp; Typically, you will create one Ad Unit per type of ad you&rsquo;d like to display in an app. For example, if you want to have a banner ad on one screen and a native ad in another, you&rsquo;d create an Ad Unit for each type. You can create a new &ldquo;...]]></description>
    <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
