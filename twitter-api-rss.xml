@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 14 Aug 2014 13:15:02 +0200</pubDate>
+  <pubDate>Thu, 14 Aug 2014 15:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>MRAID Vendor Tag Certification Process</title>
+   <link>https://dev.twitter.com/docs/mraid-vendor-tag-certification-process</link>
+   <description><![CDATA[MoPub MRAID Vendor Certification Process Guiding Principles: The MoPub SDK is built to be fully compliant with the IAB MRAID v1.0 specification Overview: Pre-Certification Questionnaire Setup Vendor Self Test Vendor impression test Reporting test Scale Test Best Practices...]]></description>
+   <pubDate>Thu, 14 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>How to Add Users to Your Account</title>
    <link>https://dev.twitter.com/docs/how-add-users-your-account</link>
@@ -76,12 +82,6 @@
    <title>How to Use the MoPub Dashboard</title>
    <link>https://dev.twitter.com/docs/how-use-mopub-dashboard</link>
    <description><![CDATA[How to Use the MoPub Dashboard The MoPub Dashboard enables you to see your entire monetization strategy on a single screen. The Dashboard offers a single, comprehensive view of all your app revenue data -- including ad networks, MoPub Marketplace, and direct campaigns. With the Dashboard...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>MRAID Vendor Tag Certification Process</title>
-   <link>https://dev.twitter.com/docs/mraid-vendor-tag-certification-process</link>
-   <description><![CDATA[MoPub MRAID Vendor Certification Process Guiding Principles: The MoPub SDK is built to be fully compliant with the IAB MRAID v1.0 specification Overview: Pre-Certification Questionnaire Setup Vendor Self Test Vendor impression test Reporting test Scale Test Best Practices...]]></description>
    <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
