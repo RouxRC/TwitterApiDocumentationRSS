@@ -4,18 +4,18 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 14 Aug 2014 15:45:03 +0200</pubDate>
+  <pubDate>Thu, 14 Aug 2014 20:15:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>How to Add Users to Your Account</title>
+   <link>https://dev.twitter.com/docs/how-add-users-your-account</link>
+   <description><![CDATA[You can add other users in different roles to your MoPub account and control access to your account. What does this mean? More flexibility with multiple users: Users can use their individual logins to access the same account....]]></description>
+   <pubDate>Thu, 14 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>MRAID Vendor Tag Certification Process</title>
    <link>https://dev.twitter.com/docs/mraid-vendor-tag-certification-process</link>
    <description><![CDATA[MoPub MRAID Vendor Certification Process Guiding Principles: The MoPub SDK is built to be fully compliant with the IAB MRAID v1.0 specification Overview: Pre-Certification Questionnaire Setup Vendor Self Test Vendor impression test Reporting test Scale Test Best Practices...]]></description>
-   <pubDate>Thu, 14 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>How to Add Users to Your Account</title>
-   <link>https://dev.twitter.com/docs/how-add-users-your-account</link>
-   <description><![CDATA[You can add users in different roles to your MoPub account. What does this mean? Multiple Users: Users can use their individual logins to access the same account Roles and Permissions: Users can have different roles (e.g. Admin,...]]></description>
    <pubDate>Thu, 14 Aug 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
