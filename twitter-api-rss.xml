@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sat, 16 Aug 2014 08:00:03 +0200</pubDate>
+  <pubDate>Sun, 17 Aug 2014 00:15:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>GET collections/:id/content</title>
+   <link>https://dev.twitter.com/docs/curator/1/get/collections/content</link>
+   <description><![CDATA[Returns the latest content in a collection. Please ignore the line below in the Example Request that states, "Use the OAuth tool in this page sidebar to generate the OAuth signature for this request." This API does note use OAuth but uses an auth parameter.]]></description>
+   <pubDate>Sat, 16 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>MoPub Technical Integration</title>
    <link>https://dev.twitter.com/docs/mopub-technical-integration</link>
@@ -118,12 +124,6 @@
    <title>Native Direct Ad Serving</title>
    <link>https://dev.twitter.com/docs/native-direct-ad-serving</link>
    <description><![CDATA[Native Direct Ad Serving The MoPub platform allows you to integrate ads from many different advertising sources, including MoPub Marketplace and direct ads. Below is a short guide for setting up your first direct sold native ad. Set Up Your Direct Campaign...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Self-Testing Your Creatives with the MoPub SDK and SimpleAdsDemo Sample App</title>
-   <link>https://dev.twitter.com/docs/self-testing-your-creatives-mopub-sdk-and-simpleadsdemo-sample-app</link>
-   <description><![CDATA[This tutorial is a step-by-step guide that shows you how to self-test your creatives using the SimpleAds Demo app. Self Testing with the MoPub SDK and Simple Ads Demo App What: SimpleAds Demo is a mobile application for iOS and Android that demonstrates how live tags would render/behave on MoPub...]]></description>
    <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
