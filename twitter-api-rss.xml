@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sat, 16 Aug 2014 02:15:03 +0200</pubDate>
+  <pubDate>Sat, 16 Aug 2014 05:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>How to Use the MoPub Dashboard</title>
+   <link>https://dev.twitter.com/docs/how-use-mopub-dashboard</link>
+   <description><![CDATA[How to Use the MoPub Dashboard The MoPub Dashboard enables you to see your entire monetization strategy on a single screen. The Dashboard offers a single, comprehensive view of all your app revenue data -- including ad networks, MoPub Marketplace, and direct campaigns. With the Dashboard...]]></description>
+   <pubDate>Fri, 15 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Embedded Tweet parameter reference</title>
    <link>https://dev.twitter.com/docs/embedded-tweets/reference</link>
@@ -82,12 +88,6 @@
    <title>Native Direct Ad Serving</title>
    <link>https://dev.twitter.com/docs/native-direct-ad-serving</link>
    <description><![CDATA[Native Direct Ad Serving The MoPub platform allows you to integrate ads from many different advertising sources, including MoPub Marketplace and direct ads. Below is a short guide for setting up your first direct sold native ad. Set Up Your Direct Campaign...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>How to Use the MoPub Dashboard</title>
-   <link>https://dev.twitter.com/docs/how-use-mopub-dashboard</link>
-   <description><![CDATA[How to Use the MoPub Dashboard The MoPub Dashboard enables you to see your entire monetization strategy on a single screen. The Dashboard offers a single, comprehensive view of all your app revenue data -- including ad networks, MoPub Marketplace, and direct campaigns. With the Dashboard...]]></description>
    <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
