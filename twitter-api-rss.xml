@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 15 Aug 2014 08:15:03 +0200</pubDate>
+  <pubDate>Sat, 16 Aug 2014 02:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Embedded Tweet parameter reference</title>
+   <link>https://dev.twitter.com/docs/embedded-tweets/reference</link>
+   <description><![CDATA[An Embedded Tweet supports customization in data-* attributes and JavaScript factory functions. This reference document describes parameters used in all formats. Reference the oEmbed API to set these parameters as part of an HTML response for a Tweet ID or URL. Parameters id required The...]]></description>
+   <pubDate>Fri, 15 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>How to Add Users to Your Account</title>
    <link>https://dev.twitter.com/docs/how-add-users-your-account</link>
@@ -118,12 +124,6 @@
    <title>Simple Ads Demo - Android (3/3): Testing JavaScript/MRAID Ad Tags</title>
    <link>https://dev.twitter.com/docs/simple-ads-demo-android-33-testing-javascriptmraid-ad-tags</link>
    <description><![CDATA[Testing JavaScript/MRAID Ad Tags create a new Order - &lsquo;TestOrder1&rsquo; within TestOrder1 create a new line item - &lsquo;TestLineItem1&rsquo; when creating TestLineItem1, be sure to target your desired test AdUnit (recommended to create a new AdUnit - &lsquo;...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Simple Ads Demo - Android (2/3): Testing a Specific Ad Unit</title>
-   <link>https://dev.twitter.com/docs/simple-ads-demo-android-23-testing-specific-ad-unit</link>
-   <description><![CDATA[Testing a specific Ad Unit&nbsp; Pull the Ad Unit ID that you want to test Click on &lsquo;Code Integration&rsquo; button&nbsp;and the ad unit ID will be shown in the new window Copy the ad unit displayed &nbsp; Open SimpleAdsDemo in Eclipse navigate to...]]></description>
    <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
