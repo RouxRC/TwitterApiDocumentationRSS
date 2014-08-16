@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sat, 16 Aug 2014 05:45:03 +0200</pubDate>
+  <pubDate>Sat, 16 Aug 2014 06:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>MoPub UI</title>
+   <link>https://dev.twitter.com/docs/mopub-ui</link>
+   <description><![CDATA[How to Use the MoPub Dashboard The MoPub Dashboard enables you to see your entire monetization strategy on a single screen. The Dashboard offers a single, comprehensive view of all your app revenue data -- including ad networks, MoPub Marketplace, and direct campaigns. With the Dashboard, you can...]]></description>
+   <pubDate>Fri, 15 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>MoPub FAQ</title>
+   <link>https://dev.twitter.com/docs/mopub-faq</link>
+   <description><![CDATA[MoPub FAQ What is MoPub? MoPub is a mobile ad serving platform. We help you monetize your apps more effectively. We offer a free, self-serve product that lets you get started with ad serving quickly while offering sophisticated features that you will...]]></description>
+   <pubDate>Fri, 15 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>How to Use the MoPub Dashboard</title>
    <link>https://dev.twitter.com/docs/how-use-mopub-dashboard</link>
@@ -112,18 +124,6 @@
    <title>Marketplace Payments</title>
    <link>https://dev.twitter.com/docs/marketplace-payments</link>
    <description><![CDATA[The revenues and other data displayed in the Marketplace dashboard may be different than the final payment. &nbsp;There are several reasons for this. &nbsp;The values shown in the dashboard are based on real-time data feed. &nbsp;At the end of the processing period, MoPub will look at the actual...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Marketplace Video</title>
-   <link>https://dev.twitter.com/docs/marketplace-video</link>
-   <description><![CDATA[Video ads offer a valuable opportunity to drive more revenue for your interstitial inventory. &nbsp;MoPub enables you to automatically introduce video ads from MoPub Marketplace demand partners without burdening your app with additional SDKs. Our video ad support is built to give you the...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Simple Ads Demo - Android (3/3): Testing JavaScript/MRAID Ad Tags</title>
-   <link>https://dev.twitter.com/docs/simple-ads-demo-android-33-testing-javascriptmraid-ad-tags</link>
-   <description><![CDATA[Testing JavaScript/MRAID Ad Tags create a new Order - &lsquo;TestOrder1&rsquo; within TestOrder1 create a new line item - &lsquo;TestLineItem1&rsquo; when creating TestLineItem1, be sure to target your desired test AdUnit (recommended to create a new AdUnit - &lsquo;...]]></description>
    <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
