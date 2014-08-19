@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 19 Aug 2014 23:30:02 +0200</pubDate>
+  <pubDate>Tue, 19 Aug 2014 23:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>MoPub Technical Integration</title>
+   <link>https://dev.twitter.com/docs/mopub-technical-integration</link>
+   <description><![CDATA[Here you can find more information on how to work with various networks by creating Custom Event classes. You will also find technical integration and support guides. If you have a specific issue that is not addressed here, please feel free to post a topic in our Discussion Forum.]]></description>
+   <pubDate>Tue, 19 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>MoPub UI</title>
    <link>https://dev.twitter.com/docs/mopub-ui</link>
@@ -23,18 +29,6 @@
    <link>https://dev.twitter.com/docs/how-add-users-your-account</link>
    <description><![CDATA[You can add other users in different roles to your MoPub account and control access to your account. What does this mean? More flexibility with multiple users: Users can use their individual logins to access the same account....]]></description>
    <pubDate>Mon, 18 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>MoPub Technical Integration</title>
-   <link>https://dev.twitter.com/docs/mopub-technical-integration</link>
-   <description><![CDATA[Here you can find more information on how to work with various networks by creating Custom Event classes. You will also find more technical integration guides in this section.]]></description>
-   <pubDate>Fri, 15 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>MoPub Ad Formats</title>
-   <link>https://dev.twitter.com/docs/mopub-ad-formats-0</link>
-   <description><![CDATA[Your application will require one or more Ad Units in order to show ads. From your Inventory tab, click “Add a New App” Select your platform choice in the Device Format section Select Ad Format type...]]></description>
-   <pubDate>Fri, 15 Aug 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>MoPub Ad Formats</title>
@@ -124,6 +118,12 @@
    <title>Self-Testing Your Creatives with the MoPub SDK and SimpleAdsDemo Sample App</title>
    <link>https://dev.twitter.com/docs/self-testing-your-creatives-mopub-sdk-and-simpleadsdemo-sample-app</link>
    <description><![CDATA[This tutorial is a step-by-step guide that shows you how to self-test your creatives using the SimpleAds Demo app. Self Testing with the MoPub SDK and Simple Ads Demo App What: SimpleAds Demo is a mobile application for iOS and Android that demonstrates how live tags would render/behave on MoPub...]]></description>
+   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Setting Up Custom URIs</title>
+   <link>https://dev.twitter.com/docs/setting-custom-uris</link>
+   <description><![CDATA[To have the click through of ads go to an in-app purchase, you&#39;ll need to set up a custom URI scheme like so:&nbsp;http://mobiledevelopertips.com/cocoa/launching-your-own-application-via-a-custom-url-scheme.html. Once you do that, all you have to do is drop the custom URI into the click through...]]></description>
    <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
