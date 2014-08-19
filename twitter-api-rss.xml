@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 19 Aug 2014 23:15:03 +0200</pubDate>
+  <pubDate>Tue, 19 Aug 2014 23:30:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>MoPub UI</title>
+   <link>https://dev.twitter.com/docs/mopub-ui</link>
+   <description><![CDATA[The MoPub user interface consists of the Dashboard, Inventory, Marketplace, and Networks. The MoPub Dashboard enables you to see your entire monetization strategy on a single screen. The Dashboard offers a single, comprehensive view of all your app revenue data -- including ad networks, MoPub...]]></description>
+   <pubDate>Tue, 19 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>What is MoPub?</title>
    <link>https://dev.twitter.com/docs/what-mopub</link>
@@ -34,12 +40,6 @@
    <title>MoPub Ad Formats</title>
    <link>https://dev.twitter.com/docs/mopub-ad-formats</link>
    <description><![CDATA[Ad Unit Creation Your application will require one or more Ad Units in order to show ads. From your Inventory tab, click “Add a New App” Select your platform choice in the Device Format section Select Ad...]]></description>
-   <pubDate>Fri, 15 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>MoPub UI</title>
-   <link>https://dev.twitter.com/docs/mopub-ui</link>
-   <description><![CDATA[The MoPub user interface consists of the Dashboard, Inventory, Marketplace, and Networks. The MoPub Dashboard enables you to see your entire monetization strategy on a single screen. The Dashboard offers a single, comprehensive view of all your app revenue data -- including ad networks, MoPub...]]></description>
    <pubDate>Fri, 15 Aug 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
