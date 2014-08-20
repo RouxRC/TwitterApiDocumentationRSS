@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 20 Aug 2014 20:30:03 +0200</pubDate>
+  <pubDate>Wed, 20 Aug 2014 21:30:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Setting Up Ad Network IDs</title>
+   <link>https://dev.twitter.com/docs/setting-ad-network-ids</link>
+   <description><![CDATA[Each of the ad networks will provide you a unique ID that you will enter next to your applications when creating a new network order. Below you will find where you can find each of those IDs for AdMob, AdSense, TapIt, InMobi, Jumptap, Millennial Media, Mojiva S2S &amp; MobFox...]]></description>
+   <pubDate>Wed, 20 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Setting Up Ad Networks</title>
+   <link>https://dev.twitter.com/docs/setting-ad-networks</link>
+   <description><![CDATA[MoPub supports dozens of the most popular ad networks via server-to-server connections. For a list of standard supported networks, visit here. In addition to these networks, you can set up any network on MoPub via a "Custom Event". These networks are referred to as a "Custom Native Network...]]></description>
+   <pubDate>Wed, 20 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Twitter Cards</title>
    <link>https://dev.twitter.com/docs/cards</link>
@@ -113,18 +125,6 @@
    <link>https://dev.twitter.com/docs/cards/types/summary-card</link>
    <description><![CDATA[The Summary Card can be used for many kinds of web content, from blog posts and news articles, to products and restaurants. It is designed to give the reader a preview of the content before clicking through to your website. The Tweet below from the United Nations (@UN) shows a Summary Card (...]]></description>
    <pubDate>Mon, 11 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Native Direct Ad Serving</title>
-   <link>https://dev.twitter.com/docs/native-direct-ad-serving</link>
-   <description><![CDATA[Native Direct Ad Serving The MoPub platform allows you to integrate ads from many different advertising sources, including MoPub Marketplace and direct ads. Below is a short guide for setting up your first direct sold native ad. Set Up Your Direct Campaign...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Self-Testing Your Creatives with the MoPub SDK and SimpleAdsDemo Sample App</title>
-   <link>https://dev.twitter.com/docs/self-testing-your-creatives-mopub-sdk-and-simpleadsdemo-sample-app</link>
-   <description><![CDATA[This tutorial is a step-by-step guide that shows you how to self-test your creatives using the SimpleAds Demo app. Self Testing with the MoPub SDK and Simple Ads Demo App What: SimpleAds Demo is a mobile application for iOS and Android that demonstrates how live tags would render/behave on MoPub...]]></description>
-   <pubDate>Fri, 08 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
