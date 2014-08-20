@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 20 Aug 2014 21:30:02 +0200</pubDate>
+  <pubDate>Wed, 20 Aug 2014 22:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>DFP Integration: Passing Key Values</title>
+   <link>https://dev.twitter.com/docs/dfp-integration-passing-key-values</link>
+   <description><![CDATA[Add request parameters in the form $dfp_request_parameter DFP Support Links DFP API Integration Support Link AdMob SDK Support Link Macros are strings of text that the DoubleClick ad server replaces with other strings of text according to a set of rules. Macros are case-sensitive...]]></description>
+   <pubDate>Wed, 20 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>DFP Integration</title>
+   <link>https://dev.twitter.com/docs/dfp-integration</link>
+   <description><![CDATA[App Request URL http://ads.mopub.com/m/ad?v=1&amp;tp=dfpm&amp;mr=1&amp;id= &lt;&lt;INSERT AD UNIT ID&gt;&gt; Mobile Web Request URL http://ads.mopub.com/m/ad?v=1&amp;tp=dfpm&amp;mobile_web=1&amp;id= &lt;&lt;INSERT AD UNIT ID&gt;&gt; Create a MoPub Account...]]></description>
+   <pubDate>Wed, 20 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Setting Up Ad Network IDs</title>
    <link>https://dev.twitter.com/docs/setting-ad-network-ids</link>
@@ -112,18 +124,6 @@
    <title>Twitter for Websites FAQ</title>
    <link>https://dev.twitter.com/docs/tfw/faq</link>
    <description><![CDATA[Which browsers does the Tweet Button support? Does the Tweet Button support other languages? What are the dimensions of the Tweet Button? What happens if twitter.com has an error or is over capacity? I want to use multiple Tweet Buttons on my page. Is there anything I should know? Can I...]]></description>
-   <pubDate>Mon, 11 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Mobile Web Integration</title>
-   <link>https://dev.twitter.com/docs/mobile-web-integration</link>
-   <description><![CDATA[MoPub supports a simple Javascript tag to integrate our ad serving technology into your mobile websites. Simply include the following tags, customized with your ad unit ID and creative size. Details Paste the following code snippet into your mobile webpage where you'd like to see ads appear:...]]></description>
-   <pubDate>Mon, 11 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Summary Card</title>
-   <link>https://dev.twitter.com/docs/cards/types/summary-card</link>
-   <description><![CDATA[The Summary Card can be used for many kinds of web content, from blog posts and news articles, to products and restaurants. It is designed to give the reader a preview of the content before clicking through to your website. The Tweet below from the United Nations (@UN) shows a Summary Card (...]]></description>
    <pubDate>Mon, 11 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
