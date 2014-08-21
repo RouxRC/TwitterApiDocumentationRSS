@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 21 Aug 2014 23:15:03 +0200</pubDate>
+  <pubDate>Fri, 22 Aug 2014 00:00:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Generating Ad Unit Code for Integration</title>
+   <link>https://dev.twitter.com/docs/generating-ad-unit-code-integration</link>
+   <description><![CDATA[From the Ad Unit page, you can pull the ad unit code by clicking &ldquo;Code Integration&rdquo;. Once all your ad units have been created, you can follow our technical guide to begin integration of the SDK. &nbsp;]]></description>
+   <pubDate>Thu, 21 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Embedded Tweet parameter reference</title>
    <link>https://dev.twitter.com/docs/embedded-tweets/reference</link>
@@ -118,12 +124,6 @@
    <title>Twitter for Websites</title>
    <link>https://dev.twitter.com/docs/tfw</link>
    <description><![CDATA[Twitter for Websites is a suite of embeddable widgets and client-side scripting tools to integrate Twitter and display Tweets in your site or web app. You can find documentation for publishers and developers here, refer to the Twitter for Websites FAQ, or ask questions or share what you...]]></description>
-   <pubDate>Mon, 11 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Website implementation checklist</title>
-   <link>https://dev.twitter.com/docs/web/best-practices</link>
-   <description><![CDATA[Overview Websites can improve content distribution, build an audience, and help viewers navigate to their best content views by including Twitter-specific markup and buttons in their pages. Connect your content with the Twitter audience. Set context with link previews Attribute content to...]]></description>
    <pubDate>Mon, 11 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
