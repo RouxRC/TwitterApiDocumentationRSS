@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 21 Aug 2014 19:30:03 +0200</pubDate>
+  <pubDate>Thu, 21 Aug 2014 23:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Embedded Tweet parameter reference</title>
+   <link>https://dev.twitter.com/docs/embedded-tweets/reference</link>
+   <description><![CDATA[An Embedded Tweet supports customization in data-* attributes and JavaScript factory functions. This reference document describes parameters used in all formats. Reference the oEmbed API to set these parameters as part of an HTML response for a Tweet ID or URL. Parameters id required The...]]></description>
+   <pubDate>Thu, 21 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Create an Ad Unit</title>
    <link>https://dev.twitter.com/docs/create-ad-unit</link>
@@ -88,12 +94,6 @@
    <title>How to Use the MoPub Dashboard</title>
    <link>https://dev.twitter.com/docs/how-use-mopub-dashboard</link>
    <description><![CDATA[How to Use the MoPub Dashboard The MoPub Dashboard enables you to see your entire monetization strategy on a single screen. The Dashboard offers a single, comprehensive view of all your app revenue data -- including ad networks, MoPub Marketplace, and direct campaigns. With the Dashboard...]]></description>
-   <pubDate>Fri, 15 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Embedded Tweet parameter reference</title>
-   <link>https://dev.twitter.com/docs/embedded-tweets/reference</link>
-   <description><![CDATA[An Embedded Tweet supports customization in data-* attributes and JavaScript factory functions. This reference document describes parameters used in all formats. Reference the oEmbed API to set these parameters as part of an HTML response for a Tweet ID or URL. Parameters id required The...]]></description>
    <pubDate>Fri, 15 Aug 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
