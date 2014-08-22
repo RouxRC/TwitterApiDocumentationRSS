@@ -4,19 +4,19 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 22 Aug 2014 21:30:03 +0200</pubDate>
+  <pubDate>Sat, 23 Aug 2014 01:30:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Tweet Button parameter reference</title>
+   <link>https://dev.twitter.com/docs/tweet-button/reference</link>
+   <description><![CDATA[A Tweet Button supports prepopulating share text, hashtags, and a Twitter account reference. Publishers may associate additional related Twitter accounts, specify a large button size, and customize button alignment and Tweet counts displayed. Tweet content parameters text optional Pre-...]]></description>
+   <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Twitter | MoPub Server-to-Server API Technical Specifications 1.0</title>
    <link>https://dev.twitter.com/docs/twitter-mopub-server-server-api-technical-specifications-10</link>
    <description><![CDATA[Overview The MoPub Server-to-Server API makes it easier for ad networks and demand partners to connect with the MoPub platform outside of SDK libraries. To integrate with MoPub through the Server-to-Server API, follow the integration approval process and technical specifications...]]></description>
    <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Tweet Button parameter reference</title>
-   <link>https://dev.twitter.com/docs/tweet-button/reference</link>
-   <description><![CDATA[A Tweet Button supports prepopulating share text, hashtags, and a Twitter account reference. Publishers may associate additional related Twitter accounts, specify a large button size, and customize button alignment and Tweet counts displayed. Parameters text optional Pre-populated text...]]></description>
-   <pubDate>Thu, 21 Aug 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>Generating Ad Unit Code for Integration</title>
