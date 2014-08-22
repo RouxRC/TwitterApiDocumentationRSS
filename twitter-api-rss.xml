@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 22 Aug 2014 19:15:02 +0200</pubDate>
+  <pubDate>Fri, 22 Aug 2014 21:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Twitter | MoPub Server-to-Server API Technical Specifications 1.0</title>
+   <link>https://dev.twitter.com/docs/twitter-mopub-server-server-api-technical-specifications-10</link>
+   <description><![CDATA[Overview The MoPub Server-to-Server API makes it easier for ad networks and demand partners to connect with the MoPub platform outside of SDK libraries. To integrate with MoPub through the Server-to-Server API, follow the integration approval process and technical specifications...]]></description>
+   <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Tweet Button parameter reference</title>
    <link>https://dev.twitter.com/docs/tweet-button/reference</link>
@@ -113,12 +119,6 @@
    <link>https://dev.twitter.com/docs/mraid-vendor-tag-certification-process</link>
    <description><![CDATA[MoPub MRAID Vendor Certification Process Guiding Principles: The MoPub SDK is built to be fully compliant with the IAB MRAID v1.0 specification Overview: Pre-Certification Questionnaire Setup Vendor Self Test Vendor impression test Reporting test Scale Test Best Practices...]]></description>
    <pubDate>Thu, 14 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Twitter | MoPub Server-to-Server API Technical Specifications 1.0</title>
-   <link>https://dev.twitter.com/docs/twitter-mopub-server-server-api-technical-specifications-10</link>
-   <description><![CDATA[Overview The MoPub Server-to-Server API makes it easier for ad networks and demand partners to connect with the MoPub platform outside of SDK libraries. To integrate with MoPub through the Server-to-Server API, follow the integration approval process and technical specifications...]]></description>
-   <pubDate>Wed, 13 Aug 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
    <title>Embedded Tweet CMS best practices</title>
