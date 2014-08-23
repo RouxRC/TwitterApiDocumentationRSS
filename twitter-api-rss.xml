@@ -4,12 +4,12 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sat, 23 Aug 2014 01:30:02 +0200</pubDate>
+  <pubDate>Sat, 23 Aug 2014 02:00:02 +0200</pubDate>
   <generator>RouxRC</generator>
   <item>
    <title>Tweet Button parameter reference</title>
    <link>https://dev.twitter.com/docs/tweet-button/reference</link>
-   <description><![CDATA[A Tweet Button supports prepopulating share text, hashtags, and a Twitter account reference. Publishers may associate additional related Twitter accounts, specify a large button size, and customize button alignment and Tweet counts displayed. Tweet content parameters text optional Pre-...]]></description>
+   <description><![CDATA[A Tweet Button supports prepopulating share text, hashtags, and a Twitter account reference. Associate related Twitter accounts to drive followers. Tweet content parameters in_reply_to optional Status ID string of a parent Tweet such as a Tweet from your account (if applicable). Example...]]></description>
    <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
