@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 25 Aug 2014 18:45:02 +0200</pubDate>
+  <pubDate>Mon, 25 Aug 2014 19:00:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Ad Networks FAQ</title>
+   <link>https://dev.twitter.com/docs/ad-networks-faq</link>
+   <description><![CDATA[What networks does MoPub support? MoPub supports dozens of the most popular ad networks via server-to-server connections. For a list of standard supported networks, visit here.&nbsp;In addition to these networks, you can set up any network on MoPub via a &quot;Custom Event&quot;.&nbsp;These...]]></description>
+   <pubDate>Mon, 25 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>MoPub Macros</title>
    <link>https://dev.twitter.com/docs/mopub-macros</link>
@@ -118,12 +124,6 @@
    <title>MoPub UI</title>
    <link>https://dev.twitter.com/docs/mopub-ui</link>
    <description><![CDATA[The MoPub user interface consists of the Dashboard, Inventory, Marketplace, and Networks. The MoPub Dashboard enables you to see your entire monetization strategy on a single screen. The Dashboard offers a single, comprehensive view of all your app revenue data -- including ad networks, MoPub...]]></description>
-   <pubDate>Tue, 19 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>What is MoPub?</title>
-   <link>https://dev.twitter.com/docs/what-mopub</link>
-   <description><![CDATA[What is MoPub? MoPub is a mobile ad serving platform. We help you monetize your apps more effectively. We offer a free, self-serve product that lets you get started with ad serving quickly while offering sophisticated features that you will need as you grow. With streamlined campaign management,...]]></description>
    <pubDate>Tue, 19 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
