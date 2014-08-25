@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 25 Aug 2014 19:00:02 +0200</pubDate>
+  <pubDate>Tue, 26 Aug 2014 00:15:04 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Server to Server Network Support</title>
+   <link>https://dev.twitter.com/docs/server-server-network-support</link>
+   <description><![CDATA[MoPub provides Server to Server integrations with the following networks: &nbsp; Jumptap &nbsp; InMobi &nbsp; MobFox &nbsp; Tapit &nbsp; Mojiva&nbsp; &nbsp; Huntmads &nbsp; This means that there is no additional development work required. Once you have created an account with a...]]></description>
+   <pubDate>Mon, 25 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Ad Networks FAQ</title>
    <link>https://dev.twitter.com/docs/ad-networks-faq</link>
@@ -118,12 +124,6 @@
    <title>MoPub Technical Integration</title>
    <link>https://dev.twitter.com/docs/mopub-technical-integration</link>
    <description><![CDATA[Here you can find more information on how to work with various networks by creating Custom Event classes. You will also find technical integration and support guides. If you have a specific issue that is not addressed here, please feel free to post a topic in our Discussion Forum.]]></description>
-   <pubDate>Tue, 19 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>MoPub UI</title>
-   <link>https://dev.twitter.com/docs/mopub-ui</link>
-   <description><![CDATA[The MoPub user interface consists of the Dashboard, Inventory, Marketplace, and Networks. The MoPub Dashboard enables you to see your entire monetization strategy on a single screen. The Dashboard offers a single, comprehensive view of all your app revenue data -- including ad networks, MoPub...]]></description>
    <pubDate>Tue, 19 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
