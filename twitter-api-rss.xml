@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Mon, 25 Aug 2014 18:30:02 +0200</pubDate>
+  <pubDate>Mon, 25 Aug 2014 18:45:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>MoPub Macros</title>
+   <link>https://dev.twitter.com/docs/mopub-macros</link>
+   <description><![CDATA[MoPub supports the following macros for a publisher&rsquo;s 3rd party ad tags and trackers: &nbsp; Click URL (Unescaped): &nbsp;%%CLICK_URL_UNESC%%&nbsp; &nbsp; Click URL (Escaped): &nbsp;%%CLICK_URL_ESC%% &nbsp; Cache Buster (Generates a random number): %%CACHEBUSTER%% &nbsp; Ad...]]></description>
+   <pubDate>Mon, 25 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>AdMarvel Integration</title>
+   <link>https://dev.twitter.com/docs/admarvel-integration</link>
+   <description><![CDATA[AdMarvel SDK When using the AdMarvel SDK, passing IFA and AndroidID can dramatically affect Marketplace performance. The versions below are certified to work correctly with Marketplace: iOS: AdMarvel SDK version 3.0.1 and higher is required to pass IDFA Android: All...]]></description>
+   <pubDate>Mon, 25 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Checking the MoPub SDK Version</title>
    <link>https://dev.twitter.com/docs/checking-mopub-sdk-version</link>
@@ -113,18 +125,6 @@
    <link>https://dev.twitter.com/docs/what-mopub</link>
    <description><![CDATA[What is MoPub? MoPub is a mobile ad serving platform. We help you monetize your apps more effectively. We offer a free, self-serve product that lets you get started with ad serving quickly while offering sophisticated features that you will need as you grow. With streamlined campaign management,...]]></description>
    <pubDate>Tue, 19 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>How to Add Users to Your Account</title>
-   <link>https://dev.twitter.com/docs/how-add-users-your-account</link>
-   <description><![CDATA[You can add other users in different roles to your MoPub account and control access to your account. What does this mean? More flexibility with multiple users: Users can use their individual logins to access the same account....]]></description>
-   <pubDate>Mon, 18 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>How to Use the MoPub Dashboard</title>
-   <link>https://dev.twitter.com/docs/how-use-mopub-dashboard</link>
-   <description><![CDATA[How to Use the MoPub Dashboard The MoPub Dashboard enables you to see your entire monetization strategy on a single screen. The Dashboard offers a single, comprehensive view of all your app revenue data -- including ad networks, MoPub Marketplace, and direct campaigns. With the Dashboard...]]></description>
-   <pubDate>Fri, 15 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
