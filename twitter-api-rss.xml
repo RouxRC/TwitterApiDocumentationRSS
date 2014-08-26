@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 26 Aug 2014 19:45:03 +0200</pubDate>
+  <pubDate>Tue, 26 Aug 2014 20:30:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Japanese Pages</title>
+   <link>https://dev.twitter.com/ja</link>
+   <description><![CDATA[アプリケーション・インストールとディープ・リンク Twitterカード トラブルシューティング＆FAQ Playerカード Twitter公認製品プログラム 開発者向けの表示要件 埋め込みタイムライン 埋め込みツイート ツイートボタン]]></description>
+   <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Technical Integration FAQ</title>
+   <link>https://dev.twitter.com/docs/technical-integration-faq</link>
+   <description><![CDATA[I&rsquo;m testing my ad unit and nothing is happening. Why? At the moment, ad units that aren&#39;t receiving ad requests from live traffic get removed from our ad servers periodically. When the ad unit starts receiving traffic again, the information gets loaded on those machines and there&#39;s a...]]></description>
+   <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>How To Integrate Facebook Audience Network Using Custom Events</title>
    <link>https://dev.twitter.com/docs/how-integrate-facebook-audience-network-using-custom-events-0</link>
@@ -113,18 +125,6 @@
    <link>https://dev.twitter.com/docs/setting-ad-networks</link>
    <description><![CDATA[MoPub supports dozens of the most popular ad networks via server-to-server connections. For a list of standard supported networks, visit here. In addition to these networks, you can set up any network on MoPub via a "Custom Event". These networks are referred to as a "Custom Native Network...]]></description>
    <pubDate>Wed, 20 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Twitter Cards</title>
-   <link>https://dev.twitter.com/docs/cards</link>
-   <description><![CDATA[English | 日本語 Introduction With Twitter Cards, you can attach rich photos, videos and media experience to Tweets that drive traffic to your website. Simply add a few lines of HTML to your webpage, and users who Tweet links to your content will have a "Card" added to the Tweet that’s visible...]]></description>
-   <pubDate>Wed, 20 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>MoPub Ad Formats</title>
-   <link>https://dev.twitter.com/docs/mopub-ad-formats</link>
-   <description><![CDATA[MoPub supports a variety of ad formats for you to monetize your app. When you create an ad unit, you will be asked to select the ad format--Banner, Medium, Fullscreen, Custom, and Native. Native ads offer an opportunity to monetize your app more effectively by matching...]]></description>
-   <pubDate>Tue, 19 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
