@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 26 Aug 2014 00:15:04 +0200</pubDate>
+  <pubDate>Tue, 26 Aug 2014 19:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>How To Integrate Facebook Audience Network Using Custom Events</title>
+   <link>https://dev.twitter.com/docs/how-integrate-facebook-audience-network-using-custom-events-0</link>
+   <description><![CDATA[You can work with Facebook&#39;s Audience Network using Custom Events the same way you can with other ad network on MoPub. MoPub&#39;s pre-built Custom Event adapter makes this process even simpler. For more information on Custom Events, see Setting Up Ad Networks. Important Note: These Custom...]]></description>
+   <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Server to Server Network Support</title>
    <link>https://dev.twitter.com/docs/server-server-network-support</link>
@@ -118,12 +124,6 @@
    <title>MoPub Ad Formats</title>
    <link>https://dev.twitter.com/docs/mopub-ad-formats</link>
    <description><![CDATA[MoPub supports a variety of ad formats for you to monetize your app. When you create an ad unit, you will be asked to select the ad format--Banner, Medium, Fullscreen, Custom, and Native. Native ads offer an opportunity to monetize your app more effectively by matching...]]></description>
-   <pubDate>Tue, 19 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>MoPub Technical Integration</title>
-   <link>https://dev.twitter.com/docs/mopub-technical-integration</link>
-   <description><![CDATA[Here you can find more information on how to work with various networks by creating Custom Event classes. You will also find technical integration and support guides. If you have a specific issue that is not addressed here, please feel free to post a topic in our Discussion Forum.]]></description>
    <pubDate>Tue, 19 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
