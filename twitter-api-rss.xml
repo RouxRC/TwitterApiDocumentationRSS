@@ -4,18 +4,18 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 26 Aug 2014 22:30:02 +0200</pubDate>
+  <pubDate>Tue, 26 Aug 2014 23:00:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Japanese Pages</title>
+   <link>https://dev.twitter.com/ja-pages</link>
+   <description><![CDATA[アプリケーション・インストールとディープ・リンク Twitterカード トラブルシューティング＆FAQ Playerカード Twitter公認製品プログラム 開発者向けの表示要件 埋め込みタイムライン 埋め込みツイート ツイートボタン]]></description>
+   <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Scripting: Events</title>
    <link>https://dev.twitter.com/docs/tfw/events</link>
    <description><![CDATA[By using Twitter Javascript, you agree to the Developer Rules of the Road. By default, widgets-js will find mark-up in a page and convert basic, functional mark-up into rich interactive widgets. In addition, there are a number of functions of widgets-js that allow developers to work with Twitter...]]></description>
-   <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Japanese Pages</title>
-   <link>https://dev.twitter.com/ja</link>
-   <description><![CDATA[アプリケーション・インストールとディープ・リンク Twitterカード トラブルシューティング＆FAQ Playerカード Twitter公認製品プログラム 開発者向けの表示要件 埋め込みタイムライン 埋め込みツイート ツイートボタン]]></description>
    <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
