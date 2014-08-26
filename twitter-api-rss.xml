@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 26 Aug 2014 20:30:02 +0200</pubDate>
+  <pubDate>Tue, 26 Aug 2014 22:30:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Scripting: Events</title>
+   <link>https://dev.twitter.com/docs/tfw/events</link>
+   <description><![CDATA[By using Twitter Javascript, you agree to the Developer Rules of the Road. By default, widgets-js will find mark-up in a page and convert basic, functional mark-up into rich interactive widgets. In addition, there are a number of functions of widgets-js that allow developers to work with Twitter...]]></description>
+   <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Japanese Pages</title>
    <link>https://dev.twitter.com/ja</link>
@@ -118,12 +124,6 @@
    <title>Setting Up Ad Network IDs</title>
    <link>https://dev.twitter.com/docs/setting-ad-network-ids</link>
    <description><![CDATA[Each of the ad networks will provide you a unique ID that you will enter next to your applications when creating a new network order. Below you will find where you can find each of those IDs for AdMob, AdSense, TapIt, InMobi, Jumptap, Millennial Media, Mojiva S2S &amp; MobFox...]]></description>
-   <pubDate>Wed, 20 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Setting Up Ad Networks</title>
-   <link>https://dev.twitter.com/docs/setting-ad-networks</link>
-   <description><![CDATA[MoPub supports dozens of the most popular ad networks via server-to-server connections. For a list of standard supported networks, visit here. In addition to these networks, you can set up any network on MoPub via a "Custom Event". These networks are referred to as a "Custom Native Network...]]></description>
    <pubDate>Wed, 20 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
