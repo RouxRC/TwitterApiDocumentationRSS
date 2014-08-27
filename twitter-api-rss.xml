@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Tue, 26 Aug 2014 23:00:03 +0200</pubDate>
+  <pubDate>Wed, 27 Aug 2014 02:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Ad Network Setup</title>
+   <link>https://dev.twitter.com/docs/ad-network-setup</link>
+   <description><![CDATA[MoPub allows for the set-up and management of multiple Ad Networks through the MoPub Dashboard. Ad Networks will serve ads to the ad unit ID that is referenced. From within the dashboard, click the Networks tab. From your Network tab, click “Add a Network” MoPub...]]></description>
+   <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>What is MoPub?</title>
+   <link>https://dev.twitter.com/docs/what-mopub</link>
+   <description><![CDATA[What is MoPub? MoPub is a mobile ad serving platform. We help you monetize your apps more effectively. We offer a free, self-serve product that lets you get started with ad serving quickly while offering sophisticated features that you will need as you grow. With streamlined campaign management,...]]></description>
+   <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Japanese Pages</title>
    <link>https://dev.twitter.com/ja-pages</link>
@@ -112,18 +124,6 @@
    <title>DFP Integration: Passing Key Values</title>
    <link>https://dev.twitter.com/docs/dfp-integration-passing-key-values</link>
    <description><![CDATA[Add request parameters in the form $dfp_request_parameter DFP Support Links DFP API Integration Support Link AdMob SDK Support Link Macros are strings of text that the DoubleClick ad server replaces with other strings of text according to a set of rules. Macros are case-sensitive...]]></description>
-   <pubDate>Wed, 20 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>DFP Integration</title>
-   <link>https://dev.twitter.com/docs/dfp-integration</link>
-   <description><![CDATA[App Request URL http://ads.mopub.com/m/ad?v=1&amp;tp=dfpm&amp;mr=1&amp;id= &lt;&lt;INSERT AD UNIT ID&gt;&gt; Mobile Web Request URL http://ads.mopub.com/m/ad?v=1&amp;tp=dfpm&amp;mobile_web=1&amp;id= &lt;&lt;INSERT AD UNIT ID&gt;&gt; Create a MoPub Account...]]></description>
-   <pubDate>Wed, 20 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Setting Up Ad Network IDs</title>
-   <link>https://dev.twitter.com/docs/setting-ad-network-ids</link>
-   <description><![CDATA[Each of the ad networks will provide you a unique ID that you will enter next to your applications when creating a new network order. Below you will find where you can find each of those IDs for AdMob, AdSense, TapIt, InMobi, Jumptap, Millennial Media, Mojiva S2S &amp; MobFox...]]></description>
    <pubDate>Wed, 20 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
