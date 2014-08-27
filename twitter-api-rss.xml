@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 27 Aug 2014 02:30:03 +0200</pubDate>
+  <pubDate>Wed, 27 Aug 2014 02:45:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Marketplace Best Practices</title>
+   <link>https://dev.twitter.com/docs/marketplace-best-practices</link>
+   <description><![CDATA[Why enable Marketplace? MoPub Marketplace is our real-time bidding exchange, which gives publishers access to an additional revenue source through a competitive auction with complete transparency and control. MoPub’s...]]></description>
+   <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Custom Native Network Setup</title>
    <link>https://dev.twitter.com/docs/custom-native-network-setup</link>
@@ -118,12 +124,6 @@
    <title>Add an Application to the Dashboard</title>
    <link>https://dev.twitter.com/docs/add-application-dashboard</link>
    <description><![CDATA[To target ads to your application, add the application of interest into the MoPub dashboard. From your Inventory tab, click “Add a New App.” Platform: Select the OS you wish your application to target. Options: iOS, Android, Mobile Web...]]></description>
-   <pubDate>Wed, 20 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Using Rich Media Creative</title>
-   <link>https://dev.twitter.com/docs/using-rich-media-creative</link>
-   <description><![CDATA[To implement a rich media creative, select HTML at the Creative File Type, drop in the HTML rich media tag in the HTML body, and select MRAID ad when applicable. MoPub supports the following rich media vendors: Celtra, Flashtalking, and...]]></description>
    <pubDate>Wed, 20 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
