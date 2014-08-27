@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 27 Aug 2014 02:15:03 +0200</pubDate>
+  <pubDate>Wed, 27 Aug 2014 02:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Custom Native Network Setup</title>
+   <link>https://dev.twitter.com/docs/custom-native-network-setup</link>
+   <description><![CDATA[MoPub supports 3rd party Ad Network SDKs through a Custom Native Network implementation. If an Ad Network not listed provides their solution through an SDK, the network may be integrated leveraging MoPub’s Custom Events. The integration of Custom Native Networks requires the development...]]></description>
+   <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Ad Network Setup</title>
    <link>https://dev.twitter.com/docs/ad-network-setup</link>
@@ -118,12 +124,6 @@
    <title>Using Rich Media Creative</title>
    <link>https://dev.twitter.com/docs/using-rich-media-creative</link>
    <description><![CDATA[To implement a rich media creative, select HTML at the Creative File Type, drop in the HTML rich media tag in the HTML body, and select MRAID ad when applicable. MoPub supports the following rich media vendors: Celtra, Flashtalking, and...]]></description>
-   <pubDate>Wed, 20 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>DFP Integration: Passing Key Values</title>
-   <link>https://dev.twitter.com/docs/dfp-integration-passing-key-values</link>
-   <description><![CDATA[Add request parameters in the form $dfp_request_parameter DFP Support Links DFP API Integration Support Link AdMob SDK Support Link Macros are strings of text that the DoubleClick ad server replaces with other strings of text according to a set of rules. Macros are case-sensitive...]]></description>
    <pubDate>Wed, 20 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
