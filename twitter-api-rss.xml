@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 27 Aug 2014 20:30:03 +0200</pubDate>
+  <pubDate>Thu, 28 Aug 2014 00:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Welcome to the Twitter Developer Site!</title>
+   <link>https://dev.twitter.com/docs/overview-general</link>
+   <description><![CDATA[Whether you want to drop widgets into your existing website, have links to your website display as Cards on Twitter, or make use of our powerful APIs in your own apps, you’ve come to the right place! Before you get started, please make sure to familiarize yourself with our Developer Rules of the...]]></description>
+   <pubDate>Wed, 27 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Metamarket Publisher Guide</title>
    <link>https://dev.twitter.com/docs/metamarket-publisher-guide</link>
@@ -118,12 +124,6 @@
    <title>Generating Ad Unit Code for Integration</title>
    <link>https://dev.twitter.com/docs/generating-ad-unit-code-integration</link>
    <description><![CDATA[From the Ad Unit page, you can pull the ad unit code by clicking &ldquo;Code Integration&rdquo;. Once all your ad units have been created, you can follow our technical guide to begin integration of the SDK. &nbsp;]]></description>
-   <pubDate>Thu, 21 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Embedded Tweet parameter reference</title>
-   <link>https://dev.twitter.com/docs/embedded-tweets/reference</link>
-   <description><![CDATA[An Embedded Tweet supports customization in data-* attributes and JavaScript factory functions. This reference document describes parameters used in all formats. Reference the oEmbed API to set these parameters as part of an HTML response for a Tweet ID or URL. Parameters id required The...]]></description>
    <pubDate>Thu, 21 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
