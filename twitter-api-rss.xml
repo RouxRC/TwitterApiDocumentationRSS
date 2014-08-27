@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 27 Aug 2014 02:45:02 +0200</pubDate>
+  <pubDate>Wed, 27 Aug 2014 15:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>MRAID Vendor Tag Certification Process</title>
+   <link>https://dev.twitter.com/docs/mraid-vendor-tag-certification-process</link>
+   <description><![CDATA[MoPub MRAID Vendor Certification Process Guiding Principles: The MoPub SDK is built to be fully compliant with the IAB MRAID v1.0 specification Overview: Pre-Certification Questionnaire Setup Vendor Self Test Vendor impression test Reporting test Scale Test Best Practices...]]></description>
+   <pubDate>Wed, 27 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Marketplace Best Practices</title>
    <link>https://dev.twitter.com/docs/marketplace-best-practices</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/create-ad-unit</link>
    <description><![CDATA[Your application will require one or more Ad Units in order to show ads. From your Inventory tab, click “Add a New App” Select your platform choice in the Device Format section Select Ad Format type...]]></description>
    <pubDate>Thu, 21 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Add an Application to the Dashboard</title>
-   <link>https://dev.twitter.com/docs/add-application-dashboard</link>
-   <description><![CDATA[To target ads to your application, add the application of interest into the MoPub dashboard. From your Inventory tab, click “Add a New App.” Platform: Select the OS you wish your application to target. Options: iOS, Android, Mobile Web...]]></description>
-   <pubDate>Wed, 20 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
