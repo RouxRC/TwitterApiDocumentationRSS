@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 27 Aug 2014 17:00:02 +0200</pubDate>
+  <pubDate>Wed, 27 Aug 2014 20:15:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Metamarket Publisher Guide</title>
+   <link>https://dev.twitter.com/docs/metamarket-publisher-guide</link>
+   <description><![CDATA[Metrics Net Revenue estimated publisher revenue (this is not used for billing but aligns within 1-3% of your final invoice) Auctions number of MoPub auctions. This should be roughly equivalent to the number of Marketplace attempts...]]></description>
+   <pubDate>Wed, 27 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>MRAID Vendor Tag Certification Process</title>
    <link>https://dev.twitter.com/docs/mraid-vendor-tag-certification-process</link>
@@ -118,12 +124,6 @@
    <title>Embedded Tweet parameter reference</title>
    <link>https://dev.twitter.com/docs/embedded-tweets/reference</link>
    <description><![CDATA[An Embedded Tweet supports customization in data-* attributes and JavaScript factory functions. This reference document describes parameters used in all formats. Reference the oEmbed API to set these parameters as part of an HTML response for a Tweet ID or URL. Parameters id required The...]]></description>
-   <pubDate>Thu, 21 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Create an Ad Unit</title>
-   <link>https://dev.twitter.com/docs/create-ad-unit</link>
-   <description><![CDATA[Your application will require one or more Ad Units in order to show ads. From your Inventory tab, click “Add a New App” Select your platform choice in the Device Format section Select Ad Format type...]]></description>
    <pubDate>Thu, 21 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
