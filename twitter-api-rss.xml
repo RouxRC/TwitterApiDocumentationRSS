@@ -4,18 +4,18 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 28 Aug 2014 22:45:02 +0200</pubDate>
+  <pubDate>Thu, 28 Aug 2014 23:00:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>MobFox Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/mobfox-revenue-reporting</link>
+   <description><![CDATA[MobFox Revenue Reporting Setup Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for MobFox, you will need your MobFox Zone ID. Check...]]></description>
+   <pubDate>Thu, 28 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Ad Network Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/ad-network-revenue-reporting</link>
    <description><![CDATA[MoPub allows you to view your ad network revenue, impression, and click data, all in one place. From the MoPub interface you can get a snapshot of how your ad networks have been performing, allowing you to manage and optimize your revenue more efficiently. Sounds great, how do I get started? To...]]></description>
-   <pubDate>Thu, 28 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Mobfox Revenue Reporting</title>
-   <link>https://dev.twitter.com/docs/mobfox-revenue-reporting</link>
-   <description><![CDATA[Mobfox Revenue Reporting Setup Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for Mobfox, you will need your Mobfox Zone ID. Check...]]></description>
    <pubDate>Thu, 28 Aug 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
