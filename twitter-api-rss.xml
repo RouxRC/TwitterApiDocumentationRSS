@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 28 Aug 2014 23:00:03 +0200</pubDate>
+  <pubDate>Thu, 28 Aug 2014 23:45:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Sign up for Twitter&#039;s Developer Newsletter</title>
+   <link>https://dev.twitter.com/docs/sign-twitters-developer-newsletter</link>
+   <description><![CDATA[]]></description>
+   <pubDate>Thu, 28 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>MobFox Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/mobfox-revenue-reporting</link>
@@ -118,12 +124,6 @@
    <title>Checking the MoPub SDK Version</title>
    <link>https://dev.twitter.com/docs/checking-mopub-sdk-version</link>
    <description><![CDATA[Checking the MoPub SDK Version As a best practice, we recommend that you update to the most recent version of the MoPub SDK every time you push an update to the Apple App Store or Google Play Store. To check the version of the SDK that is currently integrated in your...]]></description>
-   <pubDate>Mon, 25 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Reporting</title>
-   <link>https://dev.twitter.com/docs/reporting</link>
-   <description><![CDATA[The MoPub reporting tool can be found here or by clicking &lsquo;Reports&rsquo; under Your Account. &nbsp; Reports can be broken down using up to three different type of paramaters &nbsp; Please note that data for yesterday becomes available at 12:00PM Pacific Time &nbsp; You can...]]></description>
    <pubDate>Mon, 25 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
