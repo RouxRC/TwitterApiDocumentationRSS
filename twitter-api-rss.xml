@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 28 Aug 2014 00:45:03 +0200</pubDate>
+  <pubDate>Thu, 28 Aug 2014 02:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>API Basics</title>
+   <link>https://dev.twitter.com/docs/overview-api</link>
+   <description><![CDATA[Here are some resources that will help you understand the basics of all our APIs. If you haven’t already, make sure that you have familiarized yourself with the Developer Rules of the Road. Check out the OAuth section to learn more about how we do authentication and authorization. Platform Objects...]]></description>
+   <pubDate>Wed, 27 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Welcome to the Twitter Developer Site!</title>
    <link>https://dev.twitter.com/docs/overview-general</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/twitter-mopub-server-server-api-technical-specifications-10</link>
    <description><![CDATA[Overview The MoPub Server-to-Server API makes it easier for ad networks and demand partners to connect with the MoPub platform outside of SDK libraries. To integrate with MoPub through the Server-to-Server API, follow the integration approval process and technical specifications...]]></description>
    <pubDate>Fri, 22 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Generating Ad Unit Code for Integration</title>
-   <link>https://dev.twitter.com/docs/generating-ad-unit-code-integration</link>
-   <description><![CDATA[From the Ad Unit page, you can pull the ad unit code by clicking &ldquo;Code Integration&rdquo;. Once all your ad units have been created, you can follow our technical guide to begin integration of the SDK. &nbsp;]]></description>
-   <pubDate>Thu, 21 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
