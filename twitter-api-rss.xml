@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 29 Aug 2014 02:45:03 +0200</pubDate>
+  <pubDate>Fri, 29 Aug 2014 20:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Understanding UTC Time (Time Zones)</title>
+   <link>https://dev.twitter.com/docs/understanding-utc-time-time-zones</link>
+   <description><![CDATA[How to read charts in UTC In a chart, each bar in your MoPub interface represents 1 day in UTC time. For example, if you are in Pacific time and looking at yesterday&rsquo;s data, that represents data starting from 5:00 PM PDT 2 days before until 4:59 PM PDT yesterday. Stated otherwise, it...]]></description>
+   <pubDate>Fri, 29 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>JavaScript Interfaces for Twitter for Websites</title>
    <link>https://dev.twitter.com/docs/tfw-javascript</link>
@@ -118,12 +124,6 @@
    <title>MoPub Macros</title>
    <link>https://dev.twitter.com/docs/mopub-macros</link>
    <description><![CDATA[MoPub supports the following macros for a publisher&rsquo;s 3rd party ad tags and trackers: &nbsp; Click URL (Unescaped): &nbsp;%%CLICK_URL_UNESC%%&nbsp; &nbsp; Click URL (Escaped): &nbsp;%%CLICK_URL_ESC%% &nbsp; Cache Buster (Generates a random number): %%CACHEBUSTER%% &nbsp; Ad...]]></description>
-   <pubDate>Mon, 25 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>AdMarvel Integration</title>
-   <link>https://dev.twitter.com/docs/admarvel-integration</link>
-   <description><![CDATA[AdMarvel SDK When using the AdMarvel SDK, passing IFA and AndroidID can dramatically affect Marketplace performance. The versions below are certified to work correctly with Marketplace: iOS: AdMarvel SDK version 3.0.1 and higher is required to pass IDFA Android: All...]]></description>
    <pubDate>Mon, 25 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
