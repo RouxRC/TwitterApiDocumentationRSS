@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 28 Aug 2014 23:45:02 +0200</pubDate>
+  <pubDate>Fri, 29 Aug 2014 02:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>JavaScript Interfaces for Twitter for Websites</title>
+   <link>https://dev.twitter.com/docs/tfw-javascript</link>
+   <description><![CDATA[By using Twitter JavaScript, you agree to the Developer Rules of the Road. If you're integrating your site with Twitter using Twitter for Websites and Web Intents, you can enhance your application using JavaScript. By default, widgets-js will find mark-up in a page and convert basic, functional...]]></description>
+   <pubDate>Thu, 28 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Sign up for Twitter&#039;s Developer Newsletter</title>
    <link>https://dev.twitter.com/docs/sign-twitters-developer-newsletter</link>
@@ -118,12 +124,6 @@
    <title>AdMarvel Integration</title>
    <link>https://dev.twitter.com/docs/admarvel-integration</link>
    <description><![CDATA[AdMarvel SDK When using the AdMarvel SDK, passing IFA and AndroidID can dramatically affect Marketplace performance. The versions below are certified to work correctly with Marketplace: iOS: AdMarvel SDK version 3.0.1 and higher is required to pass IDFA Android: All...]]></description>
-   <pubDate>Mon, 25 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Checking the MoPub SDK Version</title>
-   <link>https://dev.twitter.com/docs/checking-mopub-sdk-version</link>
-   <description><![CDATA[Checking the MoPub SDK Version As a best practice, we recommend that you update to the most recent version of the MoPub SDK every time you push an update to the Apple App Store or Google Play Store. To check the version of the SDK that is currently integrated in your...]]></description>
    <pubDate>Mon, 25 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
