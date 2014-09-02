@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 03 Sep 2014 01:00:03 +0200</pubDate>
+  <pubDate>Wed, 03 Sep 2014 01:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Millennial Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/millennial-revenue-reporting</link>
+   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. Revenue reporting requires the Millennial Username, Password. Your app name must also exactly match the app name in your Millennial...]]></description>
+   <pubDate>Tue, 02 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Mojiva Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/mojiva-revenue-reporting</link>
@@ -118,12 +124,6 @@
    <title>Server to Server Network Support</title>
    <link>https://dev.twitter.com/docs/server-server-network-support</link>
    <description><![CDATA[MoPub provides Server to Server integrations with the following networks: &nbsp; Jumptap &nbsp; InMobi &nbsp; MobFox &nbsp; Tapit &nbsp; Mojiva&nbsp; &nbsp; Huntmads &nbsp; This means that there is no additional development work required. Once you have created an account with a...]]></description>
-   <pubDate>Mon, 25 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Ad Networks FAQ</title>
-   <link>https://dev.twitter.com/docs/ad-networks-faq</link>
-   <description><![CDATA[What networks does MoPub support? MoPub supports dozens of the most popular ad networks via server-to-server connections. For a list of standard supported networks, visit here.&nbsp;In addition to these networks, you can set up any network on MoPub via a &quot;Custom Event&quot;.&nbsp;These...]]></description>
    <pubDate>Mon, 25 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
