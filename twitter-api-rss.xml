@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 03 Sep 2014 01:15:03 +0200</pubDate>
+  <pubDate>Wed, 03 Sep 2014 01:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Setting Up MoPub Mobile Web Tags</title>
+   <link>https://dev.twitter.com/docs/setting-mopub-mobile-web-tags</link>
+   <description><![CDATA[MoPub supports a simple Javascript tag to integrate our ad serving technology into your mobile websites. Simply include the following tags, customized with your ad unit ID and creative size. Details Paste the following code snippet into your mobile webpage where you'd like to see ads appear:...]]></description>
+   <pubDate>Tue, 02 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>MoPub Overview</title>
+   <link>https://dev.twitter.com/docs/mopub-overview</link>
+   <description><![CDATA[What is MoPub? MoPub is a mobile ad serving platform. We help you monetize your apps more effectively. We offer a free, self-serve product that lets you get started with ad serving quickly while offering sophisticated features that you will need as you grow. With streamlined campaign management,...]]></description>
+   <pubDate>Tue, 02 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Millennial Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/millennial-revenue-reporting</link>
@@ -91,12 +103,6 @@
    <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
-   <title>What is MoPub?</title>
-   <link>https://dev.twitter.com/docs/what-mopub</link>
-   <description><![CDATA[What is MoPub? MoPub is a mobile ad serving platform. We help you monetize your apps more effectively. We offer a free, self-serve product that lets you get started with ad serving quickly while offering sophisticated features that you will need as you grow. With streamlined campaign management,...]]></description>
-   <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
    <title>Japanese Pages</title>
    <link>https://dev.twitter.com/ja-pages</link>
    <description><![CDATA[アプリケーション・インストールとディープ・リンク Twitterカード トラブルシューティング＆FAQ Playerカード Twitter公認製品プログラム [node:21276] 埋め込みタイムライン 埋め込みツイート [node:16792]]]></description>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/how-integrate-facebook-audience-network-using-custom-events-0</link>
    <description><![CDATA[You can work with Facebook&#39;s Audience Network using Custom Events the same way you can with other ad network on MoPub. MoPub&#39;s pre-built Custom Event adapter makes this process even simpler. For more information on Custom Events, see Setting Up Ad Networks. Important Note: These Custom...]]></description>
    <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Server to Server Network Support</title>
-   <link>https://dev.twitter.com/docs/server-server-network-support</link>
-   <description><![CDATA[MoPub provides Server to Server integrations with the following networks: &nbsp; Jumptap &nbsp; InMobi &nbsp; MobFox &nbsp; Tapit &nbsp; Mojiva&nbsp; &nbsp; Huntmads &nbsp; This means that there is no additional development work required. Once you have created an account with a...]]></description>
-   <pubDate>Mon, 25 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
