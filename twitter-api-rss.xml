@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Wed, 03 Sep 2014 18:45:02 +0200</pubDate>
+  <pubDate>Thu, 04 Sep 2014 01:00:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Ad Network Best Practices</title>
+   <link>https://dev.twitter.com/docs/ad-network-best-practices</link>
+   <description><![CDATA[Locking down iAD Ad Unit Sizes If the application is a universal application, there are some standard integration steps to help with resizing of the ad units, particularly when trying to lock down iAd ad sizes. By following the steps and using the code snippet below, you have...]]></description>
+   <pubDate>Wed, 03 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Setting Up MoPub Mobile Web Tags</title>
    <link>https://dev.twitter.com/docs/setting-mopub-mobile-web-tags</link>
@@ -118,12 +124,6 @@
    <title>Technical Integration FAQ</title>
    <link>https://dev.twitter.com/docs/technical-integration-faq</link>
    <description><![CDATA[I&rsquo;m testing my ad unit and nothing is happening. Why? At the moment, ad units that aren&#39;t receiving ad requests from live traffic get removed from our ad servers periodically. When the ad unit starts receiving traffic again, the information gets loaded on those machines and there&#39;s a...]]></description>
-   <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>How To Integrate Facebook Audience Network Using Custom Events</title>
-   <link>https://dev.twitter.com/docs/how-integrate-facebook-audience-network-using-custom-events-0</link>
-   <description><![CDATA[You can work with Facebook&#39;s Audience Network using Custom Events the same way you can with other ad network on MoPub. MoPub&#39;s pre-built Custom Event adapter makes this process even simpler. For more information on Custom Events, see Setting Up Ad Networks. Important Note: These Custom...]]></description>
    <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
