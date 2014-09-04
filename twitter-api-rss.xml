@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Thu, 04 Sep 2014 15:30:02 +0200</pubDate>
+  <pubDate>Fri, 05 Sep 2014 01:45:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Huntmads Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/huntmads-revenue-reporting</link>
+   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for Huntmads, you will need to enter your Huntmads API Token&nbsp;&nbsp;on the network setup...]]></description>
+   <pubDate>Thu, 04 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Twitter | MoPub Server-to-Server API Technical Specifications 1.0</title>
    <link>https://dev.twitter.com/docs/twitter-mopub-server-server-api-technical-specifications-10</link>
@@ -118,12 +124,6 @@
    <title>Japanese Pages</title>
    <link>https://dev.twitter.com/ja-pages</link>
    <description><![CDATA[アプリケーション・インストールとディープ・リンク Twitterカード トラブルシューティング＆FAQ Playerカード Twitter公認製品プログラム [node:21276] 埋め込みタイムライン 埋め込みツイート [node:16792]]]></description>
-   <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Scripting: Events</title>
-   <link>https://dev.twitter.com/docs/tfw/events</link>
-   <description><![CDATA[By using Twitter Javascript, you agree to the Developer Rules of the Road. By default, widgets-js will find mark-up in a page and convert basic, functional mark-up into rich interactive widgets. In addition, there are a number of functions of widgets-js that allow developers to work with Twitter...]]></description>
    <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
