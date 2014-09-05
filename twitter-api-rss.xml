@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 05 Sep 2014 17:15:03 +0200</pubDate>
+  <pubDate>Fri, 05 Sep 2014 19:00:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Editing a Line Item</title>
+   <link>https://dev.twitter.com/docs/editing-line-item</link>
+   <description><![CDATA[This page allows you to take a detailed look at a specific Line Item.&nbsp; &nbsp; The overall Line Item can be edited by clicking &lsquo;Edit Line Item&rsquo;. &nbsp; Line Items can be paused, resumed, or archived. &nbsp; On this page, you can add creative by clicking on the &ldquo;...]]></description>
+   <pubDate>Fri, 05 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>MRAID Vendor Tag Certification Process</title>
    <link>https://dev.twitter.com/docs/mraid-vendor-tag-certification-process</link>
@@ -118,12 +124,6 @@
    <title>Ad Network Setup</title>
    <link>https://dev.twitter.com/docs/ad-network-setup</link>
    <description><![CDATA[MoPub allows for the set-up and management of multiple Ad Networks through the MoPub Dashboard. Ad Networks will serve ads to the ad unit ID that is referenced. From within the dashboard, click the Networks tab. From your Network tab, click “Add a Network” MoPub...]]></description>
-   <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Japanese Pages</title>
-   <link>https://dev.twitter.com/ja-pages</link>
-   <description><![CDATA[アプリケーション・インストールとディープ・リンク Twitterカード トラブルシューティング＆FAQ Playerカード Twitter公認製品プログラム [node:21276] 埋め込みタイムライン 埋め込みツイート [node:16792]]]></description>
    <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
