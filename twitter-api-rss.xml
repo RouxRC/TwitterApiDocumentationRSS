@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 05 Sep 2014 19:00:03 +0200</pubDate>
+  <pubDate>Sat, 06 Sep 2014 01:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>What is an Order &amp; Line Item?</title>
+   <link>https://dev.twitter.com/docs/what-order-line-item</link>
+   <description><![CDATA[In order to monetize your app with MoPub, you will need to set up orders and line items. In this section you will find more information on orders and line items. An Order is a a group of related Line Items, which are also known as campaigns. Line items are campaigns that have different...]]></description>
+   <pubDate>Fri, 05 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>MoPub Technical Integration</title>
+   <link>https://dev.twitter.com/docs/mopub-technical-integration</link>
+   <description><![CDATA[Here you can find more information on how to work with various networks by creating Custom Event classes. You will also find technical integration and support guides. If you have a specific issue that is not addressed here, please feel free to post a topic in our Discussion Forum or contact...]]></description>
+   <pubDate>Fri, 05 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Editing a Line Item</title>
    <link>https://dev.twitter.com/docs/editing-line-item</link>
@@ -112,18 +124,6 @@
    <title>Marketplace Best Practices</title>
    <link>https://dev.twitter.com/docs/marketplace-best-practices</link>
    <description><![CDATA[Why enable Marketplace? MoPub Marketplace is our real-time bidding exchange, which gives publishers access to an additional revenue source through a competitive auction with complete transparency and control. MoPub’s...]]></description>
-   <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Custom Native Network Setup</title>
-   <link>https://dev.twitter.com/docs/custom-native-network-setup</link>
-   <description><![CDATA[MoPub supports 3rd party Ad Network SDKs through a Custom Native Network implementation. If an Ad Network not listed provides their solution through an SDK, the network may be integrated leveraging MoPub’s Custom Events. The integration of Custom Native Networks requires the development...]]></description>
-   <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Ad Network Setup</title>
-   <link>https://dev.twitter.com/docs/ad-network-setup</link>
-   <description><![CDATA[MoPub allows for the set-up and management of multiple Ad Networks through the MoPub Dashboard. Ad Networks will serve ads to the ad unit ID that is referenced. From within the dashboard, click the Networks tab. From your Network tab, click “Add a Network” MoPub...]]></description>
    <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
