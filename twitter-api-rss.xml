@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Fri, 05 Sep 2014 03:30:02 +0200</pubDate>
+  <pubDate>Fri, 05 Sep 2014 17:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>MRAID Vendor Tag Certification Process</title>
+   <link>https://dev.twitter.com/docs/mraid-vendor-tag-certification-process</link>
+   <description><![CDATA[MoPub MRAID Vendor Certification Process Guiding Principles: The MoPub SDK is built to be fully compliant with the IAB MRAID v1.0 specification Overview: Pre-Certification Questionnaire Tag Setup in MoPub UI MRAID Vendor Self Test MRAID Vendor Impression Test DSP Reporting Test...]]></description>
+   <pubDate>Fri, 05 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Huntmads Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/huntmads-revenue-reporting</link>
@@ -94,12 +100,6 @@
    <title>Metamarket Publisher Guide</title>
    <link>https://dev.twitter.com/docs/metamarket-publisher-guide</link>
    <description><![CDATA[Metrics Net revenue estimated publisher revenue (this is not used for billing but aligns within 1-3% of your final invoice...]]></description>
-   <pubDate>Wed, 27 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>MRAID Vendor Tag Certification Process</title>
-   <link>https://dev.twitter.com/docs/mraid-vendor-tag-certification-process</link>
-   <description><![CDATA[MoPub MRAID Vendor Certification Process Guiding Principles: The MoPub SDK is built to be fully compliant with the IAB MRAID v1.0 specification Overview: Pre-Certification Questionnaire Setup Vendor Self Test Vendor impression test Reporting test Scale Test Best Practices...]]></description>
    <pubDate>Wed, 27 Aug 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
