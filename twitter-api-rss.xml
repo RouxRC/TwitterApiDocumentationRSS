@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sun, 07 Sep 2014 00:00:02 +0200</pubDate>
+  <pubDate>Sun, 07 Sep 2014 00:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Create and Manage a Segment (Ad Networks)</title>
+   <link>https://dev.twitter.com/docs/create-and-manage-segment-ad-networks</link>
+   <description><![CDATA[Segments Overview MoPub’s network management interface allows you to group your inventory into “segments”. A “segment” is a slice of your inventory with specific apps or ad units that can be targeted to specific countries and networks. It is a combination of three variables...]]></description>
+   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Chartboost Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/chartboost-revenue-reporting</link>
@@ -118,12 +124,6 @@
    <title>Ad Network Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/ad-network-revenue-reporting</link>
    <description><![CDATA[MoPub allows you to view your ad network revenue, impression, and click data, all in one place. From the MoPub interface you can get a snapshot of how your ad networks have been performing, allowing you to manage and optimize your revenue more efficiently. Sounds great, how do I get started? To...]]></description>
-   <pubDate>Thu, 28 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>API Basics</title>
-   <link>https://dev.twitter.com/docs/overview-api</link>
-   <description><![CDATA[Here are some resources that will help you understand the basics of all our APIs. If you haven’t already, make sure that you have familiarized yourself with the Developer Rules of the Road. Check out the OAuth section to learn more about how we do authentication and authorization. Platform Objects...]]></description>
    <pubDate>Thu, 28 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
