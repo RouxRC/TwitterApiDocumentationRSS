@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sat, 06 Sep 2014 23:45:02 +0200</pubDate>
+  <pubDate>Sun, 07 Sep 2014 00:00:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Chartboost Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/chartboost-revenue-reporting</link>
+   <description><![CDATA[In order to set up revenue reporting for Chartboost, you need to first set up Chartboost as a network. Directions to set up Chartboost. In order to set up Chartboost for revenue reporting, you will need to enter in your Chartboost User ID and Chartboost User Signature into the MoPub UI....]]></description>
+   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Chartboost Network Setup</title>
    <link>https://dev.twitter.com/docs/chartboost-network-setup</link>
@@ -119,12 +125,6 @@
    <link>https://dev.twitter.com/docs/overview-api</link>
    <description><![CDATA[Here are some resources that will help you understand the basics of all our APIs. If you haven’t already, make sure that you have familiarized yourself with the Developer Rules of the Road. Check out the OAuth section to learn more about how we do authentication and authorization. Platform Objects...]]></description>
    <pubDate>Thu, 28 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Welcome to the Twitter Developer Site!</title>
-   <link>https://dev.twitter.com/docs/overview-general</link>
-   <description><![CDATA[Whether you want to drop widgets into your existing website, have links to your website display as Cards on Twitter, or make use of our powerful APIs in your own apps, you’ve come to the right place! Before you get started, please make sure to familiarize yourself with our Developer Rules of the...]]></description>
-   <pubDate>Wed, 27 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
