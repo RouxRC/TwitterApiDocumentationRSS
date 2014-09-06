@@ -4,7 +4,127 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sat, 06 Sep 2014 18:30:01 +0200</pubDate>
+  <pubDate>Sat, 06 Sep 2014 19:00:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>What is an Order &amp; Line Item?</title>
+   <link>https://dev.twitter.com/docs/what-order-line-item</link>
+   <description><![CDATA[In order to monetize your app with MoPub, you will need to set up orders and line items. In this section you will find more information on orders and line items. An Order is a a group of related Line Items, which are also known as campaigns. Line items are campaigns that have different...]]></description>
+   <pubDate>Fri, 05 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>MoPub Technical Integration</title>
+   <link>https://dev.twitter.com/docs/mopub-technical-integration</link>
+   <description><![CDATA[Here you can find more information on how to work with various networks by creating Custom Event classes. You will also find technical integration and support guides. If you have a specific issue that is not addressed here, please feel free to post a topic in our Discussion Forum or contact...]]></description>
+   <pubDate>Fri, 05 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Editing a Line Item</title>
+   <link>https://dev.twitter.com/docs/editing-line-item</link>
+   <description><![CDATA[This page allows you to take a detailed look at a specific Line Item.&nbsp; &nbsp; The overall Line Item can be edited by clicking &lsquo;Edit Line Item&rsquo;. &nbsp; Line Items can be paused, resumed, or archived. &nbsp; On this page, you can add creative by clicking on the &ldquo;...]]></description>
+   <pubDate>Fri, 05 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>MRAID Vendor Tag Certification Process</title>
+   <link>https://dev.twitter.com/docs/mraid-vendor-tag-certification-process</link>
+   <description><![CDATA[MoPub MRAID Vendor Certification Process Guiding Principles: The MoPub SDK is built to be fully compliant with the IAB MRAID v1.0 specification Overview: Pre-Certification Questionnaire Tag Setup in MoPub UI MRAID Vendor Self Test MRAID Vendor Impression Test DSP Reporting Test...]]></description>
+   <pubDate>Fri, 05 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Huntmads Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/huntmads-revenue-reporting</link>
+   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for Huntmads, you will need to enter your Huntmads API Token on the network setup...]]></description>
+   <pubDate>Thu, 04 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Twitter | MoPub Server-to-Server API Technical Specifications 1.0</title>
+   <link>https://dev.twitter.com/docs/twitter-mopub-server-server-api-technical-specifications-10</link>
+   <description><![CDATA[Overview The MoPub Server-to-Server API makes it easier for ad networks and demand partners to connect with the MoPub platform outside of SDK libraries. To integrate with MoPub through the Server-to-Server API, follow the integration approval process and technical specifications...]]></description>
+   <pubDate>Thu, 04 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Ad Network Best Practices</title>
+   <link>https://dev.twitter.com/docs/ad-network-best-practices</link>
+   <description><![CDATA[Locking down iAD Ad Unit Sizes If the application is a universal application, there are some standard integration steps to help with resizing of the ad units, particularly when trying to lock down iAd ad sizes. By following the steps and using the code snippet below, you have...]]></description>
+   <pubDate>Wed, 03 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Setting Up MoPub Mobile Web Tags</title>
+   <link>https://dev.twitter.com/docs/setting-mopub-mobile-web-tags</link>
+   <description><![CDATA[MoPub supports a simple Javascript tag to integrate our ad serving technology into your mobile websites. Simply include the following tags, customized with your ad unit ID and creative size. Details Paste the following code snippet into your mobile webpage where you'd like to see ads appear:...]]></description>
+   <pubDate>Tue, 02 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>MoPub Overview</title>
+   <link>https://dev.twitter.com/docs/mopub-overview</link>
+   <description><![CDATA[What is MoPub? MoPub is a mobile ad serving platform. We help you monetize your apps more effectively. We offer a free, self-serve product that lets you get started with ad serving quickly while offering sophisticated features that you will need as you grow. With streamlined campaign management,...]]></description>
+   <pubDate>Tue, 02 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Millennial Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/millennial-revenue-reporting</link>
+   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. Revenue reporting requires the Millennial Username, Password. Your app name must also exactly match the app name in your Millennial...]]></description>
+   <pubDate>Tue, 02 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Mojiva Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/mojiva-revenue-reporting</link>
+   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for Mojiva, you will need to enter your private key on the networks set up page...]]></description>
+   <pubDate>Tue, 02 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Understanding UTC Time (Time Zones)</title>
+   <link>https://dev.twitter.com/docs/understanding-utc-time-time-zones</link>
+   <description><![CDATA[How to read charts in UTC In a chart, each bar in your MoPub interface represents 1 day in UTC time. For example, if you are in Pacific time and looking at yesterday&rsquo;s data, that represents data starting from 5:00 PM PDT 2 days before until 4:59 PM PDT yesterday. Stated otherwise, it...]]></description>
+   <pubDate>Fri, 29 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>JavaScript Interfaces for Twitter for Websites</title>
+   <link>https://dev.twitter.com/docs/tfw-javascript</link>
+   <description><![CDATA[By using Twitter JavaScript, you agree to the Developer Rules of the Road. If you're integrating your site with Twitter using Twitter for Websites and Web Intents, you can enhance your application using JavaScript. By default, widgets-js will find mark-up in a page and convert basic, functional...]]></description>
+   <pubDate>Thu, 28 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Sign up for Twitter&#039;s Developer Newsletter</title>
+   <link>https://dev.twitter.com/docs/sign-twitters-developer-newsletter</link>
+   <description><![CDATA[]]></description>
+   <pubDate>Thu, 28 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>MobFox Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/mobfox-revenue-reporting</link>
+   <description><![CDATA[MobFox Revenue Reporting Setup Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for MobFox, you will need your MobFox Zone ID. Check...]]></description>
+   <pubDate>Thu, 28 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Ad Network Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/ad-network-revenue-reporting</link>
+   <description><![CDATA[MoPub allows you to view your ad network revenue, impression, and click data, all in one place. From the MoPub interface you can get a snapshot of how your ad networks have been performing, allowing you to manage and optimize your revenue more efficiently. Sounds great, how do I get started? To...]]></description>
+   <pubDate>Thu, 28 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>API Basics</title>
+   <link>https://dev.twitter.com/docs/overview-api</link>
+   <description><![CDATA[Here are some resources that will help you understand the basics of all our APIs. If you haven’t already, make sure that you have familiarized yourself with the Developer Rules of the Road. Check out the OAuth section to learn more about how we do authentication and authorization. Platform Objects...]]></description>
+   <pubDate>Thu, 28 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Welcome to the Twitter Developer Site!</title>
+   <link>https://dev.twitter.com/docs/overview-general</link>
+   <description><![CDATA[Whether you want to drop widgets into your existing website, have links to your website display as Cards on Twitter, or make use of our powerful APIs in your own apps, you’ve come to the right place! Before you get started, please make sure to familiarize yourself with our Developer Rules of the...]]></description>
+   <pubDate>Wed, 27 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Metamarket Publisher Guide</title>
+   <link>https://dev.twitter.com/docs/metamarket-publisher-guide</link>
+   <description><![CDATA[Metrics Net revenue estimated publisher revenue (this is not used for billing but aligns within 1-3% of your final invoice...]]></description>
+   <pubDate>Wed, 27 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Marketplace Best Practices</title>
+   <link>https://dev.twitter.com/docs/marketplace-best-practices</link>
+   <description><![CDATA[Why enable Marketplace? MoPub Marketplace is our real-time bidding exchange, which gives publishers access to an additional revenue source through a competitive auction with complete transparency and control. MoPub’s...]]></description>
+   <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
+  </item>
  </channel>
 </rss>
