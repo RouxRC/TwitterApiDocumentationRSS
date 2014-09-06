@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sat, 06 Sep 2014 20:15:02 +0200</pubDate>
+  <pubDate>Sat, 06 Sep 2014 23:45:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Chartboost Network Setup</title>
+   <link>https://dev.twitter.com/docs/chartboost-network-setup</link>
+   <description><![CDATA[In order to set up Chartboost, you will need the most recent MoPub SDKs for iOS and Android. iOS: https://github.com/mopub/mopub-ios-sdk/ Android: https://github.com/mopub/mopub-android-sdk/ 1. You will first need to integrate the Chartboost SDK and Chartboost supporting...]]></description>
+   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Ad Networks FAQ</title>
+   <link>https://dev.twitter.com/docs/ad-networks-faq</link>
+   <description><![CDATA[What networks does MoPub support? MoPub supports dozens of the most popular ad networks via server-to-server connections. For a list of standard supported networks, visit here.&nbsp;In addition to these networks, you can set up any network on MoPub via a &quot;Custom Event&quot;.&nbsp;These...]]></description>
+   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>What is an Order &amp; Line Item?</title>
    <link>https://dev.twitter.com/docs/what-order-line-item</link>
@@ -113,18 +125,6 @@
    <link>https://dev.twitter.com/docs/overview-general</link>
    <description><![CDATA[Whether you want to drop widgets into your existing website, have links to your website display as Cards on Twitter, or make use of our powerful APIs in your own apps, you’ve come to the right place! Before you get started, please make sure to familiarize yourself with our Developer Rules of the...]]></description>
    <pubDate>Wed, 27 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Metamarket Publisher Guide</title>
-   <link>https://dev.twitter.com/docs/metamarket-publisher-guide</link>
-   <description><![CDATA[Metrics Net revenue estimated publisher revenue (this is not used for billing but aligns within 1-3% of your final invoice...]]></description>
-   <pubDate>Wed, 27 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Marketplace Best Practices</title>
-   <link>https://dev.twitter.com/docs/marketplace-best-practices</link>
-   <description><![CDATA[Why enable Marketplace? MoPub Marketplace is our real-time bidding exchange, which gives publishers access to an additional revenue source through a competitive auction with complete transparency and control. MoPub’s...]]></description>
-   <pubDate>Tue, 26 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
