@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sun, 07 Sep 2014 03:45:03 +0200</pubDate>
+  <pubDate>Sun, 07 Sep 2014 04:00:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>JumpTap Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/jumptap-revenue-reporting</link>
+   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for Jumptap, you will need to enter your Jumptap username, password, and set your...]]></description>
+   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Issues with AdMob &amp; Proguard</title>
+   <link>https://dev.twitter.com/docs/issues-admob-proguard</link>
+   <description><![CDATA[&nbsp; If you are using Proguard and the Admob the adapter is included but the AdMob SDK is getting stripped out, then when a call is made to that ad network, an application error will occur. &nbsp; In your configuration file of proguard (proguard.cfg), simply add this line: # AdMob Support -keep...]]></description>
+   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>InMobi Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/inmobi-revenue-reporting</link>
@@ -112,18 +124,6 @@
    <title>JavaScript Interfaces for Twitter for Websites</title>
    <link>https://dev.twitter.com/docs/tfw-javascript</link>
    <description><![CDATA[By using Twitter JavaScript, you agree to the Developer Rules of the Road. If you're integrating your site with Twitter using Twitter for Websites and Web Intents, you can enhance your application using JavaScript. By default, widgets-js will find mark-up in a page and convert basic, functional...]]></description>
-   <pubDate>Thu, 28 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Sign up for Twitter&#039;s Developer Newsletter</title>
-   <link>https://dev.twitter.com/docs/sign-twitters-developer-newsletter</link>
-   <description><![CDATA[]]></description>
-   <pubDate>Thu, 28 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>MobFox Revenue Reporting</title>
-   <link>https://dev.twitter.com/docs/mobfox-revenue-reporting</link>
-   <description><![CDATA[MobFox Revenue Reporting Setup Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for MobFox, you will need your MobFox Zone ID. Check...]]></description>
    <pubDate>Thu, 28 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
