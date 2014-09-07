@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sun, 07 Sep 2014 04:15:02 +0200</pubDate>
+  <pubDate>Sun, 07 Sep 2014 04:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Blocking Specific Creatives</title>
+   <link>https://dev.twitter.com/docs/blocking-specific-creatives</link>
+   <description><![CDATA[Individual creatives can be blocked on the ‘Creative Review’ Tab under the ‘Marketplace’ Tab. Check the specific creative you want to block and click the ‘Block/Unblock’ button. A drop down will show with the options Block Creative ID, Block Advertiser URL, Unblock Creative ID...]]></description>
+   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Ad Serving Sequence and CPM Values</title>
+   <link>https://dev.twitter.com/docs/ad-serving-sequence-and-cpm-values</link>
+   <description><![CDATA[Change CPMs and re-order the “waterfall” for a specific ad unit using the ‘Quick Edit’ function in the MoPub Dashboard tab. The ad unit waterfall is the sequence in which network ad sources are requested to fill each impression for a particular ad unit ID from within an application. Procedure:...]]></description>
+   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Mobile Web Ad Network Support</title>
    <link>https://dev.twitter.com/docs/mobile-web-ad-network-support</link>
@@ -112,18 +124,6 @@
    <title>MoPub Overview</title>
    <link>https://dev.twitter.com/docs/mopub-overview</link>
    <description><![CDATA[What is MoPub? MoPub is a mobile ad serving platform. We help you monetize your apps more effectively. We offer a free, self-serve product that lets you get started with ad serving quickly while offering sophisticated features that you will need as you grow. With streamlined campaign management,...]]></description>
-   <pubDate>Tue, 02 Sep 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Millennial Revenue Reporting</title>
-   <link>https://dev.twitter.com/docs/millennial-revenue-reporting</link>
-   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. Revenue reporting requires the Millennial Username, Password. Your app name must also exactly match the app name in your Millennial...]]></description>
-   <pubDate>Tue, 02 Sep 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Mojiva Revenue Reporting</title>
-   <link>https://dev.twitter.com/docs/mojiva-revenue-reporting</link>
-   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for Mojiva, you will need to enter your private key on the networks set up page...]]></description>
    <pubDate>Tue, 02 Sep 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
