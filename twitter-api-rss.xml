@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sun, 07 Sep 2014 10:15:02 +0200</pubDate>
+  <pubDate>Sun, 07 Sep 2014 10:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>How To Integrate Facebook Audience Network Using Custom Events</title>
+   <link>https://dev.twitter.com/docs/how-integrate-facebook-audience-network-using-custom-events-0</link>
+   <description><![CDATA[You can work with Facebook's Audience Network using Custom Events the same way you can with other ad network on MoPub. MoPub's pre-built Custom Event adapter makes this process even simpler. For more information on Custom Events, see Ad Network Setup.Important Note: These Custom Events are...]]></description>
+   <pubDate>Sun, 07 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Checking the MoPub SDK Version</title>
+   <link>https://dev.twitter.com/docs/checking-mopub-sdk-version</link>
+   <description><![CDATA[As a best practice, we recommend that you update to the most recent version of the MoPub SDK every time you push an update to the Apple App Store or Google Play Store. To check the version of the SDK that is currently integrated in your application, you can look at the MoPub.java file for Android...]]></description>
+   <pubDate>Sun, 07 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Technical Integration FAQ</title>
    <link>https://dev.twitter.com/docs/technical-integration-faq</link>
@@ -112,18 +124,6 @@
    <title>Ad Serving Sequence and CPM Values</title>
    <link>https://dev.twitter.com/docs/ad-serving-sequence-and-cpm-values</link>
    <description><![CDATA[Change CPMs and re-order the “waterfall” for a specific ad unit using the ‘Quick Edit’ function in the MoPub Dashboard tab. The ad unit waterfall is the sequence in which network ad sources are requested to fill each impression for a particular ad unit ID from within an application. Procedure:...]]></description>
-   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Mobile Web Ad Network Support</title>
-   <link>https://dev.twitter.com/docs/mobile-web-ad-network-support</link>
-   <description><![CDATA[Please note that Mobile Web does not support any Native Networks]]></description>
-   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>LifeStreet Revenue Reporting</title>
-   <link>https://dev.twitter.com/docs/lifestreet-revenue-reporting</link>
-   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for LifeStreet, you will need to enter your LifeStreet username, password, and set your...]]></description>
    <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
