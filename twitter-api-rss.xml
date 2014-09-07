@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sun, 07 Sep 2014 04:30:03 +0200</pubDate>
+  <pubDate>Sun, 07 Sep 2014 04:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Marketplace Content Filtering</title>
+   <link>https://dev.twitter.com/docs/marketplace-content-filtering</link>
+   <description><![CDATA[Publishers can customize the type of ads that are served in their apps and sites by using the Content Filtering controls. &nbsp;Publishers can set the filtering level from Strict, Moderate, Low and No Filtering. &nbsp;Lowering the content filtering usually results in stronger fill and higher CPMs....]]></description>
+   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Blocking Specific Creatives</title>
    <link>https://dev.twitter.com/docs/blocking-specific-creatives</link>
@@ -118,12 +124,6 @@
    <title>Setting Up MoPub Mobile Web Tags</title>
    <link>https://dev.twitter.com/docs/setting-mopub-mobile-web-tags</link>
    <description><![CDATA[MoPub supports a simple Javascript tag to integrate our ad serving technology into your mobile websites. Simply include the following tags, customized with your ad unit ID and creative size. Details Paste the following code snippet into your mobile webpage where you'd like to see ads appear:...]]></description>
-   <pubDate>Tue, 02 Sep 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>MoPub Overview</title>
-   <link>https://dev.twitter.com/docs/mopub-overview</link>
-   <description><![CDATA[What is MoPub? MoPub is a mobile ad serving platform. We help you monetize your apps more effectively. We offer a free, self-serve product that lets you get started with ad serving quickly while offering sophisticated features that you will need as you grow. With streamlined campaign management,...]]></description>
    <pubDate>Tue, 02 Sep 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
