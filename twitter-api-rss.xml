@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sun, 07 Sep 2014 10:45:03 +0200</pubDate>
+  <pubDate>Sun, 07 Sep 2014 11:00:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Forecasting for Direct Ads</title>
+   <link>https://dev.twitter.com/docs/forecasting-direct-ads</link>
+   <description><![CDATA[Overview of Forecasting MoPub’s Forecasting feature allows you to quickly evaluate available impressions based on the inventory that’s already been booked and sold. As shown below, Forecasting allows you to visualize available inventory, and see the value of each Guaranteed Line...]]></description>
+   <pubDate>Sun, 07 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Location and Keyword Data Passing</title>
+   <link>https://dev.twitter.com/docs/location-and-keyword-data-passing</link>
+   <description><![CDATA[Data passing allows for more relevant and targeted ad content to be displayed to the user. Currently MoPub is able to allow for location and keyword data to be passed. Location Passing Android will automatically pass over Latitude and Longitude coordinates if available Keywords Passing You can...]]></description>
+   <pubDate>Sun, 07 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>How To Integrate Facebook Audience Network Using Custom Events</title>
    <link>https://dev.twitter.com/docs/how-integrate-facebook-audience-network-using-custom-events-0</link>
@@ -112,18 +124,6 @@
    <title>Marketplace Content Filtering</title>
    <link>https://dev.twitter.com/docs/marketplace-content-filtering</link>
    <description><![CDATA[Publishers can customize the type of ads that are served in their apps and sites by using the Content Filtering controls. &nbsp;Publishers can set the filtering level from Strict, Moderate, Low and No Filtering. &nbsp;Lowering the content filtering usually results in stronger fill and higher CPMs....]]></description>
-   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Blocking Specific Creatives</title>
-   <link>https://dev.twitter.com/docs/blocking-specific-creatives</link>
-   <description><![CDATA[Individual creatives can be blocked on the ‘Creative Review’ Tab under the ‘Marketplace’ Tab. Check the specific creative you want to block and click the ‘Block/Unblock’ button. A drop down will show with the options Block Creative ID, Block Advertiser URL, Unblock Creative ID...]]></description>
-   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Ad Serving Sequence and CPM Values</title>
-   <link>https://dev.twitter.com/docs/ad-serving-sequence-and-cpm-values</link>
-   <description><![CDATA[Change CPMs and re-order the “waterfall” for a specific ad unit using the ‘Quick Edit’ function in the MoPub Dashboard tab. The ad unit waterfall is the sequence in which network ad sources are requested to fill each impression for a particular ad unit ID from within an application. Procedure:...]]></description>
    <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
