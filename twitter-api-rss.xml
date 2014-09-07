@@ -4,8 +4,38 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sun, 07 Sep 2014 04:45:03 +0200</pubDate>
+  <pubDate>Sun, 07 Sep 2014 08:45:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>How to Create a Direct Native Ads Campaign</title>
+   <link>https://dev.twitter.com/docs/how-create-direct-native-ads-campaign</link>
+   <description><![CDATA[Create an Ad Unit for your native ad &nbsp; Typically, you will create one Ad Unit per type of ad you&rsquo;d like to display in an app. For example, if you want to have a banner ad on one screen and a native ad in another, you&rsquo;d create an Ad Unit for each type. You can create a new &ldquo;...]]></description>
+   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Geo, Connectivity, and Device Targeting</title>
+   <link>https://dev.twitter.com/docs/geo-connectivity-and-device-targeting</link>
+   <description><![CDATA[When you create a new line item (and when editing line items) there are several targeting options available. Please note that you must always target an ad unit when creating a Line Item. &nbsp; County Targeting: Target your line item to a specific set of countries. By default, when the list is...]]></description>
+   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Editing an Order</title>
+   <link>https://dev.twitter.com/docs/editing-order</link>
+   <description><![CDATA[This page allows you to edit the Order description, export Order details, and monitor overall performance. This page allows you to pause, resume, archive, or create a Line Item. The ‘Show...]]></description>
+   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Advanced Targeting</title>
+   <link>https://dev.twitter.com/docs/advanced-targeting</link>
+   <description><![CDATA[When you create a new line item (and when editing line items) you have the ability to use ‘Advanced Targeting’. &nbsp; Allocation Percentage: Under ‘Advanced Targeting’ you can allocate the percentage of requests you are sending to the Line Item, frequency cap, user target and keyword target....]]></description>
+   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>Adding Creative to Line Items</title>
+   <link>https://dev.twitter.com/docs/adding-creative-line-items</link>
+   <description><![CDATA[&nbsp; After you have created your guaranteed, promotional or backfill promotional Line Items, MoPub will ask you to add creative. &nbsp;If at any time you would like to add an additional creative, simply click on ‘Add a Creative’ icon on the right hand side.&nbsp; &nbsp; To add a creative, first...]]></description>
+   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Marketplace Content Filtering</title>
    <link>https://dev.twitter.com/docs/marketplace-content-filtering</link>
@@ -95,36 +125,6 @@
    <link>https://dev.twitter.com/docs/editing-line-item</link>
    <description><![CDATA[This page allows you to take a detailed look at a specific Line Item.&nbsp; &nbsp; The overall Line Item can be edited by clicking &lsquo;Edit Line Item&rsquo;. &nbsp; Line Items can be paused, resumed, or archived. &nbsp; On this page, you can add creative by clicking on the &ldquo;...]]></description>
    <pubDate>Fri, 05 Sep 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>MRAID Vendor Tag Certification Process</title>
-   <link>https://dev.twitter.com/docs/mraid-vendor-tag-certification-process</link>
-   <description><![CDATA[MoPub MRAID Vendor Certification Process Guiding Principles: The MoPub SDK is built to be fully compliant with the IAB MRAID v1.0 specification Overview: Pre-Certification Questionnaire Tag Setup in MoPub UI MRAID Vendor Self Test MRAID Vendor Impression Test DSP Reporting Test...]]></description>
-   <pubDate>Fri, 05 Sep 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Huntmads Revenue Reporting</title>
-   <link>https://dev.twitter.com/docs/huntmads-revenue-reporting</link>
-   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for Huntmads, you will need to enter your Huntmads API Token on the network setup...]]></description>
-   <pubDate>Thu, 04 Sep 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Twitter | MoPub Server-to-Server API Technical Specifications 1.0</title>
-   <link>https://dev.twitter.com/docs/twitter-mopub-server-server-api-technical-specifications-10</link>
-   <description><![CDATA[Overview The MoPub Server-to-Server API makes it easier for ad networks and demand partners to connect with the MoPub platform outside of SDK libraries. To integrate with MoPub through the Server-to-Server API, follow the integration approval process and technical specifications...]]></description>
-   <pubDate>Thu, 04 Sep 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Ad Network Best Practices</title>
-   <link>https://dev.twitter.com/docs/ad-network-best-practices</link>
-   <description><![CDATA[Locking down iAD Ad Unit Sizes If the application is a universal application, there are some standard integration steps to help with resizing of the ad units, particularly when trying to lock down iAd ad sizes. By following the steps and using the code snippet below, you have...]]></description>
-   <pubDate>Wed, 03 Sep 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Setting Up MoPub Mobile Web Tags</title>
-   <link>https://dev.twitter.com/docs/setting-mopub-mobile-web-tags</link>
-   <description><![CDATA[MoPub supports a simple Javascript tag to integrate our ad serving technology into your mobile websites. Simply include the following tags, customized with your ad unit ID and creative size. Details Paste the following code snippet into your mobile webpage where you'd like to see ads appear:...]]></description>
-   <pubDate>Tue, 02 Sep 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
