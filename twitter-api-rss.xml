@@ -4,12 +4,18 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sun, 07 Sep 2014 11:00:03 +0200</pubDate>
+  <pubDate>Sun, 07 Sep 2014 11:15:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Reporting Categories and Metrics Descriptions</title>
+   <link>https://dev.twitter.com/docs/reporting-categories-and-metrics-descriptions</link>
+   <description><![CDATA[When running a report, you can report on six categories and include desired metrics. The following are categories on which you can report: App Ad Unit Priority Line Item Type Order Line Item Creative Month Week Day Hour Country OS iOS Device For example, if you wanted to report on a single Line...]]></description>
+   <pubDate>Sun, 07 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Forecasting for Direct Ads</title>
    <link>https://dev.twitter.com/docs/forecasting-direct-ads</link>
-   <description><![CDATA[Overview of Forecasting MoPub’s Forecasting feature allows you to quickly evaluate available impressions based on the inventory that’s already been booked and sold. As shown below, Forecasting allows you to visualize available inventory, and see the value of each Guaranteed Line...]]></description>
+   <description><![CDATA[Overview of Forecasting MoPub’s Forecasting feature allows you to quickly evaluate available impressions based on the inventory that’s already been booked and sold. As shown below, Forecasting allows you to visualize available inventory, and see the value of each Guaranteed Line Item. This...]]></description>
    <pubDate>Sun, 07 Sep 2014 00:00:00 +0200</pubDate>
   </item>
   <item>
@@ -118,12 +124,6 @@
    <title>Adding Creative to Line Items</title>
    <link>https://dev.twitter.com/docs/adding-creative-line-items</link>
    <description><![CDATA[&nbsp; After you have created your guaranteed, promotional or backfill promotional Line Items, MoPub will ask you to add creative. &nbsp;If at any time you would like to add an additional creative, simply click on ‘Add a Creative’ icon on the right hand side.&nbsp; &nbsp; To add a creative, first...]]></description>
-   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Marketplace Content Filtering</title>
-   <link>https://dev.twitter.com/docs/marketplace-content-filtering</link>
-   <description><![CDATA[Publishers can customize the type of ads that are served in their apps and sites by using the Content Filtering controls. &nbsp;Publishers can set the filtering level from Strict, Moderate, Low and No Filtering. &nbsp;Lowering the content filtering usually results in stronger fill and higher CPMs....]]></description>
    <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
