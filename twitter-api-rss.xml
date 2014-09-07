@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sun, 07 Sep 2014 08:45:03 +0200</pubDate>
+  <pubDate>Sun, 07 Sep 2014 09:00:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Integer Priority Levels</title>
+   <link>https://dev.twitter.com/docs/integer-priority-levels</link>
+   <description><![CDATA[Integer Priority Levels enables publishers to assign priority levels to line items in their waterfall independent of the Line Item Type. Line Item Type and Priority are now independent from each other. How are Line Items Prioritized Using Integer Priority Levels...]]></description>
+   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>How to Create a Direct Native Ads Campaign</title>
    <link>https://dev.twitter.com/docs/how-create-direct-native-ads-campaign</link>
@@ -118,12 +124,6 @@
    <title>MoPub Technical Integration</title>
    <link>https://dev.twitter.com/docs/mopub-technical-integration</link>
    <description><![CDATA[Here you can find more information on how to work with various networks by creating Custom Event classes. You will also find technical integration and support guides. If you have a specific issue that is not addressed here, please feel free to post a topic in our Discussion Forum or contact...]]></description>
-   <pubDate>Fri, 05 Sep 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Editing a Line Item</title>
-   <link>https://dev.twitter.com/docs/editing-line-item</link>
-   <description><![CDATA[This page allows you to take a detailed look at a specific Line Item.&nbsp; &nbsp; The overall Line Item can be edited by clicking &lsquo;Edit Line Item&rsquo;. &nbsp; Line Items can be paused, resumed, or archived. &nbsp; On this page, you can add creative by clicking on the &ldquo;...]]></description>
    <pubDate>Fri, 05 Sep 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
