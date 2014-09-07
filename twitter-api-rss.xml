@@ -4,8 +4,20 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sun, 07 Sep 2014 04:00:02 +0200</pubDate>
+  <pubDate>Sun, 07 Sep 2014 04:15:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Mobile Web Ad Network Support</title>
+   <link>https://dev.twitter.com/docs/mobile-web-ad-network-support</link>
+   <description><![CDATA[Please note that Mobile Web does not support any Native Networks]]></description>
+   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
+  <item>
+   <title>LifeStreet Revenue Reporting</title>
+   <link>https://dev.twitter.com/docs/lifestreet-revenue-reporting</link>
+   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for LifeStreet, you will need to enter your LifeStreet username, password, and set your...]]></description>
+   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>JumpTap Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/jumptap-revenue-reporting</link>
@@ -113,18 +125,6 @@
    <link>https://dev.twitter.com/docs/mojiva-revenue-reporting</link>
    <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for Mojiva, you will need to enter your private key on the networks set up page...]]></description>
    <pubDate>Tue, 02 Sep 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Understanding UTC Time (Time Zones)</title>
-   <link>https://dev.twitter.com/docs/understanding-utc-time-time-zones</link>
-   <description><![CDATA[How to read charts in UTC In a chart, each bar in your MoPub interface represents 1 day in UTC time. For example, if you are in Pacific time and looking at yesterday&rsquo;s data, that represents data starting from 5:00 PM PDT 2 days before until 4:59 PM PDT yesterday. Stated otherwise, it...]]></description>
-   <pubDate>Fri, 29 Aug 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>JavaScript Interfaces for Twitter for Websites</title>
-   <link>https://dev.twitter.com/docs/tfw-javascript</link>
-   <description><![CDATA[By using Twitter JavaScript, you agree to the Developer Rules of the Road. If you're integrating your site with Twitter using Twitter for Websites and Web Intents, you can enhance your application using JavaScript. By default, widgets-js will find mark-up in a page and convert basic, functional...]]></description>
-   <pubDate>Thu, 28 Aug 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
