@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sun, 07 Sep 2014 09:45:03 +0200</pubDate>
+  <pubDate>Sun, 07 Sep 2014 10:00:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>AdMarvel Integration</title>
+   <link>https://dev.twitter.com/docs/admarvel-integration</link>
+   <description><![CDATA[When using the AdMarvel SDK, passing IFA and AndroidID can dramatically affect Marketplace performance. For iOS: AdMarvel SDK version 3.0.1 or higher is required to pass IDFA and&nbsp;work correctly with Marketplace. For Android: All versions of the AdMarvel SDK pass AndroidID and are&nbsp;...]]></description>
+   <pubDate>Sun, 07 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Setting Up Conversion Tracking</title>
    <link>https://dev.twitter.com/docs/setting-conversion-tracking</link>
@@ -118,12 +124,6 @@
    <title>JumpTap Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/jumptap-revenue-reporting</link>
    <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for Jumptap, you will need to enter your Jumptap username, password, and set your...]]></description>
-   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Issues with AdMob &amp; Proguard</title>
-   <link>https://dev.twitter.com/docs/issues-admob-proguard</link>
-   <description><![CDATA[&nbsp; If you are using Proguard and the Admob the adapter is included but the AdMob SDK is getting stripped out, then when a call is made to that ad network, an application error will occur. &nbsp; In your configuration file of proguard (proguard.cfg), simply add this line: # AdMob Support -keep...]]></description>
    <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
