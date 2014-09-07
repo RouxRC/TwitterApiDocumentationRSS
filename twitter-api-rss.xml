@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sun, 07 Sep 2014 10:00:02 +0200</pubDate>
+  <pubDate>Sun, 07 Sep 2014 10:15:02 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Technical Integration FAQ</title>
+   <link>https://dev.twitter.com/docs/technical-integration-faq</link>
+   <description><![CDATA[I’m testing my ad unit and nothing is happening. Why? At the moment, ad units that aren't receiving ad requests from live traffic get removed from our ad servers periodically. When the ad unit starts receiving traffic again, the information gets loaded on those machines and there's a short delay...]]></description>
+   <pubDate>Sun, 07 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>AdMarvel Integration</title>
    <link>https://dev.twitter.com/docs/admarvel-integration</link>
@@ -118,12 +124,6 @@
    <title>LifeStreet Revenue Reporting</title>
    <link>https://dev.twitter.com/docs/lifestreet-revenue-reporting</link>
    <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for LifeStreet, you will need to enter your LifeStreet username, password, and set your...]]></description>
-   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>JumpTap Revenue Reporting</title>
-   <link>https://dev.twitter.com/docs/jumptap-revenue-reporting</link>
-   <description><![CDATA[Ad network revenue reporting allows you to view important metrics from your networks directly in MoPub. Learn more about ad network revenue reporting here. In order to set up ad network revenue reporting for Jumptap, you will need to enter your Jumptap username, password, and set your...]]></description>
    <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
