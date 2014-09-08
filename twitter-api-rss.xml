@@ -4,8 +4,14 @@
   <title>Twitter API Recently Updated Documentation</title>
   <link>https://dev.twitter.com/docs/recent</link>
   <description>Twitter API Recently Updated Documentation</description>
-  <pubDate>Sun, 07 Sep 2014 20:15:02 +0200</pubDate>
+  <pubDate>Mon, 08 Sep 2014 10:30:03 +0200</pubDate>
   <generator>RouxRC</generator>
+  <item>
+   <title>Refresh Rates</title>
+   <link>https://dev.twitter.com/docs/refresh-rates</link>
+   <description><![CDATA[When you create an ad unit, you will need to set the refresh rate. The refresh rate is the number of seconds until the next ad unit displays. For example, if you set a refresh rate of 30 seconds, the second ad unit will display 30 seconds later...]]></description>
+   <pubDate>Mon, 08 Sep 2014 00:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Reporting Categories and Metrics Descriptions</title>
    <link>https://dev.twitter.com/docs/reporting-categories-and-metrics-descriptions</link>
@@ -118,12 +124,6 @@
    <title>Advanced Targeting</title>
    <link>https://dev.twitter.com/docs/advanced-targeting</link>
    <description><![CDATA[When you create a new line item (and when editing line items) you have the ability to use ‘Advanced Targeting’. &nbsp; Allocation Percentage: Under ‘Advanced Targeting’ you can allocate the percentage of requests you are sending to the Line Item, frequency cap, user target and keyword target....]]></description>
-   <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Adding Creative to Line Items</title>
-   <link>https://dev.twitter.com/docs/adding-creative-line-items</link>
-   <description><![CDATA[&nbsp; After you have created your guaranteed, promotional or backfill promotional Line Items, MoPub will ask you to add creative. &nbsp;If at any time you would like to add an additional creative, simply click on ‘Add a Creative’ icon on the right hand side.&nbsp; &nbsp; To add a creative, first...]]></description>
    <pubDate>Sat, 06 Sep 2014 00:00:00 +0200</pubDate>
   </item>
  </channel>
